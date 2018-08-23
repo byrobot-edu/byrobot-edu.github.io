@@ -99,5 +99,21 @@
 
 <font color="red">※ 색상 겹침을 이용하여 특정 색상을 만들고 싶다면 LED를 끄지 않고 사용합니다.</font>
 
+
 <br>
 
+---
+
+<h3>바이블럭으로 코딩해요</h3>
+
+ 1. [Lesson 1. 페트론 V2와 바이블럭이 만났어요](lesson1)
+ 2. [Lesson 2. 페트론 V2와 인사해요](lesson2)
+ 3. **Lesson 3. 페트론 V2로 음악을 연주해요**
+
+<br>
+
+[Index](../index.md)
+
+---
+
+Modified : 2018.8.23
