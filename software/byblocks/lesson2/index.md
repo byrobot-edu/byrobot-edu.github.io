@@ -40,7 +40,7 @@
         </tr>
         <tr>
             <td>
-                <div align="center">
+                <div align="left">
                     1. 이륙/착륙<br>
                     2. 상승/하강<br>
                     3. 전진/후진<br>
@@ -87,7 +87,7 @@
                 </div>
             </td>
             <td>
-                <div align="center">
+                <div align="left">
                     코드를 실행합니다. 시작 블록의 바로 다음 블록부터 순차적으로 실행됩니다.<br>
                     <font color="red">※ 코드 처음에 시작 블록이 없으면 코드는 실행되지 않습니다.</font>
                 </div>
@@ -101,7 +101,7 @@
                 </div>
             </td>
             <td>
-                <div align="center">
+                <div align="left">
                     페트론 V2가 이륙합니다. 약 60cm 높이까지 이륙 후 호버링합니다.<br>
                     <font color="red">※ 배터리 잔량과 드론의 상태에 따라 이륙하는 높이는 차이가 날 수 있습니다.</font>
                 </div>
@@ -115,7 +115,7 @@
                 </div>
             </td>
             <td>
-                <div align="center">
+                <div align="left">
                     현재 상태를 설정한 시간 동안 유지합니다. 시간은 0.01초 단위로 입력 가능합니다. 약 60cm 높이까지 상승하여 이륙을 완료하기 위해서는 약 5초의 시간이 필요합니다. 5초 기다리기 블록을 사용하여 이륙 완료 후, 다음 동작이 수행될 수 있도록 합니다.<br>
                     <font color="red">※ 숫자 블록을 터치하면 숫자 입력이 가능합니다.</font>
                 </div>
@@ -129,7 +129,7 @@
                 </div>
             </td>
             <td>
-                <div align="center">
+                <div align="left">
                     페트론 V2가 착륙합니다. 블록이 실행되면 현재 위치에서 착륙합니다. 드론에 충격을 줄 수 있으므로 착륙은 50cm 정도 높이에서 실행합니다.
                 </div>
             </td>
@@ -158,7 +158,7 @@
                 </div>
             </td>
             <td>
-                <div align="center">
+                <div align="left">
                     잠깐! 바이블럭 코드를 실행하기 전에 한 번 더 확인해봐요!<br>
                     1. 드론과의 안전거리(3m 이상)를 확보합니다.<br>
                     2. 드론 주변에 사람이나 장애물이 없는지 확인합니다.<br>
