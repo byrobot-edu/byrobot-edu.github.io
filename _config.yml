@@ -23,8 +23,8 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: BYROBOT
-description: "BYROBOT Education."
+title: BYROBOT.EDU
+description: "BYROBOT.EDU"
 keywords: 'Drone,DroneFighters,Petrone,PetroneV2'
 author:
   name:
@@ -43,7 +43,7 @@ author:
 blog:
   cc_license: https://creativecommons.org/licenses/by-sa/4.0/
   cc_license_image: /assets/images/theme/cc-by-sa.png
-  footer_content: BYROBOT Education.
+  footer_content: BYROBOT.EDU
 
 disqus:
   shortname:
@@ -53,6 +53,7 @@ addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/
 
 paths:
   home: /
+  software: /
   repository: /repository/
   download: /download/
   forum: /forum/
