@@ -1,4 +1,4 @@
-### BYROBOT Edu.
+### BYROBOT.EDU Software
 
 ---
 
@@ -30,7 +30,7 @@
             <td><div align="center">Byblock Tutorial</div></td>
             <td><div align="center">-</div></td>
             <td><div align="center">-</div></td>
-            <td><div align="center"><a href="/software/byblocks/">한국어</a></div></td>
+            <td><div align="center"><a href="/software/byblocks/">바이블럭으로 코딩해요</a></div></td>
         </tr>
     </table>
 </div>
