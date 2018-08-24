@@ -176,6 +176,195 @@
 
 드론이 어떻게 비행하나요? 자신이 만든 코드 순서대로 드론이 잘 비행한다면 성공한 것입니다. 그럼 다음 비행들도 코드를 만들어서 실행해볼까요?
 
+<br>
+
+<h2>2. 상승/하강</h2>
+
+<div align="center">
+    <img src="images/image18.png" alt="상승/하강 예제 코드">
+</div>
+
+<br>
+
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image19.png"><br>
+                    상승(지정시간) 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    페트론 V2가 상승합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 전진합니다.<br>
+                    <font color="red">※ 입력한 시간 동안 상승한 후 다음 블록이 실행됩니다.</font>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image20.png"><br>
+                    하강(지정시간) 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    페트론 V2가 하강합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 후진합니다.<br>
+                    <font color="red">※ 입력한 시간 동안 하강한 후 다음 블록이 실행됩니다.</font>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image21.png"><br>
+                    기다리기 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    바이블럭에서 코드를 실행하고 블록 명령이 페트론 V2에 잘 전달되려면 시간이 필요합니다(Delay time). 그래서 이와 같이 특정 동작을 수행하는 블록 다음에는 꼭 기다리기 블록을 사용하여 명령이 잘 전달될 수 있도록 해줍니다.<br>
+                    <font color="red">※ 숫자 블록을 터치하면 숫자 입력이 가능합니다.</font>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br>
+
+<h2>3. 전진/후진</h2>
+
+<div align="center">
+    <img src="images/image22.png" alt="전진/후진 예제 코드">
+</div>
+
+<br>
+
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image23.png"><br>
+                    전진(지정시간) 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    페트론 V2가 전진합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 전진합니다.<br>
+                    <font color="red">※ 입력한 시간 동안 전진한 후 다음 블록이 실행됩니다.</font>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image24.png"><br>
+                    후진(지정시간) 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    페트론 V2가 후진합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 후진합니다.<br>
+                    <font color="red">※ 입력한 시간 동안 후진한 후 다음 블록이 실행됩니다.</font>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br>
+
+<h2>4. 좌/우 이동</h2>
+
+<div align="center">
+    <img src="images/image25.png" alt="좌/우 이동 예제 코드">
+</div>
+
+<br>
+
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image26.png"><br>
+                    좌 이동(지정시간) 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    페트론 V2가 좌(왼쪽)로 이동합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 좌로 이동합니다.<br>
+                    <font color="red">※ 입력한 시간 동안 좌로 이동한 후 다음 블록이 실행됩니다.</font>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image27.png"><br>
+                    우 이동(지정시간) 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    페트론 V2가 우(오른쪽)로 이동합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 우로 이동합니다.<br>
+                    <font color="red">※ 입력한 시간 동안 우로 이동한 후 다음 블록이 실행됩니다.</font>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br>
+
+<h2>5. 좌/우 회전</h2>
+
+<div align="center">
+    <img src="images/image28.png" alt="좌/우 회전 예제 코드">
+</div>
+
+<br>
+
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image29.png"><br>
+                    좌 회전(지정시간) 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    페트론 V2가 좌(왼쪽)로 회전합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 좌로 회전합니다.<br>
+                    <font color="red">※ 입력한 시간 동안 좌로 회전한 후 다음 블록이 실행됩니다.</font>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image30.png"><br>
+                    우 이동(지정시간) 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    페트론 V2가 우(오른쪽)로 회전합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 우로 회전합니다.<br>
+                    <font color="red">※ 입력한 시간 동안 우로 회전한 후 다음 블록이 실행됩니다.</font>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
 
 <br>
 
@@ -211,8 +400,12 @@
 
  1. [페트론 V2와 바이블럭이 만났어요](../lesson1)
  2. **페트론 V2와 인사해요**
- 3. [페트론 V2로 음악을 연주해요](../lesson3)
-
+ 3. 페트론 V2로 음악을 연주해요 - 준비중
+ 4. 페트론 V2로 사각형을 그려보아요 - 준비중
+ 5. 페트론 V2로 계단을 오르락내리락 해요 - 준비중
+ 6. 페트론 V2를 원하는 높이로 상승시켜 보아요 - 준비중
+ 7. 페트론 V2를 손바닥 위에 착륙시켜 보아요 - 준비중
+ 8. 페트론 V2를 버튼으로 이륙/착륙시켜 보아요 - 준비중
 ---
 
-Modified : 2018.8.23
+Modified : 2018.8.24
