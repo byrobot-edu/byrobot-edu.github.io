@@ -31,7 +31,7 @@ en: &en
   tags: 'Tags'
   view: 'View'
   
-ko: &ko
+ko-kr:
   about: 'About'
   articles: 'Articles'
   back_to_top: 'Back to Top'
