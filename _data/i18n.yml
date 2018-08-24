@@ -38,7 +38,7 @@ ko:
   categories: '카테고리'
   close: '닫기'
   copyright: '<p><small>Theme <a href="https://github.com/yizeng/jekyll-theme-simple-texture" target="_blank">Simple Texture</a> developed by <a href="http://yizeng.me" target="_blank">Yi Zeng</a>, powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.</small></p>'
-  last_updated: '최종 업데이트''
+  last_updated: '최종 업데이트'
   menu: '메뉴'
   more: 'More'
   next_post: 'Next Post'
@@ -61,7 +61,7 @@ ko:
   repository: 'Repository'
   download: '다운로드'
   forum: '포럼'
-  tags: 'Tags'
+  tags: '태그'
   view: 'View'
 en-us:
   <<: *en
