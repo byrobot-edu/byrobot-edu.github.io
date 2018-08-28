@@ -81,7 +81,48 @@
     </table>
 </div>
 
+조종기 Buzzer를 재생할 수 있는 블록은 “Controller” 카테고리에 있습니다. 다음과 같이 2가지 종류의 블록이 있는데 여기서는 ①번 블록을 사용합니다.
 
+<div align="center">
+    <img src="images/image32.png" alt="음계블록">
+</div>
+
+①번 블록에서 영어 음계는 각각 다음 음을 나타냅니다.
+<br>
+<div align="center">
+    <table>
+        <tr>
+            <td>C</td>
+            <td>CS</td>
+            <td>D</td>
+            <td>DS</td>
+            <td>E</td>
+            <td>F</td>
+            <td>FS</td>
+            <td>G</td>
+            <td>GS</td>
+            <td>A</td>
+            <td>AS</td>
+            <td>B</td>
+        </tr>
+        <tr>
+            <td>도</td>
+            <td>도＃</td>
+            <td>레</td>
+            <td>레＃</td>
+            <td>미</td>
+            <td>파</td>
+            <td>파＃</td>
+            <td>솔</td>
+            <td>솔＃</td>
+            <td>라</td>
+            <td>라＃</td>
+            <td>시</td>
+        </tr>
+    </table>
+</div>
+<br>
+<h2> 2. 드론 LED 꾸며보기</h2>
 <br>
 
 ---

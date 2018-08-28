@@ -1,4 +1,4 @@
-### Download
+### 다운로드
 
 ---
 
@@ -37,27 +37,27 @@
         <tr>
             <td>
                 <div align="center">
-                    <a href="#Firmware">Firmware</a>
+                    <a href="#Firmware">펌웨어</a>
                 </div>
             </td>
             <td>
                 <div align="center">
-                    <a href="#ByScratch">ByScratch</a>
+                    <a href="#ByScratch">바이스크래치</a>
                 </div>
             </td>
             <td>
                 <div align="center">
-                    <a href="#Entry">Entry</a>
+                    <a href="#Entry">엔트리</a>
                 </div>
             </td>
             <td>
                 <div align="center">
-                    <a href="#DroneFighterSimulator">Drone Fighter Simulator</a>
+                    <a href="#DroneFighterSimulator">드론파이터 시뮬레이터</a>
                 </div>
             </td>
             <td>
                 <div align="center">
-                    <a href="#RacingPetrone">Racing Petrone</a>
+                    <a href="#RacingPetrone">레이싱 페트론</a>
                 </div>
             </td>
         </tr>
@@ -70,25 +70,25 @@
     <table>
         <tr>
             <td colspan="4">
-                <div align="center">Firmware</div>
+                <div align="center">펌웨어</div>
             </td>
         </tr>
         <tr>
             <td><div align="center"></div></td>
             <td>
                 <div align="center">
-                    DRONE FIGHTER
+                    드론파이터
                 </div>
             </td>
             <td>
                 <div align="center">
-                    PETRONE<br>
-                    PETRONE 2.0
+                    페트론<br>
+                    페트론 2.0
                 </div>
             </td>
             <td>
                 <div align="center">
-                    PETRONE V2
+                    페트론 V2
                 </div>
             </td>
         </tr>
@@ -112,7 +112,7 @@
         </tr>
         <tr>
             <td>
-                <div align="center">Version</div>
+                <div align="center">버전</div>
             </td>
             <td>
                 <div align="center">General Drone: 4.2<br>General Controller: 4.2<br>Education Drone: 1703<br>Education Controller: 1802</div>
@@ -126,7 +126,7 @@
         </tr>
         <tr>
             <td>
-                <div align="center">Driver</div>
+                <div align="center">드라이버</div>
             </td>
             <td>
                 <div align="center"><a href="https://drive.google.com/open?id=19bmT3b8a3nEqCXzXk88lMeO7gHxyGZuY" target="_blank">Win7, Win8</a></div>
@@ -143,7 +143,7 @@
         </tr>
         <tr>
             <td>
-                <div align="center">Download</div>
+                <div align="center">다운로드</div>
             </td>
             <td>
                 <div align="center"><a href="https://drive.google.com/open?id=1Iu085RiTYxA8CBpZ80ZGDym7qCj0ETyy" target="_blank">Windows</a></div>
@@ -160,7 +160,7 @@
         </tr>
         <tr>
             <td>
-                <div align="center">Manual</div>
+                <div align="center">매뉴얼</div>
             </td>
             <td><div align="center"><a href="http://dev.byrobot.co.kr/documents/kr/products/dronefighter2017/manual/update/" target="_blank">Manual</a></div></td>
             <td><div align="center"><a href="http://dev.byrobot.co.kr/documents/kr/products/petrone/manual/update/" target="_blank">Manual</a></div></td>
@@ -168,7 +168,7 @@
         </tr>
         <tr>
             <td>
-                <div align="center">Update Log</div>
+                <div align="center">업데이트 로그</div>
             </td>
             <td><div align="center"><a href="http://dev.byrobot.co.kr/documents/kr/products/dronefighter2017/log/updates/firmware/" target="_blank">Update log</a></div></td>
             <td><div align="center"><a href="http://dev.byrobot.co.kr/documents/kr/products/petrone/log/updates/firmware/" target="_blank">Update log</a></div></td>
@@ -184,7 +184,7 @@
         <tr>
             <td colspan="3">
                 <div align="center">
-                    ByScratch
+                    바이스크래치
                 </div>
             </td>
         </tr>
@@ -198,26 +198,26 @@
         <tr>
             <td>
                 <div align="center">
-                    Support
+                    지원
                 </div>
             </td>
             <td>
                 <div align="center">
                     <img src="/assets/images/products/drone_fighter_and_controller.jpg" alt="drone_fighter_and_controller" height="120" width="120"><br>
-                    DRONE FIGHTER EDU
+                    드론파이터 에듀
                 </div>
             </td>
             <td>
                 <div align="center">
                     <img src="/assets/images/products/petrone_v2_and_controller.jpg" alt="petrone_v2_and_controller" height="120" width="120"><br>
-                    PETRONE V2
+                    페트론 V2
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    Version
+                    버전
                 </div>
             </td>
             <td colspan="2">
@@ -249,7 +249,7 @@
         <tr>
             <td colspan="3">
                 <div align="center">
-                    Entry
+                    엔트리
                 </div>
             </td>
         </tr>
@@ -263,20 +263,20 @@
         <tr>
             <td>
                 <div align="center">
-                    Support
+                    지원
                 </div>
             </td>
             <td>
                 <div align="center">
                     <img src="/assets/images/products/drone_fighter_and_controller.jpg" alt="drone_fighter_and_controller" height="120" width="120"><br>
-                    DRONE FIGHTER EDU<br>
+                    드론파이터 에듀<br>
                     Windows
                 </div>
             </td>
             <td>
                 <div align="center">
                     <img src="/assets/images/products/petrone_v2_and_controller.jpg" alt="petrone_v2_and_controller" height="120" width="120"><br>
-                    PETRONE V2<br>
+                    페트론 V2<br>
                     Windows, MacOS
                 </div>
             </td>
@@ -284,7 +284,7 @@
         <tr>
             <td>
                 <div align="center">
-                    Download
+                    다운로드
                 </div>
             </td>
             <td colspan="2">
@@ -304,7 +304,7 @@
         <tr>
             <td colspan="2">
                 <div align="center">
-                    Drone Fighter Simulator
+                    드론파이터 시뮬레이터
                 </div>
             </td>
         </tr>
@@ -318,20 +318,20 @@
         <tr>
             <td>
                 <div align="center">
-                    Support
+                    지원
                 </div>
             </td>
             <td>
                 <div align="center">
                     <img src="/assets/images/products/drone_fighter_and_controller.jpg" alt="drone_fighter_and_controller" height="120" width="120"><br>
-                    DRONE FIGHTER
+                    드론파이터
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    Download
+                    다운로드
                 </div>
             </td>
             <td>
@@ -350,7 +350,7 @@
         <tr>
             <td colspan="3">
                 <div align="center">
-                    Racing Petrone
+                    레이싱 페트론
                 </div>
             </td>
         </tr>
@@ -364,26 +364,26 @@
         <tr>
             <td>
                 <div align="center">
-                    Support
+                    지원
                 </div>
             </td>
             <td>
                 <div align="center">
                     <img src="/assets/images/products/drone_fighter_and_controller.jpg" alt="drone_fighter_and_controller" height="120" width="120"><br>
-                    DRONE FIGHTER EDU
+                    드론파이터 에듀
                 </div>
             </td>
             <td>
                 <div align="center">
                     <img src="/assets/images/products/petrone_v2_and_controller.jpg" alt="petrone_v2_and_controller" height="120" width="120"><br>
-                    PETRONE V2
+                    페트론 V2
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    Version
+                    버전
                 </div>
             </td>
             <td colspan="2">
@@ -395,7 +395,7 @@
         <tr>
             <td>
                 <div align="center">
-                    Download
+                    다운로드
                 </div>
             </td>
             <td colspan="2">
@@ -412,4 +412,4 @@
 
 ---
 
-Modified : 2018.8.9
+Modified : 2018.8.28
