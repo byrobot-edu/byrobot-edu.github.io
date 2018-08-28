@@ -81,7 +81,8 @@
     </table>
 </div>
 
-조종기 Buzzer를 재생할 수 있는 블록은 “Controller” 카테고리에 있습니다. 다음과 같이 2가지 종류의 블록이 있는데 여기서는 ①번 블록을 사용합니다.
+조종기 Buzzer를 재생할 수 있는 블록은 “Controller” 카테고리에 있습니다. 
+다음과 같이 2가지 종류의 블록이 있는데 여기서는 ①번 블록을 사용합니다.
 
 <div align="center">
     <img src="images/image32.png" alt="음계블록">
@@ -123,6 +124,81 @@
 </div>
 <br>
 <h2> 2. 드론 LED 꾸며보기</h2>
+<br>
+드론이 눈과 팔 부분의 LED 색상을 다음과 같이 바꿔가며 비행하는 코드를 만들어봅니다. 드론의 LED 색상을 제어할 수 있는 블록은 “Color” 카테고리에 있습니다.
+
+1) 드론 이륙하기
+2) 눈과 팔 LED 모두 Red로 바꾸기
+3) 3초간 상승하기
+4) 눈과 팔 LED 모두 Blue로 바꾸기
+5) 좌로 회전하기
+6) 회전하면서 3초 뒤 눈과 팔 LED 모두 Green으로 바꾸기
+7) 3초 더 회전 후 회전 멈추기
+8) 눈 LED는 Red, 팔 LED는 Blue로 바꾸고 깜빡이기
+9) 3초간 하강하기
+10) 착륙하기
+
+<br>
+
+<div align="center">
+    <h1>[코딩 및 실행하기]</h1>
+</div>
+
+<br>
+
+<h2> 1. 조종기로 음악 연주하기</h2>
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image33.png"><br>
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image34.png"><br>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    코드 앞부분
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    코드 뒷부분
+                </div>
+            </td>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="center">
+    <table>
+        <tr>
+        설명
+        </tr>
+        <tr>
+                <div align="center">
+                    <img src="images/image35.png"><br>
+                </div>
+        </tr>
+        <tr>
+        조종기 버저(음계) 블록
+        </tr>
+        <tr>
+        조종기의 버저로 설정한 음계를 재생할 때 사용합니다. 음계와 옥타브(1~8단계)를 선택할 수 있고, 재생 시간을 입력할 수 있습니다. 재생이 완료 후에 다음 블록이 실행됩니다.
+        </tr>
+    </table>
+</div>
+
+코드를 실행합니다. 훌륭한 연주가 되었나요? 다른 듣고 싶은 노래들도 코딩하여 멋지게 연주해봐요.
+
 <br>
 
 ---
