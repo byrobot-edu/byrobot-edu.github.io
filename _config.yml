@@ -48,7 +48,7 @@ blog:
 disqus:
   shortname:
   public_key:
-google_analytics: UA-107907956-1
+google_analytics: UA-56528028-5
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/
 
 paths:
