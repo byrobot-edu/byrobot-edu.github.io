@@ -173,7 +173,6 @@
                     코드 뒷부분
                 </div>
             </td>
-            </td>
         </tr>
     </table>
 </div>
@@ -181,7 +180,9 @@
 <div align="center">
     <table>
         <tr>
+            <td>
         설명
+            </td>
         </tr>
         <tr>
                 <div align="center">
