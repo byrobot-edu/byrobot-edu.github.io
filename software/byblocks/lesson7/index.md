@@ -62,15 +62,7 @@
 <br>
 
 <div align="center">
-    <table>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image70.png"><br>
-                </div>
-            </td>
-        </tr>
-    </table>
+    <img src="images/image70.png"><br>
 </div>
 
 <div align="center">
