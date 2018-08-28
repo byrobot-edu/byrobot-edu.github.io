@@ -73,7 +73,7 @@
 <br>
 
 조종기의 왼쪽 빨간 버튼을 누르면 드론이 이륙하고, 오른쪽 빨간 버튼을 누르면 드론이 착륙합니다.
-
+<br>
 
 <div align="center">
     <table>
@@ -121,15 +121,7 @@
 <br>
 
 <div align="center">
-    <table>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image79.png"><br>
-                </div>
-            </td>
-        </tr>
-    </table>
+    <img src="images/image79.png"><br>
 </div>
 
 <div align="center">
