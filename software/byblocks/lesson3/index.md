@@ -174,17 +174,10 @@
                 </div>
             </td>
         </tr>
+    </table>
 </div>
 <div align="center">
-        <tr>
-            <td>
-                <div align="center">
-                <b>
-                    설명
-                </b>
-                </div>
-            </td>
-        </tr>
+    <table>
         <tr>
             <td>
                 <div align="center">
@@ -214,6 +207,58 @@
 <h2> 2. 드론 LED 꾸며보기</h2>
 
 <br>
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image36.png"><br>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    코드 앞부분
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image37.png"><br>
+                    드론 LED 끄기 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    드론의 모든 LED(눈과 팔 부분)를 끌 때 사용합니다. <br>
+                    LED를 끄지 않고 색상을 바꾸면 이전 색상과 색이 겹쳐지기 때문에 원하는 색상으로 바꿀 수 없습니다.<br>
+                    색상 겹침을 피하기 위해서는 꼭 LED를 먼저 끄고 색상을 변경합니다.
+                </div>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image38.png"><br>
+                    드론 LED 설정(RGB) 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    드론 눈/팔 부분 LED를 설정한 색상으로 켜고 끌 때 사용합니다. <br>
+                    색상은 Red, Green, Blue 중에서 선택 가능합니다.
+                </div>
+        </tr>
+    </table>
+</div>
+
 
 
 ---
