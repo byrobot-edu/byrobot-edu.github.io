@@ -185,17 +185,21 @@
             </td>
         </tr>
         <tr>
-                    <td>
+            <td>
                 <div align="center">
                     <img src="images/image35.png"><br>
                 </div>
             </td>
         </tr>
         <tr>
+            <td>
         조종기 버저(음계) 블록
+            </td>
         </tr>
         <tr>
+            <td>
         조종기의 버저로 설정한 음계를 재생할 때 사용합니다. 음계와 옥타브(1~8단계)를 선택할 수 있고, 재생 시간을 입력할 수 있습니다. 재생이 완료 후에 다음 블록이 실행됩니다.
+            </td>
         </tr>
     </table>
 </div>
