@@ -176,12 +176,15 @@
         </tr>
     </table>
 </div>
-<br>
 <div align="center">
     <table>
         <tr>
             <td>
-        설명
+                <div align="center">
+                <b>
+                    설명
+                </b>
+                </div>
             </td>
         </tr>
         <tr>
@@ -193,7 +196,9 @@
         </tr>
         <tr>
             <td>
-        조종기 버저(음계) 블록
+                <div align="center">
+                    조종기 버저(음계) 블록
+                </div>
             </td>
         </tr>
         <tr>
