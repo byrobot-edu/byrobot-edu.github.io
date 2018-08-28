@@ -176,7 +176,7 @@
         </tr>
     </table>
 </div>
-
+<br>
 <div align="center">
     <table>
         <tr>
@@ -185,9 +185,11 @@
             </td>
         </tr>
         <tr>
+                    <td>
                 <div align="center">
                     <img src="images/image35.png"><br>
                 </div>
+            </td>
         </tr>
         <tr>
         조종기 버저(음계) 블록
