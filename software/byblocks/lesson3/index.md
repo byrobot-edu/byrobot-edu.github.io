@@ -248,6 +248,7 @@
             <td>
                 <div align="center">
                     <img src="images/image38.png"><br>
+                    <img src="images/image39.png"><br>
                     드론 LED 설정(RGB) 블록
                 </div>
             </td>
@@ -260,8 +261,46 @@
         </tr>
     </table>
 </div>
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image40.png"><br>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    코드 뒷부분
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
 
-
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image41.png"><br>
+                    <img src="images/image42.png"><br>
+                    드론 LED 설정(색선택) 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    드론 눈/팔 부분 LED를 설정한 색상으로 켜고 끌 때 사용합니다. 
+                    색상은 여러 가지 색상 중에서 선택 가능합니다. 
+                    <font color="red">※ 의도보다 색상이 더 밝게 표현될 수 있습니다.</font>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+코드를 실행합니다. 드론의 LED 색상이 변하면서 비행하니까 더 멋있지 않나요? 좀 더 다양한 색상으로 드론을 예쁘게 꾸며봐요.
 
 ---
 
@@ -294,7 +333,12 @@
  1. [페트론 V2와 바이블럭이 만났어요](../lesson1)
  2. [페트론 V2와 인사해요](../lesson2)
  3. **페트론 V2로 음악을 연주해요**
+ 4. 페트론 V2로 사각형을 그려보아요 - 준비중
+ 5. 페트론 V2로 계단을 오르락내리락 해요 - 준비중
+ 6. 페트론 V2를 원하는 높이로 상승시켜 보아요 - 준비중
+ 7. 페트론 V2를 손바닥 위에 착륙시켜 보아요 - 준비중
+ 8. 페트론 V2를 버튼으로 이륙/착륙시켜 보아요 - 준비중
 
 ---
 
-Modified : 2018.8.23
+Modified : 2018.8.28
