@@ -61,7 +61,7 @@
         <tr>
             <td>
                 <div align="center">
-                    코드<br>
+                    <img src="images/image43.png"><br>코드
                 </div>
             </td>
         </tr>
@@ -75,19 +75,15 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image43.png"><br>
-                </div>
-            </td>
-        </tr>
-            <td>
-                <div align="center">
                     <img src="images/image44.png"><br>
                 </div>
             </td>
+        </tr>
         <tr>
+            <td>
                     ①번 위치에서 이륙한 후, ‘전진’ → ‘좌로 이동’ → ’후진’ → ’우로 이동’ 순서로 비행하여 다시 ①번 위치로 돌아오게 됩니다. 
                     드론이 계속 정면을 바라봐야하기 때문에 전, 후, 좌, 우 방향으로 드론을 이동시켜 사각형 모양을 완성합니다.
-        </td>
+            </td>
         </tr>
     </table>
 </div>
