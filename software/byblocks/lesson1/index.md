@@ -25,7 +25,7 @@
 3. 4차산업의 핵심 분야인 코딩과 드론을 접목하여 STEAM 교육에 필요한 통합&융합적 사고력을 기를 수 있습니다. 
 4. 다가올 미래 사회에 꼭 필요한 창의융합형 인재의 역량을 키울 수 있습니다.
 
-※ 바이블럭은 현재 페트론 V2를 지원하고 있고, 지원되는 드론은 계속 업데이트될 예정입니다.
+<font color="red"><b>※ 바이블럭은 현재 페트론 V2를 지원하고 있고, 지원되는 드론은 계속 업데이트될 예정입니다.</b></font>
 
 
 <br>
@@ -54,20 +54,20 @@
 <br>
 
 <div align="center">
-    (앱 설치된 스마트폰 화면)
+    <img src="images/image1-1.png" alt="바이블럭 애플리케이션 설치 화면">
+    (바이블럭 설치 화면)
 </div>
 
 <br>
 
 <div align="center">
-    <img src="images/image1.png" alt="바이블럭 실행화면">
+    <img src="images/image1-2.png" alt="바이블럭 실행화면">
+    (바이블럭 실행 화면)
 </div>
 
 <br>
 
-<div align="center">
-    (바이블럭 지원 사양)
-</div>
+<font color="red"><b>※ 바이블럭 지원 사양 : 안드로이드 OS 버전 4.4 이상</b></font>
 
 
 <br>
