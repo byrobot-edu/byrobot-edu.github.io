@@ -55,6 +55,7 @@
 
 <div align="center">
     <img src="images/image1-1.png" alt="바이블럭 애플리케이션 설치 화면">
+    <br>
     (바이블럭 설치 화면)
 </div>
 
@@ -62,6 +63,7 @@
 
 <div align="center">
     <img src="images/image1-2.png" alt="바이블럭 실행화면">
+    <br>
     (바이블럭 실행 화면)
 </div>
 
