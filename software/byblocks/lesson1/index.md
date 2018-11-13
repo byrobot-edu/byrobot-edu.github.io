@@ -62,15 +62,16 @@
 <br>
 
 <div align="center">
-    <img src="images/image1-2.png" alt="바이블럭 실행화면">
+    <img src="images/image1-2(2).png" alt="바이블럭 실행화면">
     <br>
     (바이블럭 실행 화면)
 </div>
 
 <br>
 
+<div align="center">
 <font color="red"><b>※ 바이블럭 지원 사양 : 안드로이드 OS 버전 4.4 이상</b></font>
-
+</div>
 
 <br>
 <br>
@@ -115,7 +116,7 @@
 <h3>1) 화면 구성 및 각 화면 영역별 사용법</h3>
 
 <div align="center">
-    <img src="images/image3.png" alt="화면 영역">
+    <img src="images/image3(2).png" alt="화면 영역">
 </div>
 
 <br>
@@ -124,7 +125,7 @@
 - 바이블럭 버전 정보와 코드 관련 버튼들이 있습니다.
 
 <div align="center">
-    <img src="images/image4.png" alt="조종기와 연결">
+    <img src="images/image4(2).png" alt="조종기와 연결">
 </div>
 
 <br>
@@ -133,9 +134,9 @@
 - 바이블럭에서 사용하는 블록들이 카테고리별로 구분되어 있고, 블록을 가져올 수 있습니다.
 
 <div align="center">
-    <img src="images/image5.png" alt="블록 영역 1">
+    <img src="images/image5(2).png" alt="블록 영역 1">
     <br>
-    <img src="images/image6.png" alt="블록 영역 2">
+    <img src="images/image6(2).png" alt="블록 영역 2">
 </div>
 
 <br>
