@@ -61,7 +61,7 @@
             <td>
                 <div align="center">
                     코드<br>
-                    <img src="images/image43.png">
+                    <img src="images/image43(2).png">
                 </div>
             </td>
         </tr>
@@ -100,7 +100,7 @@
             <td>
                 <div align="center">
                     코드<br>
-                    <img src="images/image45.png">
+                    <img src="images/image45(2).png">
                 </div>
             </td>
         </tr>
@@ -176,7 +176,7 @@
             <td>
                 <div align="center">
                     코드<br>
-                    <img src="images/image48.png">
+                    <img src="images/image48(2).png">
                 </div>
             </td>
         </tr>
