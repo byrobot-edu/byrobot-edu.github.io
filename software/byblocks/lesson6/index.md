@@ -149,7 +149,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image66.png"><br>
+                    <img src="images/image66(2).png"><br>
                 </div>
             </td>
         </tr>
@@ -168,7 +168,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image67.png"><br>
+                    <img src="images/image67(2).png"><br>
                     반복문(조건) 블록
                 </div>
             </td>
@@ -182,22 +182,22 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image68.png"><br>
+                    <img src="images/image68(2).png"><br>
                     비교 연산자 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    조건문의 조건으로, Distance(바닥까지 거리) 값이 1.5m 이상이 되는지를 확인합니다. 무한 반복문 안에서 바닥까지 거리 값을 지속적으로 확인하여 1.5m 미만이면 드론을 상승시키고, 1.5m 이상이 되면 상승을 멈추고 무한 반복문을 빠져나갑니다.<br>
-                    <font color="red">※ Distance(거리 센서) 값의 단위는 m(미터)입니다.<br>
-                    ※ 비교 연산자 블록은 “Math” 카테고리에 있습니다. </font>
+                    조건문의 조건으로, 바닥까지 거리 값이 1.5m 이상이 되는지를 확인합니다. 무한 반복문 안에서 바닥까지 거리 값을 지속적으로 확인하여 1.5m 미만이면 드론을 상승시키고, 1.5m 이상이 되면 상승을 멈추고 무한 반복문을 빠져나갑니다.<br>
+                    <font color="red">※ 바닥까지 거리(거리 센서) 값의 단위는 m(미터)입니다.<br>
+                    ※ 비교 연산자 블록은 “수학” 카테고리에 있습니다. </font>
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image69.png"><br>
+                    <img src="images/image69(2).png"><br>
                     반복 중단 블록
                 </div>
             </td>
