@@ -116,7 +116,7 @@
 <h3>1) 화면 구성 및 각 화면 영역별 사용법</h3>
 
 <div align="center">
-    <img src="images/image3.png" alt="화면 영역">
+    <img src="images/image3(2).png" alt="화면 영역">
 </div>
 
 <br>
@@ -125,7 +125,7 @@
 - 바이블럭 버전 정보와 코드 관련 버튼들이 있습니다.
 
 <div align="center">
-    <img src="images/image4.png" alt="조종기와 연결">
+    <img src="images/image4(2).png" alt="조종기와 연결">
 </div>
 
 <br>
@@ -134,9 +134,9 @@
 - 바이블럭에서 사용하는 블록들이 카테고리별로 구분되어 있고, 블록을 가져올 수 있습니다.
 
 <div align="center">
-    <img src="images/image5.png" alt="블록 영역 1">
+    <img src="images/image5(2).png" alt="블록 영역 1">
     <br>
-    <img src="images/image6.png" alt="블록 영역 2">
+    <img src="images/image6(2).png" alt="블록 영역 2">
 </div>
 
 <br>
@@ -145,9 +145,9 @@
 - 블록을 조립하여 코드를 만드는 공간입니다.
 
 <div align="center">
-    <img src="images/image7.png" alt="코딩 영역 1">
+    <img src="images/image7(2).png" alt="코딩 영역 1">
     <br>
-    <img src="images/image8.png" alt="코딩 영역 2">
+    <img src="images/image8(2).png" alt="코딩 영역 2">
 </div>
 
 <br>
@@ -156,7 +156,7 @@
 - 드론의 모든 센서들의 값들을 실시간으로 확인할 수 있습니다. (OPEN/CLOSE 버튼을 터치하여 창 펼치기/숨기기 가능)
 
 <div align="center">
-    <img src="images/image9.png" alt="상태 표시창 영역">
+    <img src="images/image9(2).png" alt="상태 표시창 영역">
 </div>
 
 
@@ -165,7 +165,7 @@
 
 <h3> 2) 코드 실행방법</h3>
 <div align="center">
-    <img src="images/image9.png" alt="조종기와 연결">
+    <img src="images/image10(2).png" alt="조종기와 연결">
 </div>
 
 <br>
