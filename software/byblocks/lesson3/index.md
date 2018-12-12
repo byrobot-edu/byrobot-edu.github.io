@@ -81,11 +81,11 @@
     </table>
 </div>
 
-조종기 Buzzer를 재생할 수 있는 블록은 “Controller” 카테고리에 있습니다. <br>
+조종기 Buzzer를 재생할 수 있는 블록은 “컨트롤러” 카테고리에 있습니다. <br>
 다음과 같이 2가지 종류의 블록이 있는데 여기서는 ①번 블록을 사용합니다.
 
 <div align="center">
-    <img src="images/image32.png" alt="음계블록">
+    <img src="images/image32(2).png" alt="음계블록">
 </div>
 
 ①번 블록에서 영어 음계는 각각 다음 음을 나타냅니다.
@@ -125,16 +125,16 @@
 <br>
 <h2> 2. 드론 LED 꾸며보기</h2>
 <br>
-드론이 눈과 팔 부분의 LED 색상을 다음과 같이 바꿔가며 비행하는 코드를 만들어봅니다.<br> 드론의 LED 색상을 제어할 수 있는 블록은 “Color” 카테고리에 있습니다.
+드론이 눈과 팔 부분의 LED 색상을 다음과 같이 바꿔가며 비행하는 코드를 만들어봅니다.<br> 드론의 LED 색상을 제어할 수 있는 블록은 “색상” 카테고리에 있습니다.
 
 1) 드론 이륙하기<br>
-2) 눈과 팔 LED 모두 Red로 바꾸기<br>
+2) 눈과 팔 LED 모두 빨강으로 바꾸기<br>
 3) 3초간 상승하기<br>
-4) 눈과 팔 LED 모두 Blue로 바꾸기<br>
+4) 눈과 팔 LED 모두 파랑으로 바꾸기<br>
 5) 좌로 회전하기<br>
-6) 회전하면서 3초 뒤 눈과 팔 LED 모두 Green으로 바꾸기<br>
+6) 회전하면서 3초 뒤 눈과 팔 LED 모두 초록으로 바꾸기<br>
 7) 3초 더 회전 후 회전 멈추기<br>
-8) 눈 LED는 Red, 팔 LED는 Blue로 바꾸고 깜빡이기<br>
+8) 눈 LED는 빨강, 팔 LED는 파랑으로 바꾸고 깜빡이기<br>
 9) 3초간 하강하기<br>
 10) 착륙하기<br>
 
@@ -155,12 +155,12 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image33.png"><br>
+                    <img src="images/image33(2).png"><br>
                 </div>
             </td>
             <td>
                 <div align="center">
-                    <img src="images/image34.png"><br>
+                    <img src="images/image34(2).png"><br>
                 </div>
             </td>
         </tr>
@@ -183,7 +183,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image35.png"><br>
+                    <img src="images/image35(2).png"><br>
                 </div>
             </td>
         </tr>
@@ -215,7 +215,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image36.png"><br>
+                    <img src="images/image36(2).png"><br>
                 </div>
             </td>
         </tr>
@@ -234,7 +234,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image37.png"><br>
+                    <img src="images/image37(2).png"><br>
                     드론 LED 끄기 블록
                 </div>
             </td>
@@ -249,14 +249,13 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image38.png"><br>
-                    <img src="images/image39.png"><br>
+                    <img src="images/image38(2).png"><br>
                     드론 LED 설정(RGB) 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    드론 눈/팔 부분 LED를 설정한 색상으로 켜고 끌 때 사용합니다.
+                    드론 눈/팔/눈+팔 부분 LED를 설정한 색상으로 켜고 끌 때 사용합니다.
                     색상은 Red, Green, Blue 중에서 선택 가능합니다.
                 </div>
             </td>
@@ -268,7 +267,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image40.png"><br>
+                    <img src="images/image40(2).png"><br>
                 </div>
             </td>
         </tr>
@@ -287,14 +286,13 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image41.png"><br>
-                    <img src="images/image42.png"><br>
+                    <img src="images/image41(2).png"><br>
                     드론 LED 설정(색선택) 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    드론 눈/팔 부분 LED를 설정한 색상으로 켜고 끌 때 사용합니다. 
+                    드론 눈/팔/눈+팔 부분 LED를 설정한 색상으로 켜고 끌 때 사용합니다. 
                     색상은 여러 가지 색상 중에서 선택 가능합니다. 
                     <font color="red">※ 의도보다 색상이 더 밝게 표현될 수 있습니다.</font>
                 </div>
