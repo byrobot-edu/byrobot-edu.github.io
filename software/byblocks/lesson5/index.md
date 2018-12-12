@@ -120,15 +120,15 @@
 <br>
 
 <div align="center">
-    <img src="images/image52.png">
+    <img src="images/image52(2).png">
 </div>
 <br>
 <div align="center">
-    <img src="images/image53.png">
+    <img src="images/image53(2).png">
 </div>
 <br>
 <div align="center">
-    <img src="images/image54.png">
+    <img src="images/image54(2).png">
 </div>
 
 <br>
@@ -142,7 +142,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image55.png"><br>
+                    <img src="images/image55(2).png"><br>
                 </div>
             </td>
         </tr>
@@ -168,7 +168,7 @@
             <td>
                 <div align="left">
                     변수에 숫자 등의 데이터를 저장할 때(변수에 값을 설정) 사용합니다. 데이터는 변경할 수 있고, 변수에는 가장 마지막에 설정한 데이터가 저장되어 있습니다. 여기서는 비행 시간을 변수로 사용합니다.
-                    <font color="red">※ 숫자 블록은 “Math” 카테고리에 있습니다.</font>
+                    <font color="red">※ 숫자 블록은 “수학” 카테고리에 있습니다.</font>
                 </div>
             </td>
         </tr>
@@ -195,7 +195,7 @@
             <td>
                 <div align="left">
                     산술 연산을 할 때 사용합니다. 덧셈, 뺄셈, 곱하기, 나누기, 제곱 연산이 가능합니다. 여기서는 “flytime” 변수에 1을 더하여 코드가 반복될 때마다 비행 시간이 1초씩 늘어나도록 합니다.
-                    <font color="red">※ 산술 연산자 블록은 “Math” 카테고리에 있습니다.</font>
+                    <font color="red">※ 산술 연산자 블록은 “수학” 카테고리에 있습니다.</font>
                 </div>
             </td>
         </tr>
@@ -209,7 +209,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image59.png"><br>
+                    <img src="images/image59(2).png"><br>
                 </div>
             </td>
         </tr>
@@ -262,7 +262,7 @@
 변수를 사용하면 코드에서 사용되는 데이터의 관리가 쉬워집니다. 변수를 사용하여 또 어떤 자율비행 코딩을 할 수 있는지 생각해봐요.
 
 1. 변수는 데이터를 저장하는 공간이며, 값이 변하는 데이터를 관리하는데 유용하게 사용할 수 있습니다.
-2. Variables 카테고리에서 변수를 생성할 수 있고, 변수 관련 블록들을 가져올 수 있습니다.
+2. 변수 카테고리에서 변수를 생성할 수 있고, 변수 관련 블록들을 가져올 수 있습니다.
 3. 반복문 안에서 비행 시간을 증가 or 감소시키기 위해 변수를 사용하면 효율적으로 코딩을 할 수 있습니다.
 
 
