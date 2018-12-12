@@ -33,7 +33,7 @@
 
 <br>
 
-드론의 기본 비행은 다음과 같습니다. 기본 비행을 수행하기 위해 필요한 블록들은 “Motion” 카테고리에 있습니다. 각 기본 비행별로 어떤 블록을 사용해야할지 생각해봅니다.
+드론의 기본 비행은 다음과 같습니다. 기본 비행을 수행하기 위해 필요한 블록들은 “모션” 카테고리에 있습니다. 각 기본 비행별로 어떤 블록을 사용해야할지 생각해봅니다.
 
 <div align="center">
     <table>
@@ -68,12 +68,12 @@
 
 <br>
 
-바이블럭에서 모든 코딩의 시작은 “Start block” 블록부터 시작합니다. “Start block”이 없다면 아무리 많은 블록을 조립해도 실행되지 않습니다. 그럼 다음과 같이 블록을 조립하여 코드를 만들어봅시다.
+바이블럭에서 모든 코딩의 시작은 “시작 블럭” 블록부터 시작합니다. “시작 블럭”이 없다면 아무리 많은 블록을 조립해도 실행되지 않습니다. 그럼 다음과 같이 블록을 조립하여 코드를 만들어봅시다.
 
 <h2>1. 이륙/착륙</h2>
 
 <div align="center">
-    <img src="images/image11.png" alt="이륙/착륙 예제 코드">
+    <img src="images/image11(2).png" alt="이륙/착륙 예제 코드">
 </div>
 
 <br>
@@ -84,7 +84,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image12.png"><br>
+                    <img src="images/image12(2).png"><br>
                     시작 블록
                 </div>
             </td>
@@ -98,7 +98,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image13.png"><br>
+                    <img src="images/image13(2).png"><br>
                     이륙 블록
                 </div>
             </td>
@@ -112,7 +112,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image14.png"><br>
+                    <img src="images/image14(2).png"><br>
                     기다리기 블록
                 </div>
             </td>
@@ -126,7 +126,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image15.png"><br>
+                    <img src="images/image15(2).png"><br>
                     착륙 블록
                 </div>
             </td>
@@ -141,12 +141,12 @@
 
 <br>
 
-이제 실행해볼까요? 코드를 실행하는 방법은 바이블럭 화면 우측 아래 “START” 버튼을 터치합니다.
+이제 실행해볼까요? 코드를 실행하는 방법은 바이블럭 화면 우측 아래 “시작” 버튼을 터치합니다.
 
 <br>
 
 <div align="center">
-    <img src="images/image16.png">
+    <img src="images/image16(2).png">
 </div>
 
 <br>
@@ -181,7 +181,7 @@
 <h2>2. 상승/하강</h2>
 
 <div align="center">
-    <img src="images/image18.png" alt="상승/하강 예제 코드">
+    <img src="images/image18(2).png" alt="상승/하강 예제 코드">
 </div>
 
 <br>
@@ -192,13 +192,13 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image19.png"><br>
+                    <img src="images/image19(2).png"><br>
                     상승(지정시간) 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    페트론 V2가 상승합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 전진합니다.<br>
+                    페트론 V2가 상승합니다. 출력(%)은 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 전진합니다.<br>
                     <font color="red">※ 입력한 시간 동안 상승한 후 다음 블록이 실행됩니다.</font>
                 </div>
             </td>
@@ -206,13 +206,13 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image20.png"><br>
+                    <img src="images/image20(2).png"><br>
                     하강(지정시간) 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    페트론 V2가 하강합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 후진합니다.<br>
+                    페트론 V2가 하강합니다. 출력(%)은 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 후진합니다.<br>
                     <font color="red">※ 입력한 시간 동안 하강한 후 다음 블록이 실행됩니다.</font>
                 </div>
             </td>
@@ -220,7 +220,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image21.png"><br>
+                    <img src="images/image21(2).png"><br>
                     기다리기 블록
                 </div>
             </td>
@@ -239,7 +239,7 @@
 <h2>3. 전진/후진</h2>
 
 <div align="center">
-    <img src="images/image22.png" alt="전진/후진 예제 코드">
+    <img src="images/image22(2).png" alt="전진/후진 예제 코드">
 </div>
 
 <br>
@@ -250,13 +250,13 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image23.png"><br>
+                    <img src="images/image23(2).png"><br>
                     전진(지정시간) 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    페트론 V2가 전진합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 전진합니다.<br>
+                    페트론 V2가 전진합니다. 출력(%)은 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 전진합니다.<br>
                     <font color="red">※ 입력한 시간 동안 전진한 후 다음 블록이 실행됩니다.</font>
                 </div>
             </td>
@@ -264,13 +264,13 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image24.png"><br>
+                    <img src="images/image24(2).png"><br>
                     후진(지정시간) 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    페트론 V2가 후진합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 후진합니다.<br>
+                    페트론 V2가 후진합니다. 출력(%)은 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 후진합니다.<br>
                     <font color="red">※ 입력한 시간 동안 후진한 후 다음 블록이 실행됩니다.</font>
                 </div>
             </td>
@@ -283,7 +283,7 @@
 <h2>4. 좌/우 이동</h2>
 
 <div align="center">
-    <img src="images/image25.png" alt="좌/우 이동 예제 코드">
+    <img src="images/image25(2).png" alt="좌/우 이동 예제 코드">
 </div>
 
 <br>
@@ -294,13 +294,13 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image26.png"><br>
+                    <img src="images/image26(2).png"><br>
                     좌 이동(지정시간) 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    페트론 V2가 좌(왼쪽)로 이동합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 좌로 이동합니다.<br>
+                    페트론 V2가 좌(왼쪽)로 이동합니다. 출력(%)은 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 좌로 이동합니다.<br>
                     <font color="red">※ 입력한 시간 동안 좌로 이동한 후 다음 블록이 실행됩니다.</font>
                 </div>
             </td>
@@ -308,13 +308,13 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image27.png"><br>
+                    <img src="images/image27(2).png"><br>
                     우 이동(지정시간) 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    페트론 V2가 우(오른쪽)로 이동합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 우로 이동합니다.<br>
+                    페트론 V2가 우(오른쪽)로 이동합니다. 출력(%)은 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 우로 이동합니다.<br>
                     <font color="red">※ 입력한 시간 동안 우로 이동한 후 다음 블록이 실행됩니다.</font>
                 </div>
             </td>
@@ -327,7 +327,7 @@
 <h2>5. 좌/우 회전</h2>
 
 <div align="center">
-    <img src="images/image28.png" alt="좌/우 회전 예제 코드">
+    <img src="images/image28(2).png" alt="좌/우 회전 예제 코드">
 </div>
 
 <br>
@@ -338,13 +338,13 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image29.png"><br>
+                    <img src="images/image29(2).png"><br>
                     좌 회전(지정시간) 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    페트론 V2가 좌(왼쪽)로 회전합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 좌로 회전합니다.<br>
+                    페트론 V2가 좌(왼쪽)로 회전합니다. 출력(%)은 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 좌로 회전합니다.<br>
                     <font color="red">※ 입력한 시간 동안 좌로 회전한 후 다음 블록이 실행됩니다.</font>
                 </div>
             </td>
@@ -352,13 +352,13 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image30.png"><br>
+                    <img src="images/image30(2).png"><br>
                     우 이동(지정시간) 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    페트론 V2가 우(오른쪽)로 회전합니다. “power”는 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 우로 회전합니다.<br>
+                    페트론 V2가 우(오른쪽)로 회전합니다. 출력(%)은 조종값으로 0~100까지 입력 가능하고, 값이 클수록 모터의 출력이 커져서 드론의 이동 속도가 빨라집니다. 시간은 0.01초 단위로 입력 가능하고, 입력한 시간 동안 우로 회전합니다.<br>
                     <font color="red">※ 입력한 시간 동안 우로 회전한 후 다음 블록이 실행됩니다.</font>
                 </div>
             </td>
