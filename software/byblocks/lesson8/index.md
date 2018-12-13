@@ -19,7 +19,7 @@
 
 이번 강의에서는 조종기의 버튼을 누르면 드론이 자동으로 이륙하거나 착륙하는 코드를 만들어봐요. 바이블럭에 페트론 V2를 연결하게 되면 조종기의 레버를 움직이거나 버튼을 눌러도 아무런 반응이 나타나지 않는 것을 알 수 있습니다. 하지만 이벤트를 발생시키는 코드를 추가하면 조종기의 레버와 버튼 작동에 따라 명령을 수행할 수 있게 만들 수 있습니다. 이번 강의에서는 조종기의 특정 버튼을 누르면 드론이 이륙하고, 다른 버튼을 누르면 드론이 착륙하는 코딩을 해보도록 해요. 코딩에서 이벤트 발생은 여러가지 상황에 맞게 명령을 수행하고 발생 가능한 오류들에 대처할 수 있게 해줍니다.
 <br>
-이벤트 발생 블록은 “Controller” 카테고리에 있습니다.
+이벤트 발생 블록은 “컨트롤러” 카테고리에 있습니다.
 <br>
 
 <div align="center">
@@ -27,7 +27,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image73.png"><br>
+                    <img src="images/image73(2).png"><br>
                 </div>
             </td>
             <td>
@@ -44,7 +44,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image76.png"><br>
+                    <img src="images/image76(2).png"><br>
                     조종기 버튼 이벤트 블록
                 </div>
             </td>
@@ -121,7 +121,7 @@
 <br>
 
 <div align="center">
-    <img src="images/image79.png">
+    <img src="images/image79(2).png">
 </div>
 
 <div align="center">
@@ -129,7 +129,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image80.png"><br>
+                    <img src="images/image80(2).png"><br>
                     조종기 버튼 이벤트 블록
                 </div>
             </td>
@@ -142,7 +142,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image81.png"><br>
+                    <img src="images/image81(2).png"><br>
                     조종기 버튼 이벤트 블록
                 </div>
             </td>
