@@ -57,7 +57,7 @@
 <br>
 
 <div align="center">
-    <img src="images/image70.png"><br>
+    <img src="images/image70(2).png"><br>
 </div>
 
 <div align="center">
@@ -65,26 +65,26 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image71.png"><br>
+                    <img src="images/image71(2).png"><br>
                     첫 번째 반복문&조건문 – 상승하기
                 </div>
             </td>
             <td>
                 <div align="left">
-                    무한 반복문 안에서 Distance(바닥까지 거리) 값이 1.5m 이상이 되는지를 지속적으로 확인하여 1.5m 이상이 되면 상승을 멈추고 호버링합니다.<b>(Lesson 6 참조)</b>
+                    무한 반복문 안에서 바닥까지 거리 값이 1.5m 이상이 되는지를 지속적으로 확인하여 1.5m 이상이 되면 상승을 멈추고 호버링합니다.<b>(Lesson 6 참조)</b>
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image72.png"><br>
+                    <img src="images/image72(2).png"><br>
                     두 번째 반복문&조건문 – 착륙하기
                 </div>
             </td>
             <td>
                 <div align="left">
-                    무한 반복문 안에서 Distance(바닥까지 거리) 값이 0.5m 이하가 되는지를 지속적으로 확인하여 0.5m 이하가 되면 회전을 멈추고 드론을 착륙시킵니다. 손바닥을 드론 밑면과 50cm 이하로 떨어진 위치에 대면 드론이 손바닥 위로 착륙합니다.<br>
+                    무한 반복문 안에서 바닥까지 거리 값이 0.5m 이하가 되는지를 지속적으로 확인하여 0.5m 이하가 되면 회전을 멈추고 드론을 착륙시킵니다. 손바닥을 드론 밑면과 50cm 이하로 떨어진 위치에 대면 드론이 손바닥 위로 착륙합니다.<br>
                     <font color="red">※ 주어진 조건을 만족하는 경우(참인 경우)에만 착륙시키면 되므로 “else” 구문이 없는 조건문 블록을 사용 가능합니다.</font>
                 </div>
             </td>
