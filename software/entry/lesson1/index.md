@@ -31,32 +31,47 @@
             <td><div align="center">페트론 V2 </div></td>
             <td>
                 <div align="center">
-                    <img src="images/image1.png" alt="petroneV2"><br>
+                    <img src="images/image1.png" alt="petroneV2" ><br>
                     페트론 V2 드론
                 </div>
             </td>
             <td>
                 <div align="center">
-                    <img src="images/image2.png" alt="petrone_Drive"><br>
+                    <img src="images/image2.png" alt="petrone_Drive" height="240" width="350"><br>
                     페트론 V2 자동차
                 </div>
             </td>
-                        <td>
+            <td>
                 <div align="center">
-                    <img src="/assets/images/products/petrone_v2_and_controller.jpg" alt="petrone_v2_and_controller" height="240" width="240"><br>
-                    PETRONE V2
+                    <img src="images/image3.png" alt="petrone_controller" height="200" width="300"><br>
+                    페트론 V2 조종기
                 </div>
             </td>
         </tr>
         <tr>
-            <td><div align="center">교육과정</div></td>
-            <td><div align="center">-</div></td>
-            <td><div align="center"><a href="/software/byblocks/">바이블럭으로 코딩해요</a></div></td>
-            <td><div align="center"><a href="/software/entry/">엔트리로 코딩해요</a></div></td>
+            <td><div align="center">드론파이터 </div></td>
+            <td>
+                <div align="center">
+                    <img src="images/image4.png" alt="dronefighter" height="200" width="300"><br>
+                    드론파이터 드론
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image5.jpeg" alt="dronefighter_Drive" height="240" width="310"><br>
+                    드론파이터 자동차
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image6.png" alt="dronefighter_controller" height="280" width="300"><br>
+                    드론파이터 조종기
+                </div>
+            </td>
         </tr>
     </table>
 </div>
-
+<br>
 <font color="red"><b>※이 강의는 페트론 V2 드론과 조종기에 관한 교육 자료입니다.</b></font><br>
 <font color="red"><b>※엔트리의 기본적인 사용법을 알고 있으면 좀 더 쉽게 이해할 수 있습니다. [엔트리 홈페이지](https://playentry.org/)에서 엔트리를 학습해보세요..</b></font>
 
