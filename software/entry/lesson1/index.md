@@ -52,13 +52,13 @@
             <td><div align="center">드론파이터 </div></td>
             <td>
                 <div align="center">
-                    <img src="images/image4.png" alt="dronefighter" height="200" width="300"><br>
+                    <img src="images/image4.png" alt="dronefighter" height="220" width="300"><br>
                     드론파이터 드론
                 </div>
             </td>
             <td>
                 <div align="center">
-                    <img src="images/image5.jpeg" alt="dronefighter_Drive" height="240" width="310"><br>
+                    <img src="images/image5.jpeg" alt="dronefighter_Drive" height="230" width="310"><br>
                     드론파이터 자동차
                 </div>
             </td>
@@ -71,9 +71,12 @@
         </tr>
     </table>
 </div>
+
 <br>
-<font color="red"><b>※이 강의는 페트론 V2 드론과 조종기에 관한 교육 자료입니다.</b></font><br>
-<font color="red"><b>※엔트리의 기본적인 사용법을 알고 있으면 좀 더 쉽게 이해할 수 있습니다. [엔트리 홈페이지](https://playentry.org/)에서 엔트리를 학습해보세요..</b></font>
+<font color="red"><b>※이 강의는 페트론 V2 드론과 조종기에 관한 교육 자료입니다.</b></font>
+
+<font color="red"><b>※엔트리의 기본적인 사용법을 알고 있으면 좀 더 쉽게 이해할 수 있습니다.<br>
+엔트리 홈페이지(https://playentry.org/)에서 엔트리를 학습해보세요..</b></font>
 
 
 <br>
