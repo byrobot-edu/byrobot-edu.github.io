@@ -25,8 +25,40 @@
 3. 4차산업의 핵심 분야인 코딩과 드론을 접목하여 STEAM 교육에 필요한 통합&융합적 사고력을 기를 수 있습니다. 
 4. 다가올 미래 사회에 꼭 필요한 창의융합형 인재의 역량을 키울 수 있습니다.
 
-<font color="red"><b>※이 강의는 페트론 V2 드론과 조종기에 관한 교육 자료입니다.</b></font>
-<font color="red"><b>※엔트리의 기본적인 사용법을 알고 있으면 좀 더 쉽게 이해할 수 있습니다. 엔트리 홈페이지(https://playentry.org/)에서 엔트리를 학습해보세요..</b></font>
+<div align="center">
+    <table>
+        <tr>
+            <td><div align="center">페트론 V2 </div></td>
+            <td>
+                <div align="center">
+                    <img src="images/image1.png" alt="petroneV2"><br>
+                    페트론 V2 드론
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image2.png" alt="petrone_Drive"><br>
+                    페트론 V2 자동차
+                </div>
+            </td>
+                        <td>
+                <div align="center">
+                    <img src="/assets/images/products/petrone_v2_and_controller.jpg" alt="petrone_v2_and_controller" height="240" width="240"><br>
+                    PETRONE V2
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td><div align="center">교육과정</div></td>
+            <td><div align="center">-</div></td>
+            <td><div align="center"><a href="/software/byblocks/">바이블럭으로 코딩해요</a></div></td>
+            <td><div align="center"><a href="/software/entry/">엔트리로 코딩해요</a></div></td>
+        </tr>
+    </table>
+</div>
+
+<font color="red"><b>※이 강의는 페트론 V2 드론과 조종기에 관한 교육 자료입니다.</b></font><br>
+<font color="red"><b>※엔트리의 기본적인 사용법을 알고 있으면 좀 더 쉽게 이해할 수 있습니다. [엔트리 홈페이지](https://playentry.org/)에서 엔트리를 학습해보세요..</b></font>
 
 
 <br>
