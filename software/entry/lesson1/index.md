@@ -28,6 +28,8 @@
 3. 4차산업의 핵심 분야인 코딩과 드론을 접목하여 STEAM 교육에 필요한 통합&융합적 사고력을 기를 수 있습니다. 
 4. 다가올 미래 사회에 꼭 필요한 창의융합형 인재의 역량을 키울 수 있습니다.
 
+엔트리에 연결하여 코딩할 수 있는 바이로봇 제품은 다음과 같습니다.
+
 <div align="center">
     <table>
         <tr>
@@ -106,28 +108,19 @@
 3) 조종기를 USB 모드로 설정하고 USB 케이블을 이용하여 PC와 연결합니다.
 
 <font color="red"><b>※드론과 조종기는 페어링이 되어있는 상태여야 합니다.</b></font><br>
-
 <br>
-
 <div align="center">
     <img src="images/image7.png" alt="엔트리 페트로 v2 연결화면">
     <br>
 </div>
-
+4) 엔트리 사이트(http://playentry.org)에 접속합니다.
 <br>
-
 <div align="center">
-    <img src="images/image1-2(2).png" alt="바이블럭 실행화면">
+    <img src="images/image8.png" alt="엔트리 사이트 접속">
     <br>
-    (바이블럭 실행 화면)
 </div>
-
+<font color="red"><b>※엔트리는 PC에 프로그램을 설치하여 오프라인에서도 사용 가능합니다.</b></font><br>
 <br>
-
-<div align="center">
-<font color="red"><b>※ 바이블럭 지원 사양 : 안드로이드 OS 버전 4.4 이상</b></font>
-</div>
-
 <br>
 <br>
 
