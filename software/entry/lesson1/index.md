@@ -228,76 +228,53 @@
 
 <h2>1. 페트론 V2용 엔트리 블록</h2><br>
 <font color="red"><b>※엔트리 블록에 대한 자세한 설명은 블록 매뉴얼 자료를 참조해주세요.</b></font><br>
-<h3>1) 드론 센서 블록</h3>
+<h4>1) 드론 센서 블록</h4>
 <div>
     <table>
         <tr>
             <td>
                 <div>
-                    <img src="images/image23.png" alt="연결 오류 조치방법3"><br>
+                    <img src="images/image23.png" alt="엔트리블록1"><br>
                 </div>
             </td>
             <td>
-                	페트론 V2의 여러 가지 센서들의 측정값을 확인할 수 있습니다.
+                - 페트론 V2의 여러 가지 센서들의 측정값을 확인할 수 있습니다.<br>
             </td>
         </tr>
     </table>
 </div>
-<div align="center">
-    <img src="images/image3(2).png" alt="화면 영역">
+<h4>2) 조종기 버튼/조이스틱(레버) 판단 블록</h4>
+<div>
+    <table>
+        <tr>
+            <td>
+                <div>
+                    <img src="images/image24.png" alt="엔트리블록2"><br>
+                </div>
+            </td>
+            <td>
+                - 조종기의 버튼 및 조이스틱(레버) 동작을 판단하는 블록으로 조건문 블록에 조건 사항으로 사용합니다. <br>
+                - 조종기 동작 신호를 발생시켜서 특정 명령을 수행하도록 할 수 있습니다.<br>
+            </td>
+        </tr>
+    </table>
 </div>
-
-<br>
-
-<h4>상단 바 영역</h4>
-- 바이블럭 버전 정보와 코드 관련 버튼들이 있습니다.
-
-<div align="center">
-    <img src="images/image4(2).png" alt="조종기와 연결">
+<h4>3) 드론 비행 블록</h4>
+<div>
+    <table>
+        <tr>
+            <td>
+                <div>
+                    <img src="images/image25.png" alt="엔트리블록3"><br>
+                </div>
+            </td>
+            <td>
+                - 드론 모드 설정을 할 수 있습니다.<br>
+                - 드론을 이륙/착륙 및 비행시킬 수 있습니다.<br>
+            </td>
+        </tr>
+    </table>
 </div>
-
-<br>
-
-<h4>블록 영역</h4>
-- 바이블럭에서 사용하는 블록들이 카테고리별로 구분되어 있고, 블록을 가져올 수 있습니다.
-
-<div align="center">
-    <img src="images/image5(2).png" alt="블록 영역 1">
-    <br>
-    <img src="images/image6(2).png" alt="블록 영역 2">
-</div>
-
-<br>
-
-<h4>코딩 영역</h4>
-- 블록을 조립하여 코드를 만드는 공간입니다.
-
-<div align="center">
-    <img src="images/image7(2).png" alt="코딩 영역 1">
-    <br>
-    <img src="images/image8(2).png" alt="코딩 영역 2">
-</div>
-
-<br>
-
-<h4>상태 표시창 영역</h4>
-- 드론의 모든 센서들의 값들을 실시간으로 확인할 수 있습니다. (열기/닫기 버튼을 터치하여 창 펼치기/숨기기 가능)
-
-<div align="center">
-    <img src="images/image9(2).png" alt="상태 표시창 영역">
-</div>
-
-
-<br>
-
-
-<h3> 2) 코드 실행방법</h3>
-<div align="center">
-    <img src="images/image10(2).png" alt="조종기와 연결">
-</div>
-
-<br>
-
 <h2> 2. 사용 시 주의사항</h2>
 
 1) 드론의 배터리가 완전히 충전된 상태에서 사용해주시고, 배터리 잔량이 50% 미만이면 배터리를 교체합니다.
