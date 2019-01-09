@@ -138,11 +138,46 @@
     <br>
 </div>
 6)	블록꾸러미에서 ‘하드웨어’ 카테고리를 클릭합니다.
-<h2> 2. 바이블럭(ByBlocks)에 페트론 V2 연결하기</h2>
-
-다음과 같이 바이블럭에 페트론 V2를 연결합니다.
-
-1) 준비물: 스마트폰 or 태블릿, USB 케이블, OTG 케이블, 페트론 V2 드론, 조종기
+<div align="center">
+    <img src="images/image11.png" alt="엔트리 하드웨어클릭">
+    <br>
+</div>
+7)	‘연결 프로그램 다운로드’ 버튼을 클릭하여 하드웨어 연결 프로그램 설치 파일을 다운로드한 후, 실행하여 프로그램을 설치합니다.
+<div align="center">
+    <img src="images/image12.png" alt="엔트리 연결프로그램">
+    <br>
+</div>
+8)	‘연결 프로그램 열기’ 버튼을 클릭합니다.
+<div align="center">
+    <img src="images/image13.png" alt="엔트리 연결프로그램 열기">
+    <br>
+</div>
+9)	상단에 뜨는 팝업창에서 ‘Entry_HW 열기’ 버튼을 클릭합니다.
+<div align="center">
+    <img src="images/image14.png" alt="엔트리 연결프로그램 열기2">
+    <br>
+</div>
+10)	하드웨어 연결 프로그램의 하드웨어 목록 중에서 ‘바이로봇 페트론V2 드론’을 클릭합니다.
+<div align="center">
+    <img src="images/image15.png" alt="엔트리 연결프로그램 열기3">
+    <br>
+</div>
+11)	‘연결 성공’ 메시지가 나오면 정상적으로 연결된 것입니다.
+<div align="center">
+    <img src="images/image16.png" alt="엔트리 연결프로그램 열기4">
+    <br>
+</div>
+12)	엔트리에서 페트론 V2용 블록이 생성된 것을 확인할 수 있습니다.
+<div align="center">
+    <img src="images/image17.png" alt="엔트리 블록">
+    <br>
+</div>
+<br>
+<h2> 2. 연결 오류 발생 시 조치 방법</h2>
+<br>
+1) 연결 성공 후 페트론 V2용 블록이 보이지 않는 경우<br>
+    ①F5키를 눌러서 새로고침을 합니다.
+    ②	블록꾸러미의 하드웨어 카테고리에서 ‘하드웨어 연결하기’ 버튼을 클릭합니다.
 
 2) 페트론 V2에 배터리를 장착합니다.
 
