@@ -103,9 +103,9 @@
 
 <br>
 
-<b>Q, "연주"와 "예약" 블록의 차이점은?
+<b>Q, "연주"와 "예약" 블록의 차이점은?</b>
 
-<div>
+<div align="center">
     <table>
         <tr>
             <td>연주 블록</td>
@@ -123,6 +123,64 @@
         </tr>
     </table>
 </div>
+
+<h2> 2. 조종기 LED 색상 변경하기</h2>
+
+조종기의 LED 색상을 음계에 맞춰 다음과 같이 변하도록 해보아요
+
+<div align="center">
+    <table>
+        <tr>
+            <td>도</td>
+            <td>레</td>
+            <td>미</td>
+            <td>파</td>
+            <td>솔</td>
+            <td>라</td>
+            <td>시</td>
+        </tr>
+        <tr>
+            <td><font color="red">빨강</font></td>
+            <td><font color="green">초록</font></td>
+            <td><font color="blue">파랑</font></td>
+            <td><font color="yellow">노랑</font></td>
+            <td><font color="pink">핑크</font></td>
+            <td><font color="skyblue">하늘색</font></td>
+            <td><font color="gray">흰색</font></td>
+        </tr>
+    </table>
+</div>
+
+<br>
+
+<b>Q, LED 관련 블록들의 차이점은?</b>
+
+<div align="center">
+    <table>
+        <tr>
+            <td><img src="images/image38.png"></td>
+            <td>색상(7가지)과 밝기(켜기/끄기 포함)를 설정할 수 있습니다.</td>
+        </tr>
+        <tr>
+            <td><img src="images/image39.png"></td>
+            <td>RGB(Red, Green, Blue) 색상을 2진수(비트)로 나타내고 서로 색상을 혼합할 수 있습니다. 
+            그리고 설정한 색상의 밝기 조절도 가능합니다. <br>
+            ①	0b10000000 : Red<br>
+            ②	0b01000000 : Green<br>
+            ③	0b00100000 : Blue<Br>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/image40.png"></td>
+            <td>RGB 색상의 밝기를(0~255) 각각 조절하여 다양한 색상으로 혼합할 수 있습니다.</td>
+        </tr>
+        <tr>
+            <td><img src="images/image41.png"></td>
+            <td>RGB 색상을 혼합하여 만든 6가지 색상을 설정할 수 있습니다.</td>
+        </tr>
+    </table>
+</div>
+<br>
 
 ---
 
