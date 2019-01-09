@@ -226,10 +226,23 @@
 
 <br>
 
-<h2>1. 바이블럭 기본 사용법</h2>
-
-<h3>1) 화면 구성 및 각 화면 영역별 사용법</h3>
-
+<h2>1. 페트론 V2용 엔트리 블록</h2><br>
+<font color="red"><b>※엔트리 블록에 대한 자세한 설명은 블록 매뉴얼 자료를 참조해주세요.</b></font><br>
+<h3>1) 드론 센서 블록</h3>
+<div>
+    <table>
+        <tr>
+            <td>
+                <div>
+                    <img src="images/image23.png" alt="연결 오류 조치방법3"><br>
+                </div>
+            </td>
+            <td>
+                	페트론 V2의 여러 가지 센서들의 측정값을 확인할 수 있습니다.
+            </td>
+        </tr>
+    </table>
+</div>
 <div align="center">
     <img src="images/image3(2).png" alt="화면 영역">
 </div>
