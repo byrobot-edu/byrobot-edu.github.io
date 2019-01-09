@@ -98,6 +98,7 @@
 <br>
 
 <h2> 1. 엔트리에 페트론 V2 연결하기</h2>
+<br>
 
 다음과 같이 엔트리에 페트론 V2를 연결합니다.
 
@@ -121,10 +122,22 @@
 </div>
 <font color="red"><b>※엔트리는 PC에 프로그램을 설치하여 오프라인에서도 사용 가능합니다.</b></font><br>
 <br>
+<div align="center">
+    <img src="images/image9.png" alt="엔트리 다운로드">
+    <br>
+</div>
 <br>
+<div align="center">
+    < PC 최소 요구사항 ><br>
+    <b>디스크 여유 공간 500MB 이상, windows7 혹은 MAC OS 10.8 이상</b>
+</div>
 <br>
-
-
+5) 메인 메뉴에서 ‘만들기’를 클릭합니다.
+<div align="center">
+    <img src="images/image10.png" alt="엔트리 만들기">
+    <br>
+</div>
+6)	블록꾸러미에서 ‘하드웨어’ 카테고리를 클릭합니다.
 <h2> 2. 바이블럭(ByBlocks)에 페트론 V2 연결하기</h2>
 
 다음과 같이 바이블럭에 페트론 V2를 연결합니다.
