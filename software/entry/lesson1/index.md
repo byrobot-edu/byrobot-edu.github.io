@@ -175,25 +175,44 @@
 <br>
 <h2> 2. 연결 오류 발생 시 조치 방법</h2>
 <br>
-1) 연결 성공 후 페트론 V2용 블록이 보이지 않는 경우<br>
-    ①F5키를 눌러서 새로고침을 합니다.
-    ②	블록꾸러미의 하드웨어 카테고리에서 ‘하드웨어 연결하기’ 버튼을 클릭합니다.
-
-2) 페트론 V2에 배터리를 장착합니다.
-
-3) 조종기를 USB 모드로 설정하고 USB 케이블과 OTG 케이블을 이용하여 스마트폰 or 태블릿과 연결합니다.
-
-- 조종기: USB 케이블과 연결
-
-- 스마트폰 or 태블릿: OTG 케이블(5핀)
-
-4) 바이블럭 애플리케이션이 자동으로 실행됩니다. (정상적으로 연결되었다면 조종기 화면에 “LINK”라고 표시됩니다.)
-
+1) 연결 성공 후 페트론 V2용 블록이 보이지 않는 경우<br><br>
+    ①F5키를 눌러서 새로고침을 합니다.<br>
+    ②블록꾸러미의 하드웨어 카테고리에서 ‘하드웨어 연결하기’ 버튼을 클릭합니다.<br>
 <div align="center">
-    <img src="images/image2.png" alt="조종기와 연결">
+    <img src="images/image18.png" alt="연결 오류 조치방법1">
+    <br>
 </div>
-
-
+<br>
+2) 하드웨어 연결 프로그램에서 계속 ‘연결 중’으로 표시되는 경우<br>
+<div align="center">
+    <img src="images/image19.png" alt="연결 오류 조치방법2">
+    <br>
+</div>
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    ①	조종기가 USB 모드인지 확인합니다.
+                    <img src="images/image20.png" alt="연결 오류 조치방법3"><br>
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    ②	페트론 V2와 컴퓨터의 연결이 정상인지 확인합니다
+                    <img src="images/image21.png" alt="연결 오류 조치방법4" height="350" width="500"><br>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+3) 페트론 V2와 컴퓨터의 연결이 정상적이지 않은 경우
+<div align="center">
+    <img src="images/image22.png" alt="연결 오류 조치방법5">
+    <br>
+</div>
+①	컴퓨터의 USB 포트가 접촉 불량일 수도 있으므로 다른 USB 포트에 연결해봅니다.<br>
+②	USB 케이블이 불량일 수도 있으므로 USB 케이블을 교체해봅니다.<br>
 <br>
 
 ---
