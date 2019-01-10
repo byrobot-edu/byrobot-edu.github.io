@@ -193,72 +193,57 @@
 
 <br>
 
-바이블럭에서 모든 코딩의 시작은 “시작 블럭” 블록부터 시작합니다. “시작 블럭”이 없다면 아무리 많은 블록을 조립해도 실행되지 않습니다. 그럼 다음과 같이 블록을 조립하여 코드를 만들어봅시다.
-
-<h2>1. 이륙/착륙</h2>
+다음과 같이 블록을 조립하여 코드를 만들어봅시다. 
 
 <div align="center">
-    <img src="images/image11(2).png" alt="이륙/착륙 예제 코드">
+    <img src="images/image42.png" alt="코드1">
 </div>
-
+<div align="center">
+    <img src="images/image43.png" alt="코드2">
+</div>
+<div align="center">
+    <img src="images/image44.png" alt="코드3">
+</div>
+<div align="center">
+    <img src="images/image45.png" alt="코드4">
+</div>
 <br>
 
-
+다음은 블록에 대한 설명입니다.
+<br>
 <div align="center">
     <table>
         <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image12(2).png"><br>
-                    시작 블록
-                </div>
-            </td>
-            <td>
-                <div align="left">
-                    코드를 실행합니다. 시작 블록의 바로 다음 블록부터 순차적으로 실행됩니다.<br>
-                    <font color="red">※ 코드 처음에 시작 블록이 없으면 코드는 실행되지 않습니다.</font>
-                </div>
+            <td><div align="center"><img src="images/image46.png"><br>
+            시작 블록</div></td>
+            <td>엔트리의 시작하기 버튼을 클릭하면 코드를 실행합니다. 
+            시작 블록의 바로 다음 블록부터 순차적으로 실행됩니다.<br>
+            <font color="red"><b>※ 코드 처음에 시작 블록이 없으면 코드는 실행되지 않습니다.</b></font>
             </td>
         </tr>
         <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image13(2).png"><br>
-                    이륙 블록
-                </div>
-            </td>
-            <td>
-                <div align="left">
-                    페트론 V2가 이륙합니다. 약 60cm 높이까지 이륙 후 호버링합니다.<br>
-                    <font color="red">※ 배터리 잔량과 드론의 상태에 따라 이륙하는 높이는 차이가 날 수 있습니다.</font>
-                </div>
+            <td><div align="center"><img src="images/image47.png"><br>
+            조종기 LED 끄기 블록</div></td>
+            <td>조종기의 LED가 꺼집니다.<br>
+            <font color="red"><b>※ 조종기의 LED를 끄지 않은 상태에서 색상을 변경시키면 색상이 혼합됩니다.</b></font>
             </td>
         </tr>
         <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image14(2).png"><br>
-                    기다리기 블록
-                </div>
-            </td>
-            <td>
-                <div align="left">
-                    현재 상태를 설정한 시간 동안 유지합니다. 시간은 0.01초 단위로 입력 가능합니다. 약 60cm 높이까지 상승하여 이륙을 완료하기 위해서는 약 5초의 시간이 필요합니다. 5초 기다리기 블록을 사용하여 이륙 완료 후, 다음 동작이 수행될 수 있도록 합니다.<br>
-                    <font color="red">※ 숫자 블록을 터치하면 숫자 입력이 가능합니다.</font>
-                </div>
+            <td><div align="center"><img src="images/image38.png"><br>
+            조종기 LED(선택) 블록</div></td>
+            <td>조종기의 LED가 빨간색으로 켜집니다.
             </td>
         </tr>
         <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image15(2).png"><br>
-                    착륙 블록
-                </div>
+            <td><div align="center"><img src="images/image48.png"><br>
+            조종기 음계(지정시간) 블록</div></td>
+            <td>조종기의 Buzzer에서 5옥타브의 도 음이 0.5초 동안 재생됩니다.
             </td>
-            <td>
-                <div align="left">
-                    페트론 V2가 착륙합니다. 블록이 실행되면 현재 위치에서 착륙합니다. 드론에 충격을 줄 수 있으므로 착륙은 50cm 정도 높이에서 실행합니다.
-                </div>
+        </tr>
+        <tr>
+            <td><div align="center"><img src="images/image49.png"><br>
+            기다리기 블록</div></td>
+            <td>0.1초 동안 기다린 후 다음 블록이 실행됩니다. (같은 음이 연속으로 연주될 경우)
             </td>
         </tr>
     </table>
@@ -266,10 +251,9 @@
 
 <br>
 
-이제 실행해볼까요? 코드를 실행하는 방법은 바이블럭 화면 우측 아래 “시작” 버튼을 터치합니다.
-
+이제 코드를 실행해볼까요? 엔트리의 시작하기 버튼을 눌러보아요. 조종기에서 “곰 세 마리” 음악이 잘 연주되나요?
 <br>
-
+그런데 만든 코드가 너무 길어서 보기 어려운가요? 그럼 반복문을 사용해서 코드를 줄이고 좀 더 효율적으로 코딩해보도록 해요. 먼저 반복문이 무엇인지 알아볼까요?
 <div align="center">
     <img src="images/image16(2).png">
 </div>
