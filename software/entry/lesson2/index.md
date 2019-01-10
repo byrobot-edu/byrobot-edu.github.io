@@ -252,35 +252,65 @@
 <br>
 
 이제 코드를 실행해볼까요? 엔트리의 시작하기 버튼을 눌러보아요. 조종기에서 “곰 세 마리” 음악이 잘 연주되나요?
+
 <br>
 그런데 만든 코드가 너무 길어서 보기 어려운가요? 그럼 반복문을 사용해서 코드를 줄이고 좀 더 효율적으로 코딩해보도록 해요. 먼저 반복문이 무엇인지 알아볼까요?
-<div align="center">
-    <img src="images/image16(2).png">
-</div>
 
 <br>
 
 <div align="center">
     <table>
+                <tr>
+            <td>
+                <div align="center">
+                    알기 쉬운 코딩
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    반복문
+                </div>
+            </td>
+        </tr>
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image17.png">
+                    <img src="images/image50.png">
                 </div>
             </td>
             <td>
                 <div align="left">
-                    잠깐! 바이블럭 코드를 실행하기 전에 한 번 더 확인해봐요!<br>
-                    1. 드론과의 안전거리(3m 이상)를 확보합니다.<br>
-                    2. 드론 주변에 사람이나 장애물이 없는지 확인합니다.<br>
-                    ☞ 코드의 드론 이동 방향과 거리를 예측하여 경로에 사람이나 장애물이 없는지 확인합니다.<br>
-                    3. 드론의 오작동이나 바이블럭 오류 발생 시 드론을 강제로 멈추는 방법을 확인합니다.
+                    반복문이란 코딩의 주요 문법 중 하나로서 동일하거나 비슷한 명령을 반복할 때 사용합니다. <br>
+                    반복문을 사용하면 코드의 길이를 줄여줘서 코드를 이해하기 쉽게 해줄 뿐만 아니라, 좀 더 다양하고 효율적인 코딩 구현이 가능합니다. 반복문에는 지정한 횟수만큼 반복하기, 무한 반복하기, 특정 조건이 만족할 때까지 반복하기, 이렇게 3가지 종류가 있는데, 각 상황에 맞게 선택하여 사용합니다.
                 </div>
             </td>
         </tr>
     </table>
 </div>
-
+<div align="center">
+    <table>
+                <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image51.png"><br>
+                    지정한 횟수만큼 반복하기
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image52.png"><br>
+                    무한 반복하기
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image53.png"><br>
+                    특정 조건이 만족할 때까지 반복하기
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
 <br>
 
 드론이 어떻게 비행하나요? 자신이 만든 코드 순서대로 드론이 잘 비행한다면 성공한 것입니다. 그럼 다음 비행들도 코드를 만들어서 실행해볼까요?
