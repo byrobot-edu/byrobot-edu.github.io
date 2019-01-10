@@ -285,11 +285,6 @@
                 </div>
             </td>
         </tr>
-    </table>
-</div>
-<div align="center">
-    <table>
-                <tr>
             <td>
                 <div align="center">
                     <img src="images/image51.png"><br>
