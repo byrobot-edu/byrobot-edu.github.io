@@ -285,6 +285,11 @@
                 </div>
             </td>
         </tr>
+    </table>
+</div>
+<div align="center">
+    <table>
+                <tr>
             <td>
                 <div align="center">
                     <img src="images/image51.png"><br>
@@ -308,9 +313,33 @@
 </div>
 <br>
 
-드론이 어떻게 비행하나요? 자신이 만든 코드 순서대로 드론이 잘 비행한다면 성공한 것입니다. 그럼 다음 비행들도 코드를 만들어서 실행해볼까요?
+그럼 반복문을 사용하여 다음과 같이 코드를 수정해보아요.
 
 <br>
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image54.png">
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    반복문을 사용하여 수정한 코드<br>
+                    <img src="images/image55.png"><br>
+                </div>
+                <div align="left">
+                    처음 시작하는 부분의 2번째와 3번째 음계 연주하는 코드가 동일하기 때문에 2번 반복하기 블록을 사용하여 위와 같이 코드를 수정할 수 있습니다.<br>
+                    반복문을 코딩하는 방법은 반복문 블록 안에 반복되는 코드를 삽입하고 반복 횟수를 설정해주면 됩니다.
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+처음 5개 음계 연주하는 코드 부분을 다음과 같이 줄일 수 있습니다.
 
 <h2>2. 상승/하강</h2>
 
