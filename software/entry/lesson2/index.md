@@ -250,14 +250,10 @@
 </div>
 
 <br>
-
 이제 코드를 실행해볼까요? 엔트리의 시작하기 버튼을 눌러보아요. 조종기에서 “곰 세 마리” 음악이 잘 연주되나요?
-
 <br>
 그런데 만든 코드가 너무 길어서 보기 어려운가요? 그럼 반복문을 사용해서 코드를 줄이고 좀 더 효율적으로 코딩해보도록 해요. 먼저 반복문이 무엇인지 알아볼까요?
-
 <br>
-
 <div align="center">
     <table>
                 <tr>
@@ -312,11 +308,8 @@
     </table>
 </div>
 <br>
-
 그럼 반복문을 사용하여 다음과 같이 코드를 수정해보아요.
-
 <br>
-
 <div align="center">
     <table>
         <tr>
@@ -327,7 +320,7 @@
             </td>
             <td>
                 <div align="center">
-                    반복문을 사용하여 수정한 코드<br>
+                    <b>반복문을 사용하여 수정한 코드</b><br>
                     <img src="images/image55.png"><br>
                 </div>
                 <div align="left">
@@ -340,6 +333,30 @@
 </div>
 
 처음 5개 음계 연주하는 코드 부분을 다음과 같이 줄일 수 있습니다.
+
+<div align="center">
+    <table>
+                <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image56.png"><br>
+                    기존 코드
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <h2>→</h2>
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image57.png"><br>
+                    수정 코드
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
 
 <h2>2. 상승/하강</h2>
 
