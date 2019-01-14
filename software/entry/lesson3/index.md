@@ -127,52 +127,88 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image33(2).png"><br>
+                    <img src="images/image66.png"><br>조종기 화면 지우기(전체) 블록
                 </div>
             </td>
             <td>
-                <div align="center">
-                    <img src="images/image34(2).png"><br>
+                <div align="left">
+                    조종기 화면 전체를 검은색(또는 흰색 선택 가능)으로 채웁니다.<br> 
+                    조종기 화면에 이미 다른 그림이 그려져 있는 상태에서 새로운 그림을 그리고 싶을 때 사용합니다.<br>
+                    ▶이 블록을 사용하지 않고 그림을 그리면 이전 그림과 겹쳐집니다. <br>
+                    　일부 영역만 지우고 싶은 경우에는 조종기 화면 지우기(지정영역) 블록을 사용합니다.
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    코드 앞부분
+                    <img src="images/image67.png"><br>점 그리기(가로) 블록
                 </div>
             </td>
             <td>
-                <div align="center">
-                    코드 뒷부분
+                <div align="left">
+                    덧셈 기호 ‘+’ 의 가로 부분에 해당하는 점들을 찍습니다. 조종기 화면의 가운데 지점(x:64, y:32)을 기준으로 좌우로 4개씩의 점을 나란히 찍습니다.<br><br> 
+                    가로 부분이기 때문에 y좌표는 가운데 위치인 32로 고정하고, x좌표만 60부터 1씩 증가하며 총 9개의 점을 찍습니다. (화면 가운데 지점 포함)<br>
+                    ▶좌표를 1씩 증가하며 점을 찍으면 선을 그리는 효과를 낼 수 있습니다.
                 </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image68.png"><br>점 그리기(세로) 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    덧셈 기호 ‘+’ 의 세로 부분에 해당하는 점들을 찍습니다. 조종기 화면의 가운데 지점(x:64, y:32)을 기준으로 상하로 4개씩의 점을 나란히 찍습니다.<br><br> 
+                    가로 부분이기 때문에 x좌표는 가운데 위치인 64로 고정하고, y좌표만 28부터 1씩 증가하며 총 8개의 점을 찍습니다. (화면 가운데 지점은 가로 부분에서 찍었기 때문에 제외)
             </td>
         </tr>
     </table>
 </div>
+
+코드를 실행합니다. 조종기 화면에 다음과 같이 덧셈 기호가 표시되나요? 
+
+<div align="center">
+    <img src="images/image69.png">
+</div>
+
+코딩에 성공했다면 좀 더 큰 덧셈 기호를 표시해보아요. 코드가 많이 길어지나요? 그렇다면 반복문과 변수를 사용하면 코드를 줄일 수 있습니다. 변수는 다음 강의 시간에 배울 예정이므로 이번 시간에는 참고만 하도록 해요.
+
+
+
+변수는 속성 탭에서 생성할 수 있고, 관련 블록들은 자료 카테코리에서 확인할 수 있습니다.
+
 <div align="center">
     <table>
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image35(2).png"><br>
+                    <img src="images/image70.png">
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image71.png">
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    조종기 버저(음계) 블록
+                    변수 생성하기
                 </div>
             </td>
-        </tr>
-        <tr>
             <td>
-        조종기의 버저로 설정한 음계를 재생할 때 사용합니다. 음계와 옥타브(1~8단계)를 선택할 수 있고, 재생 시간을 입력할 수 있습니다.재생이 완료 후에 다음 블록이 실행됩니다.
+                <div align="center">
+                    변수 관련 블록
+                </div>
             </td>
         </tr>
     </table>
 </div>
+
 
 코드를 실행합니다. 훌륭한 연주가 되었나요? 다른 듣고 싶은 노래들도 코딩하여 멋지게 연주해봐요.
 
