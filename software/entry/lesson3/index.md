@@ -278,27 +278,43 @@
 
 <br>
 
-<h2> 2. 드론 LED 꾸며보기</h2>
+<div align="center">
+<img src="images/image79.png"><br>
+</div>
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image80.png"><br><br>
+                    <img src="images/image81.png"><br>선 그리기 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    X자를 그리기 위해서는 2개의 선이 필요하므로 선 그리기 블록 2개를 조립합니다. <br>
+                    X자는 대칭이므로 x1, x2 좌표를 서로 반대로 입력하고 y1, y2 좌표는 동일하게 입력하면 X자를 그릴 수 있습니다.
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+코드를 실행합니다. 조종기 화면에 다음과 같이 X자가 그려지나요? 
+
+<div align="center">
+    <img src="images/image82.png">
+</div>
+
+코딩에 성공했다면 좀 더 다양한 모양을 선 그리기로 표현해보세요.
+
+<h2> 3. 원 그리기 – 얼굴</h2>
 
 <br>
 
 <div align="center">
-    <table>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image36(2).png"><br>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    코드 앞부분
-                </div>
-            </td>
-        </tr>
-    </table>
+    <img src="images/image83.png">
 </div>
 
 <div align="center">
@@ -306,51 +322,54 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image37(2).png"><br>
-                    드론 LED 끄기 블록
+                    <img src="images/image84.png"><br>원 그리기(얼굴) 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    드론의 모든 LED(눈과 팔 부분)를 끌 때 사용합니다. 
-                    LED를 끄지 않고 색상을 바꾸면 이전 색상과 색이 겹쳐지기 때문에 원하는 색상으로 바꿀 수 없습니다.
-                    색상 겹침을 피하기 위해서는 꼭 LED를 먼저 끄고 색상을 변경합니다.
+                    바탕이 되는 얼굴을 화면 가운데 위치에 그립니다. 반지름은 30인 원으로 색상은 흰색입니다.
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image38(2).png"><br>
-                    드론 LED 설정(RGB) 블록
+                    <img src="images/image85.png"><br>원 그리기(눈) 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    드론 눈/팔/눈+팔 부분 LED를 설정한 색상으로 켜고 끌 때 사용합니다.
-                    색상은 Red, Green, Blue 중에서 선택 가능합니다.
+                    얼굴의 눈을 표현할 원을 그립니다. 눈이 2개이므로 블록 2개를 조립합니다. 얼굴이 흰색이므로 눈은 검은색으로 그립니다.
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image86.png"><br>원 그리기(입) 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    얼굴의 입을 표현할 원을 그립니다. 눈보다 반지름은 3만큼 크고, 색상은 동일하게 검은색으로 표현합니다.
                 </div>
             </td>
         </tr>
     </table>
 </div>
+
+코드를 실행합니다. 조종기 화면에 다음과 같이 얼굴이 그려지면 성공입니다. 지금까지 배운 점, 선, 원을 모두 사용하여 멋진 그림을 조종기에 그려보아요.
+
 <div align="center">
-    <table>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image40(2).png"><br>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    코드 뒷부분
-                </div>
-            </td>
-        </tr>
-    </table>
+    <img src="images/image87.png">
+</div>
+
+<h2> 4. 문자열 나타내기 – 영어 이름(위) & BYROBOT(아래)</h2>
+
+<br>
+
+<div align="center">
+    <img src="images/image88.png">
 </div>
 
 <div align="center">
@@ -358,21 +377,35 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image41(2).png"><br>
-                    드론 LED 설정(색선택) 블록
+                    <img src="images/image89.png"><br>문자열 입력 블록
                 </div>
             </td>
             <td>
                 <div align="left">
-                    드론 눈/팔/눈+팔 부분 LED를 설정한 색상으로 켜고 끌 때 사용합니다. 
-                    색상은 여러 가지 색상 중에서 선택 가능합니다. 
-                    <font color="red">※ 의도보다 색상이 더 밝게 표현될 수 있습니다.</font>
+                    자신의 영어 이름 길이를 고려하여 시작 점 위치를 설정합니다. 문자 크기(작음/큼)에 따라 시작 점 위치가 달라지는데, 여기서는 큼으로 설정합니다. 그리고 조종기 화면을 흰색으로 채웠기 때문에 문자열 색상은 검은색으로 설정합니다.
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image90.png"><br>문자열 정리 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    문자열 정렬 블록을 사용하면 문자열 위치를 쉽게 설정할 수 있습니다. 화면 가운데 입력하기 위해서는 x1, x2좌표에 최소값(0)과 최대값(128)을 입력하고 정렬 방향을 가운데로 설정한 후, y좌표로 상하 위치만 잡아주면 됩니다. ‘Petrone’ 아래 입력해야 하므로 y좌표를 가운데에서 조금 아래 위치로 설정합니다.
                 </div>
             </td>
         </tr>
     </table>
 </div>
-코드를 실행합니다. 드론의 LED 색상이 변하면서 비행하니까 더 멋있지 않나요? 좀 더 다양한 색상으로 드론을 예쁘게 꾸며봐요.
+
+코드를 실행합니다. 다음과 같이 문자열이 표시되나요? 다른 사람에게 전달해야 할 메모를 조종기에 입력하여 주고받아 보아요.
+
+<div align="center">
+    <img src="images/image91.png">
+</div>
 
 ---
 
@@ -385,32 +418,32 @@
 
 <br>
 
-눈과 귀가 즐거운 강의였나요? 이번 강의에서 배운 것을 활용하여 자신만의 음악을 만들어서 조종기로 연주해보고, 드론의 LED를 좀 더 화려하게 꾸며봐요.
+조종기 화면 그리기 블록을 사용하여 조종기의 OLED 디스플레이 화면에 점, 선, 면, 문자열 등을 표시할 수 있습니다. 
 
-1. 조종기의 Buzzer를 이용하여 음을 재생할 수 있습니다. (음계 선택 or 주파수)
+1. 조종기의 OLED 디스플레이 화면을 통해 드론과 비행 관련 정보를 확인할 수 있고, 드론과 조종기의 각종 설정값을 세팅할 수 있습니다.
 
-2. 드론에는 눈과 팔 부분에 LED가 장착되어 있는데, 코딩으로 색상을 변경할 수 있습니다.
+2. 조종기 화면에 점, 선, 사각형, 원을 그릴 수 있고, 문자열을 입력할 수 있습니다.
 
-3. 드론의 LED 색상을 변경할 때, 이미 LED가 다른 색상으로 설정되어 있다면 색상이 겹쳐지기 때문에 꼭 LED를 먼저 끈 후 변경합니다.
+3. 조종기 화면 지우기(전체 or 지정영역) 블록을 사용하여 화면을 검은색 or 흰색으로 채울 수 있어서 새로 그리기를 할 수 있습니다.
 
-<font color="red">※ 색상 겹침을 이용하여 특정 색상을 만들고 싶다면 LED를 끄지 않고 사용합니다.</font>
+<font color="red">※ 화면 지우기를 사용하지 않으면 그림이나 문자열이 겹쳐집니다.</font>
 
 
 <br>
 
 ---
 
-### [바이블럭으로 코딩해요](../)
+### [엔트리로 코딩해요](../)
 
- 1. [페트론 V2와 바이블럭이 만났어요](../lesson1)
- 2. [페트론 V2와 인사해요](../lesson2)
+ 1. [페트론 V2와 엔트리가 만났어요](../lesson1)
+ 2. [조종기로 음악을 연주해보아요](../lesson2)
  3. **페트론 V2로 음악을 연주해요**
- 4. [페트론 V2로 사각형을 그려보아요](../lesson4)
- 5. [페트론 V2로 계단을 오르락내리락 해요](../lesson5)
- 6. [페트론 V2를 원하는 높이로 상승시켜 보아요](../lesson6)
- 7. [페트론 V2를 손바닥 위에 착륙시켜 보아요](../lesson7)
- 8. [페트론 V2를 버튼으로 이륙/착륙시켜 보아요](../lesson8)
+ 4. [조종기로 로봇청소기를 돌려보아요](../lesson4)
+ 5. [엔트리로 드론을 날려보아요](../lesson5)
+ 6. [드론으로 센서 놀이를 해보아요](../lesson6)
+ 7. [센서를 활용한 패턴 비행을 해보아요](../lesson7)
+ 8. [조종기 버튼으로 드론을 날려보아요](../lesson8)
 
 ---
 
-Modified : 2018.8.28
+Modified : 2019.1.14
