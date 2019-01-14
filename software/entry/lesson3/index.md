@@ -209,9 +209,72 @@
         </tr>
     </table>
 </div>
+<br>
+<div align="center">
+<img src="images/image72.png">
+</div>
 
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image73.png"><br><br>
+                    <img src="images/image74.png"><br>변수 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    점을 그릴 x좌표와 y좌표 위치값을 저장할 변수입니다.<br>
+                    덧셈 기호의 가로 부분에 해당하는 점을 찍기 때문에 x좌표는 54에서 1씩 증가하고, y좌표는 화면상 가운데 위치인 32로 고정됩니다.
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image75.png"><br>점 그리기(가로) 블록 - 반복문
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    반복문을 사용하여 점을 찍습니다. 이때 y좌표는 동일하게 하고 x좌표는 1씩 증가시켜서 점을 찍습니다. 그럼 덧셈 기호의 가로 부분에 해당되는 직선이 그려집니다. <br>
+                    ▶점을 많이 찍을수록 더 큰 덧셈 기호를 그릴 수 있습니다
+                    좌표를 1씩 증가하며 점을 찍으면 선을 그리는 효과를 낼 수 있습니다.
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image76.png"><br><br>
+                    <img src="images/image77.png"><br>변수 블록
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    이번에는 덧셈 기호의 세로 부분에 해당하는 점을 찍기 때문에 x좌표는 화면상가운데 위치인 64로 고정되고 y좌표는 22에서 1씩 증가합니다.
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image78.png"><br>점 그리기(세로) 블록 - 반복문
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    반복문을 사용하여 점을 찍습니다. 이때 x좌표는 동일하게 하고 y좌표는 1씩 증가시켜서 점을 찍습니다. 그럼 덧셈 기호의 세로 부분에 해당되는 직선이 그려집니다.<br>
+                    ▶점을 많이 찍을수록 더 큰 덧셈 기호를 그릴 수 있습니다.<br>
+                    ▶화면의 가운데 점은 가로 부분에서 찍었음으로 반복 횟수가 1번 적습니다.
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
 
-코드를 실행합니다. 훌륭한 연주가 되었나요? 다른 듣고 싶은 노래들도 코딩하여 멋지게 연주해봐요.
+<h2> 2. 선 그리기 – X자</h2>
 
 <br>
 
