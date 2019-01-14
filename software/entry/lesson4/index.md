@@ -432,6 +432,118 @@
 
 <div align="center">
     <table>
+                <tr>
+            <td>
+                <div align="center">
+                    알기 쉬운 코딩
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    조건문
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image50.png">
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    건문이란 코딩의 주요 문법 중 하나로서 특정 조건을 주고 그 조건에 따라 서로 다른 명령을 수행해야할 때 사용합니다. 우리가 흔히 “만약 ~라면, ~하겠다”란 말을 자주 사용하는데, 바로 이러한 상황을 코딩으로 표현한 것이라고 보면 됩니다. <br><br>
+
+엔트리에서는 다음과 같이 2가지 종류의 조건문 블록이 있습니다.<br> 
+①	주어진 조건의 참 or 거짓을 판단하여 참이면 명령A를 수행하고 거짓이면 수행하지 않습니다.<br>
+②	주어진 조건의 참 or 거짓을 판단하여 참이면 명령A를 거짓이면 명령B를 수행합니다.
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image119.png">
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image120.png">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    ①	주어진 조건의 참 or 거짓을 판단하여 참이면 명령A를 수행하고 거짓이면 수행하지 않습니다.
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    ②	주어진 조건의 참 or 거짓을 판단하여 참이면 명령A를 거짓이면 명령B를 수행합니다.
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<h2> 2. 쓰레기 코딩하기 </h2>
+
+쓰레기는 총 5개 오브젝트가 필요합니다. 오브젝트를 모두 추가한 후, 1가지 오브젝트의 코드를 만들어서 나머지는 복사&붙여넣기하면 쉽게 코딩할 수 있습니다.
+
+1)	먼저 쓰레기를 제거할 때마다 점수를 주기 위해서 점수 변수를 생성합니다.<br>
+<font color="red">※	변수: 변하는 수라는 의미로서 오브젝트의 행동이나 블록의 명령에 따라 발생하는 숫자 등의 데이터를 저장하는 공간입니다. 시간이나 점수를 세는데 유용하게 사용할 수 있습니다.</font>
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                    <div align="center">
+                    <img src="images/image121.png">
+                </div>
+            </td>
+            <td>
+            ①	속성 탭을 클릭합니다.<br><br>
+            ②	변수 버튼을 클릭합니다.<br><br>
+            ③	‘+변수 추가’ 버튼을 클릭합니다.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <div align="center">
+                    <img src="images/image122.png">
+                </div>
+            </td>
+            <td>
+            ④	사용할 변수의 이름을 적습니다. 여기서는 ‘점수’라고 합니다.<br><br>
+            ⑤	확인 버튼을 클릭합니다.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image123.png">
+                </div>
+            </td>
+            <td>
+            ①	'점수'라는 변수가 추가되었습니다.<br><br>
+
+②	옵션을 설정할 수 있어요.<br>
+- 변수 보이기: 오브젝트 화면에 변수를 보이거나 안보이게 할 수 있어요.
+- 기본값: 변수의 기본값을 설정할 수 있어요.
+- 슬라이드: 변수 값이 변하는 정도를 슬라이드 바로 표현할 수 있어요.
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+<div align="center">
+    <table>
         <tr>
             <td>
                 <div align="center">
