@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-<img src="images/image92.png"><br>
+<img src="images/image92.png">
 <h2>< 로봇청소기 게임 화면 ></h2>
 </div>
 
@@ -72,6 +72,10 @@
                 </div>
             </td>
         </tr>
+    </table>
+</div>
+<div align="center">
+    <table>
         <tr>
             <td>
                 <div align="center">
@@ -100,7 +104,99 @@
     </table>
 </div>
 
-사각형 패턴 비행은 2가지 방법으로 비행할 수 있습니다.
+다음과 같이 엔트리의 조건문 블록에 판단 블록으로 조립하여 사용합니다.
+
+<div align="center">
+<img src="images/image97.png">
+</div>
+<br>
+청소하는 로봇청소기 프로그램을 코딩하기 위해서는 다음과 같은 오브젝트가 필요합니다.
+
+<h2>1. 로봇청소기</h2><br>
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image98.png">
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+<h2>2. 쓰레기</h2><br>
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image99.png">
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image100.png">
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image101.png">
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image102.png">
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <img src="images/image103.png">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    바나나껍질
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    고구마
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    수박
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    계란후라이
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    김밥
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+그리고 제한된 시간에 모든 쓰레기를 치우는 게임을 만들기 위해서는 추가로 다음 오브젝트가 필요합니다.
+
+<h2>3. 초시계</h2><br>
+엔트리 화면에 제한시간 표시
+
+<br>
+위 오브젝트들은 각각 다음과 같이 동작합니다.
+
+
+<h2>1. 로봇청소기
+
 
 1. 드론이 계속 정면을 바라보는 상태로 사각형 패턴 비행하기 : 4방향(전, 후, 좌, 우)으로 이동하기 필요<br>
 2. 드론이 이동 경로를 따라 앞쪽 방향을 바꾸면서 사각형 패턴 비행하기 : 전진하기와 회전하기 필요<br>
