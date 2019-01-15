@@ -594,10 +594,43 @@
 <div align="center">
     <img src="images/image126.png">
 </div>
-
+<br><br>
 이제 오브젝트 각각 코드를 만들어보아요. 먼저 수박을 코딩해볼까요?
+<br><br>
+<div align="center">
+    <img src="images/image127.png"><br>
+    수박을 코딩하기 위해서는 수박 오브젝트를 마우스 왼쪽 버튼으로 한 번 클릭한 후 블록을 조립하면 돼요.
+</div>
+<br><br>
+<div align="center">
+    <img src="images/image128.png"><br>
+</div>
 
-
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image129.png"><br>
+                    반복문 블록
+                </div>
+            </td>
+            <td>
+            ①	조종기의 오른쪽 조이스틱(레버)을 위로 움직이면 로봇청소기는 앞으로 1만큼 움직입니다.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image105.png">
+                </div>
+            </td>
+            <td>
+            ②	조종기의 오른쪽 조이스틱(레버)을 아래로 움직이면 로봇청소기는 뒤로 1만큼 움직입니다.
+            </td>
+        </tr>
+    </table>
+</div>
 
 <h2> 2. 드론이 이동 경로를 따라 앞쪽 방향을 바꾸면서 사각형 패턴 비행하기 </h2>
 <br>
