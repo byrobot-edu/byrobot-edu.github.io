@@ -543,7 +543,7 @@
 
 <div align="center">
     <table>
-                <tr>
+        <tr>
             <td>
                 <div align="center">
                     알기 쉬운 코딩
@@ -583,6 +583,7 @@
                 </div>
             </td>
             <td><img src="images/image125.png">
+            </td>
         </tr>
     </table>
 </div>
