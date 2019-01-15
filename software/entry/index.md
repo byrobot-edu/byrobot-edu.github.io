@@ -1,4 +1,8 @@
 
+<div align="center">
+<img src="entry_mian.jpg">
+</div>
+
 # 엔트리로 코딩해요
 
  1. [페트론 V2와 엔트리가 만났어요](lesson1)
