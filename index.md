@@ -20,7 +20,7 @@
             </td>
                         <td>
                 <div align="center">
-                    <img src="/assets/images/products/petrone_v2_and_controller.jpg" alt="petrone_v2_and_controller" height="240" width="240"><br>
+                    <img src="/software/entry/entry_main.jpg" height="240" width="240"><br>
                     PETRONE V2
                 </div>
             </td>
