@@ -24,7 +24,7 @@ en: &en
   show_author: 'Show Author'
   show_comments: 'Show Comments'
   show_license: 'Show License'
-  software: 'software'
+  software: 'Software'
   repository: 'Repository'
   download: 'Download'
   forum: 'Forum'
