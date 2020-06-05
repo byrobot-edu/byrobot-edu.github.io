@@ -179,9 +179,9 @@ GoCar로 코딩카드를 읽어서 다양한 언플러그드 코딩 활동을 �
 2)	항상 최신 펌웨어를 설치합니다.
 
 <br>
-- 펌웨어 프로그램 다운로드 : http://dev.byrobot.co.kr/documents/kr/products/e_drive/log/updates/firmware/
+- [펌웨어 프로그램 다운로드](http://dev.byrobot.co.kr/documents/kr/products/e_drive/log/updates/firmware/)
 <br>
-- 펌웨어 업데이트 매뉴얼 : http://dev.byrobot.co.kr/documents/kr/products/e_drive/manual/update/drone4autoupdaterlight/
+- [펌웨어 업데이트 매뉴얼](http://dev.byrobot.co.kr/documents/kr/products/e_drive/manual/update/drone4autoupdaterlight/)
 <br>
 
 3)	코딩카드를 읽을 때 힘을 많이 주어 누르거나, 손으로 잡고 미는 행위, 외부 충격 등은 GoCar를 손상시킬 수 있으므로 주의합니다.
