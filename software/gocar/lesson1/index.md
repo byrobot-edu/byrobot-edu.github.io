@@ -141,8 +141,10 @@ GoCar로 코딩카드를 읽어서 다양한 언플러그드 코딩 활동을 �
 
 컬러 캘리브레이션 방법은 다음과 같습니다.
 
-<font color="red"><b>※ 컬러 캘리브레이션 : 색상 인식을 위해 GoCar의 컬러 센서를 보정해주는 작업 </b></font><br>
+<font color="red"><b>※ 컬러 캘리브레이션 : 색상 인식을 위해 GoCar의 컬러 센서를 보정해주는 작업 </b></font>
+
 <font color="blue"><b>(총 8가지 색상 – 흰색/검정/빨강/노랑/초록/하늘/파랑/보라)</b></font>
+
 <br>
 <div align="center">
     <img src="images/image9.png" alt="컬러 캘리브레이션1">
@@ -176,9 +178,7 @@ GoCar로 코딩카드를 읽어서 다양한 언플러그드 코딩 활동을 �
 <h2>6. 사용 시 주의사항</h2>
 <br>
 1)	GoCar의 배터리가 방전되어 부저음이 계속 울리면, 즉시 작동을 멈추고 충전 후 사용합니다.<br>
-2)	항상 최신 펌웨어를 설치합니다.
-
-<br>
+2)	항상 최신 펌웨어를 설치합니다.<br>
 - [펌웨어 프로그램 다운로드](http://dev.byrobot.co.kr/documents/kr/products/e_drive/log/updates/firmware/)
 <br>
 - [펌웨어 업데이트 매뉴얼](http://dev.byrobot.co.kr/documents/kr/products/e_drive/manual/update/drone4autoupdaterlight/)
@@ -206,9 +206,11 @@ GoCar로 코딩카드를 읽어서 다양한 언플러그드 코딩 활동을 �
 
 <br>
 
+<div align="center">
 GoCar에 대해 많이 알게 되었나요? 아직 주행하는 모습을 못 봐서 잘 모르겠다고요?<br>
 걱정하지 마세요. 바로 다음 강의부터 직접 코딩해서 GoCar를 움직여 볼 거예요.<br>
 혹시 사용 중 문제가 발생하였는데 해결하기 어려운 경우에는 바이로봇 AS센터(031–227–9675, help@byrobot.co.kr)로 연락바랍니다.
+</div>
 
 <div align="center">
         <table>
