@@ -17,7 +17,8 @@
 
 <br>
 
-GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율주행 스마트카입니다. 남녀노소 누구나 좋아할 만한 귀여운 자동차 형태로 디자인되어 있어서 아이들이 친근하게 다가갈 수 있고 재미있게 놀면서 학습할 수 있습니다.
+GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율주행 스마트카입니다.<br>
+남녀노소 누구나 좋아할 만한 귀여운 자동차 형태로 디자인되어 있어서 아이들이 친근하게 다가갈 수 있고 재미있게 놀면서 학습할 수 있습니다.
 
 이 강의를 통해서,
 1. 여러가지 언플러그드 코딩 활동을 통해 코딩의 기본 개념을 배울 수 있습니다.
@@ -56,15 +57,19 @@ GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율
         </tr>
     </table>
 </div>
-                <div align="center">
-                    <img src="images/image4.png" alt="gocar스펙"><br>스펙
-                </div><br>
-                <div align="center">
-                    <img src="images/image5.png" alt="gocar패키지"><br>패키지 구성
-                </div><br>
-                <div align="center">
-                    <img src="images/image6.png" alt="gocar명칭"><br>부분별 명칭
-                </div><br>
+<br>
+    <div align="center">
+    <img src="images/image4.png" alt="gocar스펙"><br>스펙
+    </div>
+    <br>
+    <div align="center">
+    <img src="images/image5.png" alt="gocar패키지"><br>패키지 구성
+    </div>
+    <br>
+    <div align="center">
+    <img src="images/image6.png" alt="gocar명칭"><br>부분별 명칭
+    </div>
+<br>
 
 ---
 
@@ -93,14 +98,57 @@ GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율
         <tr>
             <td>
                 <div align="left">
-                1) ①	충전 케이블(USB 단자)을 컴퓨터 또는 충전 어댑터의 USB 포트에 연결합니다.<br>
-                2) ②	충전 케이블(마이크로5핀 단자)을 GoCar 뒷면 충전포트에 삽입하여 충전을 시작합니다.<br>
-                3) ③	충전 중일때는 녹색 LED가 밝게 점등되고, 충전이 완료되면 녹색 LED가 꺼집니다(충전포트 옆).
+                1) 충전 케이블(USB 단자)을 컴퓨터 또는 충전 어댑터의 USB 포트에 연결합니다.<br>
+                2) 충전 케이블(마이크로5핀 단자)을 GoCar 뒷면 충전포트에 삽입하여 충전을 시작합니다.<br>
+                3) 충전 중일때는 녹색 LED가 밝게 점등되고, 충전이 완료되면 녹색 LED가 꺼집니다(충전포트 옆).
                 </div>
             </td>
         </tr>
     </table>
 </div>
+<font color="red"><b>※	배터리가 방전되면?!</b></font><br>
+GoCar에서 부저음이 계속 울리면 배터리가 방전된 상태입니다. 즉시 작동을 멈추고 충전용 케이블을 사용하여 충전해주세요.<br>
+(배터리 완충 시간 = <font color="skyblue"><b>약 40분</b></font> / 주행 시간(1회 완충 시) = <font color="skyblue"><b>약 60분</b></font>)
+
+<h2>2. GoCar 전원켜기</h2>
+
+배터리가 충전되었다면 GoCar의 전원을 켜볼까요?
+
+<div align="center">
+        <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image8.png" alt="GoCar 전원켜기" >
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                1) 충전 케이블(USB 단자)을 컴퓨터 또는 충전 어댑터의 USB 포트에 연결합니다.<br>
+                2) 충전 케이블(마이크로5핀 단자)을 GoCar 뒷면 충전포트에 삽입하여 충전을 시작합니다.<br>
+                3) 충전 중일때는 녹색 LED가 밝게 점등되고, 충전이 완료되면 녹색 LED가 꺼집니다(충전포트 옆).
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<h2>3. 컬러 캘리브레이션</h2>
+
+GoCar로 코딩카드를 읽어서 다양한 언플러그드 코딩 활동을 할 수 있습니다. <Br>
+코딩카드를 읽는 방법은 카드에 있는 색상을 GoCar로 인식하는 것인데, 컬러 캘리브레이션 작업을 해주면 색상을 잘 인식할 수 있습니다. <br>
+
+컬러 캘리브레이션 방법은 다음과 같습니다.
+
+<font color="red"><b>※ 컬러 캘리브레이션 : 색상 인식을 위해 GoCar의 컬러 센서를 보정해주는 작업 </b></font><font color="skyblue"><b>(총 8가지 색상 – 흰색/검정/빨강/노랑/초록/하늘/파랑/보라)</b></font>
+
+<div align="center">
+    <img src="images/image9.png" alt="컬러 캘리브레이션1">
+    <img src="images/image10.png" alt="컬러 캘리브레이션2">
+    </div>
+
+<h2>4. 코딩카드 읽기</h2>
+
 
 
 <div align="center">
