@@ -32,7 +32,7 @@ GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율
 
 <br>
 <div align="center">
-    GoCar는 이렇게 생겼어요!
+    <h3>GoCar는 이렇게 생겼어요!</h3>
 </div>
 
 <br>
@@ -59,11 +59,11 @@ GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율
 </div>
 <br>
 <div align="center">
-    <img src="images/image4.png" alt="gocar스펙"><br>스펙
-    <br>
-    <img src="images/image5.png" alt="gocar패키지"><br>패키지 구성
-    <br>
-    <img src="images/image6.png" alt="gocar명칭"><br>부분별 명칭
+    <img src="images/image4.png" alt="gocar스펙"><br><h3>스펙</h3>
+    <br><br>
+    <img src="images/image5.png" alt="gocar패키지"><br><h3>패키지 구성</h3>
+    <br><br>
+    <img src="images/image6.png" alt="gocar명칭"><br><h3>부분별 명칭</h3>
 </div>
 <br>
 
@@ -167,6 +167,11 @@ GoCar로 코딩카드를 읽어서 다양한 언플러그드 코딩 활동을 �
 3) 다른 모드로 전환하는 방법은 전환할 모드 카드를 읽으면 해당 모드로 전환됩니다.
 <br>
 <font color="red"><b>※ 모드 카드를 읽으면 모드별로 다른 부저음이 울리고 메인 전등 색상이 달라지기 때문에 구분하기가 쉽습니다.</b></font><br>
+
+<div align="center">
+    <img src="images/image12.png" alt="기능별 모드 카드">
+</div>
+<br>
 
 <h2>6. 사용 시 주의사항</h2>
 <br>
