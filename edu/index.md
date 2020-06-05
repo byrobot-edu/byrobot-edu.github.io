@@ -1,7 +1,9 @@
-<meta http-equiv="refresh" content="0;url=http://edu.byrobot.co.kr/edu/">
+### BYROBOT.EDU
+
+---
+
 <div align="center">
-<<<<<<< .mine
-    <table>
+        <table>
         <tr>
             <td><div align="center"></div></td>
             <td>
@@ -30,60 +32,15 @@
             </td>
         </tr>
         <tr>
-            <td><div align="center">±³À°°úÁ¤</div></td>
+            <td><div align="center">êµìœ¡ê³¼ì •</div></td>
             <td><div align="center">-</div></td>
-            <td><div align="center"><a href="/software/byblocks/">¹ÙÀÌºí·°À¸·Î ÄÚµùÇØ¿ä</a></div><td>
-            <td><div align="center"><a href="/software/entry/">¿£Æ®¸®·Î ÄÚµùÇØ¿ä</a></div></td>
-            <td><div align="center"><a href="/software/gocar/">ÄÚµùÄ«µå·Î ÀÚÀ²ÁÖÇàÇØ¿ä</a></div></td>
+            <td><div align="center"><a href="/software/byblocks/">ë°”ì´ë¸”ëŸ­ìœ¼ë¡œ ì½”ë”©í•´ìš”</a></div><td>
+            <td><div align="center"><a href="/software/entry/">ì—”íŠ¸ë¦¬ë¡œ ì½”ë”©í•´ìš”</a></div></td>
+            <td><div align="center"><a href="/software/gocar/">ì½”ë”©ì¹´ë“œë¡œ ìžìœ¨ì£¼í–‰í•´ìš”</a></div></td>
         </tr>
     </table>
-=======
-<br>
-<br>
-<br>
-<br>
-<br>
-<img src="/assets/images/products/byrobot_text.png" alt="BYROBOT">
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> .theirs
 </div>
-<<<<<<< .mine
 
 ---
 
-Modified : 2020.6.5
-=======
-
-
-
-
->>>>>>> .theirs
+Modified : 2019.1.8
