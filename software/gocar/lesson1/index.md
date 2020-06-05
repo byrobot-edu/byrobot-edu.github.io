@@ -58,17 +58,13 @@ GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율
     </table>
 </div>
 <br>
-    <div align="center">
+<div align="center">
     <img src="images/image4.png" alt="gocar스펙"><br>스펙
-    </div>
     <br>
-    <div align="center">
     <img src="images/image5.png" alt="gocar패키지"><br>패키지 구성
-    </div>
     <br>
-    <div align="center">
     <img src="images/image6.png" alt="gocar명칭"><br>부분별 명칭
-    </div>
+</div>
 <br>
 
 ---
@@ -85,6 +81,8 @@ GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율
 <h2>1. GoCar 충전하기</h2>
 
 <h3>GoCar는 배터리를 충전해야 사용할 수 있습니다. 배터리를 충전하는 방법은 다음과 같습니다.</h3>
+
+<br>
 
 <div align="center">
         <table>
@@ -106,9 +104,12 @@ GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율
         </tr>
     </table>
 </div>
-<font color="red"><b>※	배터리가 방전되면?!</b></font><br>
+<br>
+<font color="red"><b>※	배터리가 방전되면?!</b></font>
 GoCar에서 부저음이 계속 울리면 배터리가 방전된 상태입니다. 즉시 작동을 멈추고 충전용 케이블을 사용하여 충전해주세요.<br>
-(배터리 완충 시간 = <font color="skyblue"><b>약 40분</b></font> / 주행 시간(1회 완충 시) = <font color="skyblue"><b>약 60분</b></font>)
+(배터리 완충 시간 = <font color="blue"><b>약 40분</b></font> / 주행 시간(1회 완충 시) = <font color="blue"><b>약 60분</b></font>)
+
+<br>
 
 <h2>2. GoCar 전원켜기</h2>
 
@@ -132,6 +133,7 @@ GoCar에서 부저음이 계속 울리면 배터리가 방전된 상태입니다
         </tr>
     </table>
 </div>
+<br>
 
 <h2>3. 컬러 캘리브레이션</h2>
 
@@ -140,12 +142,15 @@ GoCar로 코딩카드를 읽어서 다양한 언플러그드 코딩 활동을 �
 
 컬러 캘리브레이션 방법은 다음과 같습니다.
 
-<font color="red"><b>※ 컬러 캘리브레이션 : 색상 인식을 위해 GoCar의 컬러 센서를 보정해주는 작업 </b></font><font color="skyblue"><b>(총 8가지 색상 – 흰색/검정/빨강/노랑/초록/하늘/파랑/보라)</b></font>
+<font color="red"><b>※ 컬러 캘리브레이션 : 색상 인식을 위해 GoCar의 컬러 센서를 보정해주는 작업 </b></font><br>
+<font color="skyblue"><b>(총 8가지 색상 – 흰색/검정/빨강/노랑/초록/하늘/파랑/보라)</b></font>
 
 <div align="center">
     <img src="images/image9.png" alt="컬러 캘리브레이션1">
     <img src="images/image10.png" alt="컬러 캘리브레이션2">
-    </div>
+</div>
+
+<br>
 
 <h2>4. 코딩카드 읽기</h2>
 
