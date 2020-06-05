@@ -54,48 +54,17 @@ GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율
                 </div>
             </td>
         </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image4.png" alt="gocar3">
-                </div>
-            </td>
-        </tr>
     </table>
 </div>
-
-<br>
-
-<div align="center">
-<font color="red"><b>※ 바이블럭 지원 사양 : 안드로이드 OS 버전 4.4 이상</b></font>
-</div>
-
-<br>
-<br>
-
-
-<h2> 2. 바이블럭(ByBlocks)에 페트론 V2 연결하기</h2>
-
-다음과 같이 바이블럭에 페트론 V2를 연결합니다.
-
-1) 준비물: 스마트폰 or 태블릿, USB 케이블, OTG 케이블, 페트론 V2 드론, 조종기
-
-2) 페트론 V2에 배터리를 장착합니다.
-
-3) 조종기를 USB 모드로 설정하고 USB 케이블과 OTG 케이블을 이용하여 스마트폰 or 태블릿과 연결합니다.
-
-- 조종기: USB 케이블과 연결
-
-- 스마트폰 or 태블릿: OTG 케이블(5핀)
-
-4) 바이블럭 애플리케이션이 자동으로 실행됩니다. (정상적으로 연결되었다면 조종기 화면에 “LINK”라고 표시됩니다.)
-
-<div align="center">
-    <img src="images/image2.png" alt="조종기와 연결">
-</div>
-
-
-<br>
+                <div align="center">
+                    <img src="images/image4.png" alt="gocar스펙"><br>스펙
+                </div><br>
+                <div align="center">
+                    <img src="images/image5.png" alt="gocar패키지"><br>패키지 구성
+                </div><br>
+                <div align="center">
+                    <img src="images/image6.png" alt="gocar명칭"><br>부분별 명칭
+                </div><br>
 
 ---
 
@@ -108,9 +77,31 @@ GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율
 
 <br>
 
-<h2>1. 바이블럭 기본 사용법</h2>
+<h2>1. GoCar 충전하기</h2>
 
-<h3>1) 화면 구성 및 각 화면 영역별 사용법</h3>
+<h3>GoCar는 배터리를 충전해야 사용할 수 있습니다. 배터리를 충전하는 방법은 다음과 같습니다.</h3>
+
+<div align="center">
+        <table>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image7.png" alt="GoCar 충전" >
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="left">
+                1) ①	충전 케이블(USB 단자)을 컴퓨터 또는 충전 어댑터의 USB 포트에 연결합니다.<br>
+                2) ②	충전 케이블(마이크로5핀 단자)을 GoCar 뒷면 충전포트에 삽입하여 충전을 시작합니다.<br>
+                3) ③	충전 중일때는 녹색 LED가 밝게 점등되고, 충전이 완료되면 녹색 LED가 꺼집니다(충전포트 옆).
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
 
 <div align="center">
     <img src="images/image3(2).png" alt="화면 영역">
