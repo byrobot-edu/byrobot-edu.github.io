@@ -407,7 +407,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image25.png" height="350" width="341" alt="좌회전우회전 4단계1"><img src="images/image30.png"   height="350" width="807"alt="좌회전우회전 4단계2"><br>
+                    <img src="images/image25.png" height="350" width="341" alt="좌회전우회전 4단계1"><img src="images/image30.png" height="350" width="807" alt="좌회전우회전 4단계2"><br>
                     GoCar를 평평한 바닥에 놓고 메인 전등 부분을 연속으로 2번 눌러서 코딩을 실행합니다.<br>
                     약 3초 후 GoCar가 자동으로 코딩한 명령을 수행합니다. <br>
                     GoCar가 잘 주행할 수 있도록 매끄럽고 평평한 바닥에서 실행해주세요.<br>
