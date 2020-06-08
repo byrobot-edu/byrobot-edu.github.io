@@ -310,7 +310,7 @@
 <div align="center">
     <table>
         <tr>
-            <td><br><div align="center"><b>1단계 코딩카드 준비하기</b><br></div></td>
+            <td><br><div align="center"><b>1단계 코딩카드 준비하기<br><br></b></div></td>
         </tr>
         <tr>
             <td>
@@ -322,7 +322,7 @@
         </tr>
         <tr>
             <td><div align="center"><b><br>2단계 코딩카드 배열하기<br><br>
-            동작순서 : 1칸 전진 → 1칸 후진<font color="red">(1칸 이동거리 : 약 13cm)<br></font></b></div></td>
+            동작순서 : 1칸 전진 → 1칸 후진<font color="red">(1칸 이동거리 : 약 13cm)<br><br></font></b></div></td>
         </tr>
         <tr>
             <td>
@@ -333,7 +333,7 @@
             </td>
         </tr>
         <tr>
-            <td><div align="center"><b><br>3단계 코딩카드 읽기<br></b></div></td>
+            <td><div align="center"><b><br>3단계 코딩카드 읽기<br><br></b></div></td>
         </tr>
         <tr>
             <td>
@@ -345,7 +345,7 @@
             </td>
         </tr>
         <tr>
-            <td><div align="center"><b><br>4단계 코딩 실행하기<br></b></div></td>
+            <td><div align="center"><b><br>4단계 코딩 실행하기<br><br></b></div></td>
         </tr>
         <tr>
             <td>
@@ -373,7 +373,7 @@
 <div align="center">
     <table>
         <tr>
-            <td><div align="center"><b><br>1단계 코딩카드 준비하기<br></b></div></td>
+            <td><div align="center"><b><br>1단계 코딩카드 준비하기<br><br></b></div></td>
         </tr>
         <tr>
             <td>
@@ -384,8 +384,8 @@
             </td>
         </tr>
         <tr>
-            <td><div align="center"><b><br>2단계 코딩카드 배열하기<br><br>
-            동작순서 : 90도 좌회전 → 90도 우회전<br></b></div></td>
+            <td><div align="center"><b><br>2단계 코딩카드 배열하기<br><br><br>
+            동작순서 : 90도 좌회전 → 90도 우회전<br><br></b></div></td>
         </tr>
         <tr>
             <td>
@@ -396,7 +396,7 @@
             </td>
         </tr>
         <tr>
-            <td><div align="center"><b><br>3단계 코딩카드 읽기<br></b></div></td>
+            <td><div align="center"><b><br>3단계 코딩카드 읽기<br><br></b></div></td>
         </tr>
         <tr>
             <td>
@@ -408,7 +408,7 @@
             </td>
         </tr>
         <tr>
-            <td><div align="center"><b><br>4단계 코딩 실행하기<br></b></div></td>
+            <td><div align="center"><b><br>4단계 코딩 실행하기<br><br></b></div></td>
         </tr>
         <tr>
             <td>
