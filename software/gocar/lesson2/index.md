@@ -332,6 +332,7 @@
                 </div>
             </td>
         </tr>
+        <tr>
             <td><div align="center"><b>3단계 코딩카드 읽기</b></div></td>
         </tr>
         <tr>
@@ -391,6 +392,7 @@
                 </div>
             </td>
         </tr>
+        <tr>
             <td><div align="center"><b>3단계 코딩카드 읽기</b></div></td>
         </tr>
         <tr>
