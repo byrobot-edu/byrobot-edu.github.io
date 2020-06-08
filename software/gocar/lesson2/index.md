@@ -24,7 +24,7 @@
 <div align="center">
     <table>
         <tr>
-            <td><div align="left">카드코딩이란?</div></td>
+            <td><div align="left"><b>카드코딩이란?</b></div></td>
         </tr>
         <tr>
             <td>
@@ -136,7 +136,7 @@
 
 <Br>
 
-<div align="center">컬러 캘리브레이션용 카드</div>
+<div align="center"><b>컬러 캘리브레이션용 카드</b></div>
 <div align="center">
     <table>
         <tr>
@@ -160,7 +160,7 @@
 
 <br>
 
-<div align="center">기타 코딩카드</div>
+<div align="center"><B>기타 코딩카드</b></div>
 <div align="center">
     <table>
         <tr>
@@ -375,7 +375,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image27.png" alt="좌회전우회전 1단계"><br>
+                    <img src="images/image27.png" height="310" width="969" alt="좌회전우회전 1단계"><br>
                     카드코딩에 필요한 코딩카드들을 준비해보아요.
                 </div>
             </td>
@@ -387,7 +387,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image28.png" alt="좌회전우회전 2단계"><br>
+                    <img src="images/image28.png" height="310" width="1083" alt="좌회전우회전 2단계"><br>
                     동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!
                 </div>
             </td>
@@ -398,7 +398,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image29.png" alt="좌회전우회전 3단계"><br>
+                    <img src="images/image29.png" height="355" width="1083" alt="좌회전우회전 3단계"><br>
                     GoCar의 전원을 켜고 코딩카드를 읽습니다. <Br>코딩카드가 잘 읽히도록 올바른 위치에 GoCar를 올려놓고 카드 순서대로 메인 전등 부분을 1번 눌러서 카드를 읽어주세요. <Br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br><br>
                     <font color="red"><b>※ “카드코딩 모드” 카드는 처음 한 번만 읽습니다!</b></font>
                 </div>
@@ -407,7 +407,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image25.png" height="350" width="341" alt="좌회전우회전 4단계1"><img src="images/image30.png"  alt="좌회전우회전 4단계2"><br>
+                    <img src="images/image25.png" height="350" width="341" alt="좌회전우회전 4단계1"><img src="images/image30.png"   height="350" width="807"alt="좌회전우회전 4단계2"><br>
                     GoCar를 평평한 바닥에 놓고 메인 전등 부분을 연속으로 2번 눌러서 코딩을 실행합니다.<br>
                     약 3초 후 GoCar가 자동으로 코딩한 명령을 수행합니다. <br>
                     GoCar가 잘 주행할 수 있도록 매끄럽고 평평한 바닥에서 실행해주세요.<br>
@@ -430,7 +430,7 @@
 
 <br>
 
-직접 코딩하여 GoCar를 움직여보니까 재미있었나요? 
+직접 코딩하여 GoCar를 움직여보니까 재미있었나요? <br>
 전진과 후진, 좌회전과 우회전 명령어를 섞어서 사용하면 좀 더 다양한 주행을 할 수 있고, 출발지에서 도착지까지 찾아가는 길찾기 놀이도 할 수 있습니다.
 
 1. GoCar로 총 43장의 카드를 읽어서 카드코딩을 할 수 있습니다.
