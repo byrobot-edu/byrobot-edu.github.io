@@ -48,7 +48,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
     <table>
         <tr>
             <td><div align="center"><b>카테고리</b></div></td>
@@ -136,7 +136,7 @@
 
 <Br>
 
-<div align="center">컬러 캘리브레이션용 카드</div><br>
+<div align="center">컬러 캘리브레이션용 카드</div>
 <div align="center">
     <table>
         <tr>
@@ -160,7 +160,7 @@
 
 <br>
 
-<div align="center">기타 코딩카드</div><br>
+<div align="center">기타 코딩카드</div>
 <div align="center">
     <table>
         <tr>
@@ -185,6 +185,8 @@
 <br>
 
 <font color="red"><b>※ 만약, GoCar가 코딩카드를 잘 읽지 못한다면 1차시에 배웠던 <font color="blue"> 컬러 캘리브레이션 </font>작업을 해주세요!</b></font>
+
+<br>
 
 ---
 
@@ -275,7 +277,7 @@
                 <div align="center">카드 순서</div>
             </td>
             <td>
-                <img src="images/image21.png" alt="좌회전/우회전">
+                <img src="images/image21.png" height="304" width="866" alt="좌회전/우회전">
             </td>
         </tr>
     </table>
@@ -305,7 +307,7 @@
 <div align="center">
     <table>
         <tr>
-            <td><div align="center">1단계 코딩카드 준비하기</div></td>
+            <td><div align="center"><b>1단계 코딩카드 준비하기</b></div></td>
         </tr>
         <tr>
             <td>
@@ -316,13 +318,33 @@
             </td>
         </tr>
         <tr>
-            <td><div align="center">2단계 코딩카드 배열하기</div></td>
+            <td><div align="center"><b>2단계 코딩카드 배열하기</b></div></td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image23.png" alt="전진후진 2단계"><br>
+                    <img src="images/image23.png" height="304" width="1062" alt="전진후진 2단계"><br>
                     동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요
+                </div>
+            </td>
+        </tr>
+            <td><div align="center"><b>3단계 코딩카드 읽기</b></div></td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image24.png" height="304" width="1062" alt="전진후진 3단계"><br>
+                    GoCar의 전원을 켜고 코딩카드를 읽습니다. 코딩카드가 잘 읽히도록 올바른 위치에 GoCar를 올려놓고 카드 순서대로 메인 전등 부분을 1번 눌러서 카드를 읽어주세요. 만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br>
+                    <font color="red"><b>※ “카드코딩 모드” 카드는 처음 한 번만 읽습니다!</b></font>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image25.png" alt="전진후진 4단계1"><img src="images/image26.png" alt="전진후진 4단계1">
+                    GoCar를 평평한 바닥에 놓고 메인 전등 부분을 연속으로 2번 눌러서 코딩을 실행합니다. 약 3초 후 GoCar가 자동으로 코딩한 명령을 수행합니다. GoCar가 잘 주행할 수 있도록 매끄럽고 평평한 바닥에서 실행해주세요..<br>
+                    <font color="red"><b>※ 칸 전진과 후진의 이동 거리는 약 <font color="blue">13cm</font>입니다.</b></font>
                 </div>
             </td>
         </tr>
