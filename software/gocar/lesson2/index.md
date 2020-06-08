@@ -320,6 +320,10 @@
                 </div>
             </td>
         </tr>
+    </table>
+</div>
+<div align="center">
+    <table>
         <tr>
             <td><div align="center"><b>2단계 코딩카드 배열하기<br>
             동작순서 : 1칸 전진 → 1칸 후진<font color="red">(1칸 이동거리 : 약 13cm)</font></b></div></td>
@@ -332,6 +336,10 @@
                 </div>
             </td>
         </tr>
+    </table>
+</div>
+<div align="center">
+    <table>
         <tr>
             <td><div align="center"><b>3단계 코딩카드 읽기</b></div></td>
         </tr>
@@ -344,6 +352,10 @@
                 </div>
             </td>
         </tr>
+    </table>
+</div>
+<div align="center">
+    <table>
         <tr>
             <td><div align="center"><b>4단계 코딩 실행하기</b></div></td>
         </tr>
