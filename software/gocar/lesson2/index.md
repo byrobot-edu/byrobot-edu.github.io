@@ -310,7 +310,7 @@
 <div align="center">
     <table>
         <tr>
-            <td><br><div align="center"><b>1단계 코딩카드 준비하기<br><br></b></div></td>
+            <td><br><div align="center"><b><h3>1단계 코딩카드 준비하기</h3><br><br></b></div></td>
         </tr>
         <tr>
             <td>
