@@ -345,6 +345,9 @@
             </td>
         </tr>
         <tr>
+            <td><div align="center"><b>4단계 코딩 실행하기</b></div></td>
+        </tr>
+        <tr>
             <td>
                 <div align="center">
                     <img src="images/image25.png" height="350" width="341" alt="전진후진 4단계1"><img src="images/image26.png" height="500" width="640" alt="전진후진 4단계2"><br>
@@ -403,6 +406,9 @@
                     <font color="red"><b>※ “카드코딩 모드” 카드는 처음 한 번만 읽습니다!</b></font>
                 </div>
             </td>
+        </tr>
+        <tr>
+            <td><div align="center"><b>4단계 코딩 실행하기</b></div></td>
         </tr>
         <tr>
             <td>
