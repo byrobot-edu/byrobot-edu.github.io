@@ -384,7 +384,7 @@
             </td>
         </tr>
         <tr>
-            <td><div align="center"><b><br><h3>2단계 코딩카드 배열하기</h3>><br><br>
+            <td><div align="center"><b><br><h3>2단계 코딩카드 배열하기</h3><br><br>
             동작순서 : 90도 좌회전 → 90도 우회전<br><br></b></div></td>
         </tr>
         <tr>
