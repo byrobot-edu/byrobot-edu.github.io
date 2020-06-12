@@ -207,7 +207,7 @@
 
 1) 카드코딩 실행 방법은 GoCar를 평평한 곳에 놓고 메인 전등 부분을 2번 연속으로 누르면 약 2~3초 후 부저음(띠리릭)이 울리면서 자동으로 실행됩니다.<br>
 2) 한 번 입력된 코딩 명령은 메모리에 저장되어 계속 실행할 수 있습니다. 단, “코딩 시작” 카드를 다시 읽으면 초기화됩니다. <br>
-<font color="red"><b>※ ※	GoCar의 전원을 꺼도 저장되어 있습니다. (저장 가능한 최대 카드 개수 : 120장)</b></font>
+<font color="red"><b>※ GoCar의 전원을 꺼도 저장되어 있습니다. (저장 가능한 최대 카드 개수 : 120장)</b></font>
 
 <br>
 
@@ -352,7 +352,7 @@
                 <div align="center">
                     <img src="images/image25.png" height="350" width="341" alt="전진후진 4단계1"><img src="images/image26.png" height="500" width="640" alt="전진후진 4단계2"><br>
                     GoCar를 평평한 바닥에 놓고 메인 전등 부분을 연속으로 2번 눌러서 코딩을 실행합니다. <br>약 3초 후 GoCar가 자동으로 코딩한 명령을 수행합니다. <br>GoCar가 잘 주행할 수 있도록 매끄럽고 평평한 바닥에서 실행해주세요.<br><br>
-                    <font color="red"><b>※ 칸 전진과 후진의 이동 거리는 약 <font color="blue">13cm</font>입니다.</b></font>
+                    <font color="red"><b>※ 1칸 전진과 후진의 이동 거리는 약 <font color="blue">13cm</font>입니다.</b></font>
                 </div>
             </td>
         </tr>
