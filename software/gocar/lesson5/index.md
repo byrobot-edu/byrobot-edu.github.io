@@ -55,28 +55,28 @@ GoCar에는 소리를 낼 수 있는 부저와 여러 가지 색상으로 빛을
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image2.png" height="400" width="250"><img src="images/image3.png" height="139" width="150"><img src="images/image4.png"height="400" width="597">
+                    <img src="images/image2.png" height="400" width="250"><img src="images/image3.png"  height="139" width="150"><img src="images/image4.png" height="400" width="597">
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image5.png" height="400" width="250"><img src="images/image3.png" height="139" width="150"><img src="images/image6.png"height="300" width="901">
+                    <img src="images/image5.png" height="400" width="250"><img src="images/image3.png" height="139" width="150"><img src="images/image6.png" height="300" width="901">
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image7.png" height="400" width="250"><img src="images/image3.png" height="139" width="150"><img src="images/image8.png"height="300" width="901">
+                    <img src="images/image7.png" height="400" width="250"><img src="images/image3.png" height="139" width="150"><img src="images/image8.png" height="300" width="901">
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image9.png" height="400" width="250"><img src="images/image3.png" height="139" width="150"><img src="images/image10.png"height="300" width="901">
+                    <img src="images/image9.png" height="400" width="250"><img src="images/image3.png" height="139" width="150"><img src="images/image10.png" height="300" width="901">
                 </div>
             </td>
         </tr>
@@ -109,7 +109,7 @@ GoCar에는 소리를 낼 수 있는 부저와 여러 가지 색상으로 빛을
             </td>
             <td>
                 <div align="center"><img src="images/image11.png"><br>
-                <img src="images/image12.png" height="80" width="214" a href="images/[Lesson5]GoCar_주차실습판"></div>
+                <a href="images/[Lesson5]GoCar_주차실습판"><img src="images/image12.png" height="80" width="214" ></a></div>
             </td>
         </tr>
     </table>
