@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-    <h1>Lesson 4. GoCar로 카드코딩해요(3)</h1>
+    <h1>Lesson 5. GoCar로 카드코딩해요(4)</h1>
 </div>
 
 <br>
@@ -17,9 +17,10 @@
 
 <br>
 
-로봇은 여러 가지 센서들이 장착되어 있습니다. <br>
-이러한 센서들이 정보를 수집하여 로봇에게 상태를 알려주면 로봇은 상황에 맞게 동작하게 됩니다. <br>
-GoCar에도 전방 장애물 감지 센서(적외선 센서), 컬러 센서, 자세 센서 등 첨단 센서들이 장착되어 다양한 기능을 수행합니다.
+GoCar에는 소리를 낼 수 있는 부저와 여러 가지 색상으로 빛을 낼 수 있는 LED가 장착되어 있습니다.<br>
+이번 강의에서는 GoCar의 부저와 LED 등을 이용하여 다양한 효과를 내면서 주행하는 코딩을 해보려고 합니다.<br>
+그럼 먼저 소리/라이트(Light)와 관련된 카드는 어떤 것들이 있는지 살펴보아요.
+
 
 
 <br>
@@ -29,29 +30,14 @@ GoCar에도 전방 장애물 감지 센서(적외선 센서), 컬러 센서, 자
     <table>
         <tr>
             <td>
-                <div align="left">센서(Sensor)란?</div>
+                <div align="center"><b>소리 카드(총 8장)</b></div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="left">▶	센서(Sensor)란 무언가를 느끼고, 그 감각으로부터 무언가를 알아내는 것을 의미합니다. <font color="red"><b>빛, 소리, 화학물질, 온도 등과 같이 감각과 관련된 신호들을 수집하여 이 신호들을 과학적인 방법으로 분석하고 상태를 알아내는 장치</b></font>를 통틀어서 센서라고 합니다.<br><br>
-
-▶	센서는 우리 일상생활 속에서 다양하게 사용되고 있습니다. 예를 들어, 사람이 자동문 앞에 서면 센서가 이를 알아내어 문이 열리도록 신호를 보냅니다. 그리고 갑자기 불이 나면 센서가 이를 알아내어 소화 장치가 작동하도록 신호를 보내는 것 모두 센서가 사용되는 경우입니다.<Br><br>
-
-▶	GoCar에 사용되는 센서들은 장애물 감지(적외선) 센서, 컬러 센서, 자세 센서(가속도, 자이로스코프) 등이 있습니다.<br><br>
-①	장애물 감지(적외선) 센서 : 적외선을 이용하여 센서와 장애물까지의 거리를 측정할 수 있고, 장애물을 감지하면서 주행하는 자율주행이 가능합니다.<br>
-②	컬러 센서 : 코딩카드의 색상을 인식하여 카드코딩을 할 수 있고, 검은색 또는 흰색 라인을 따라 주행할 수 있습니다.<Br>
-③	자세 센서 : GoCar가 정확한 방향으로 주행할 수 있고, GoCar의 기울임에 따라 명령을 줄 수 있는 모션코딩이 가능합니다.<br>
-
-</div>
-            </td>
-        </tr>
-        <tr>
-            <td>여러가지 센서
-            </td>
-        </tr>
-        <tr>
-            <td><img src="images/image1.png" alt="여러가지센서">
+                <div align="center">
+                    <img src="images/image1.png">
+                </div>
             </td>
         </tr>
     </table>
@@ -59,10 +45,46 @@ GoCar에도 전방 장애물 감지 센서(적외선 센서), 컬러 센서, 자
 
 <br>
 
-이번 강의에서는 GoCar의 다양한 센서 중에서 전방 장애물 감지(적외선) 센서를 이용하여 장애물을 피해서 주행하는 코딩을 해보려고 합니다. <br>
-센서를 활용한 코딩은 조건문이란 명령어를 사용해야 하는데, 특정 조건에서 어떻게 동작하라는 명령을 줄 수 있습니다. <Br>
-코딩카드가 많이 사용되어 어렵게 느껴질 수 있지만 차근차근 따라해보면 쉽게 해낼 수 있을 거예요. <Br>
-그럼 시작해볼까요?
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center"><b>라이트 카드(총 4장)</b></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image2.png" height="400" width="250"><img src="images/image3.png" height="139" width="150"><img src="images/image4.png"height="400" width="597">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image5.png" height="400" width="250"><img src="images/image3.png" height="139" width="150"><img src="images/image6.png"height="300" width="901">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image7.png" height="400" width="250"><img src="images/image3.png" height="139" width="150"><img src="images/image8.png"height="300" width="901">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img src="images/image9.png" height="400" width="250"><img src="images/image3.png" height="139" width="150"><img src="images/image10.png"height="300" width="901">
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+<br>
+
+이제 주행하면서 여러가지 음을 연주하고 아름답게 빛나는 GoCar를 만나러 가볼까요?
 
 <br>
 
@@ -77,18 +99,17 @@ GoCar에도 전방 장애물 감지 센서(적외선 센서), 컬러 센서, 자
 
 <br>
 
-GoCar는 다음과 같이 동작합니다. 만약 전방에 장애물이 있으면 U턴을 하고, 장애물이 없으면 1칸 전진합니다.
+아래 주차 실습판을 활용하여 GoCar로 후진 주차하는 코딩을 해볼거예요. 후진 주차를 하면서 소리와 라이트 카드를 사용하여 효과를 줘보아요.
 
 <div align="center">
     <table>
         <tr>
             <td>
-                <div align="center">① 만약 전방에 장애물이 있으면 U턴하기</div>
+                <div align="center">주차 실습판</div>
             </td>
-        </tr>
-        <tr>
             <td>
-                <div align="center">② 만약 전방에 장애물이 없으면 1칸 전진하기</div>
+                <div align="center"><img src="images/image11.png"><br>
+                <img src="images/image12.png" height="80" width="214" a href="images/[Lesson5]GoCar_주차실습판"></div>
             </td>
         </tr>
     </table>
@@ -96,40 +117,13 @@ GoCar는 다음과 같이 동작합니다. 만약 전방에 장애물이 있으�
 
 <br>
 
-다음으로 반복문을 사용하여 코드를 만들어볼까요? 먼저 반복문이 무엇인지 알아봅시다.
+먼저 실습판의 “START” 위치에서 “P(Parking)” 위치까지 GoCar를 이동시키려면 어떻게 코드를 짜야 할지 생각해보아요.<br><br>
+<b>※	마지막 “P(Parking)” 위치는 <font color="red">후진</font>하여 이동해야 합니다.</b><br>
+여러가지 방법이 있겠지만 다음과 같이 동작한다고 가정해서 코드를 만들어보았습니다.
+
 <br>
 
 
-<div align="center">
-    <table>
-        <tr>
-            <td>
-                <div align="center">
-                    알기 쉬운 코딩
-                </div>
-            </td>
-            <td>
-                <div align="center">
-                    조건문
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image2.png">
-                </div>
-            </td>
-            <td>
-                <div align="left">
-                    조건문이란 코딩의 주요 문법 중 하나로서 특정 조건을 주고 그 조건에 따라 서로 다른 명령을 수행해야할 때 사용합니다. <br>
-                    우리가 흔히 “만약 ~라면, ~하겠다”란 말을 자주 사용하는데, 바로 이러한 상황을 코딩으로 표현한 것이라고 보면 됩니다.<br><Br>
-                    주어진 조건이 참인지 거짓인지 판단하여 참이면 명령A를 거짓이면 명령B를 수행할 수 있게 할 수 있습니다.<Br> 또한, 참과 거짓 2가지 경우로만 구분하지 않고 여러가지 경우에 따라 서로 다른 명령을 줄 수도 있습니다.
-                </div>
-            </td>
-        </tr>
-    </table>
-</div>
 
 <br>
 
