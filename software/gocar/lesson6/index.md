@@ -34,15 +34,15 @@
         </tr>
         <tr>
             <td>
-                <div align="center">
-                    <img src="images/image1.png"><img src="images/image2.png">
+                <div align="left">☞	검은색(흰색 바탕) 또는 흰색(검은색 바탕) 라인을 따라서 주행하는 것을 라인코딩이라고 합니다. <br>
+                GoCar의 하부에 장착된 컬러센서가 검은색과 흰색을 인식하여 라인을 따라 주행할 수 있습니다.
                 </div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="left">☞	검은색(흰색 바탕) 또는 흰색(검은색 바탕) 라인을 따라서 주행하는 것을 라인코딩이라고 합니다. <br>
-                GoCar의 하부에 장착된 컬러센서가 검은색과 흰색을 인식하여 라인을 따라 주행할 수 있습니다.
+                <div align="center">
+                    <img src="images/image1.png"><img src="images/image2.png">
                 </div>
             </td>
         </tr>
