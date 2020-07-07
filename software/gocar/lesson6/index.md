@@ -168,16 +168,16 @@ GoCar가 라인을 따라 잘 주행하나요? 그렇다면 여러가지 다른 
     <table>
         <tr>
             <td bgcolor="red">
-                <div align="center"><span style="font-color:white; font-size:20px; font-weight:bold;">빨간색</span></div>
+                <div align="center"><p style="font-color:white; font-size:20px; font-weight:bold;">빨간색</p></div>
             </td>
             <td bgcolor="magenta">
-                <div align="center"><span style="font-color:white; font-size:20px; font-weight:bold;">보라색</span></div>
+                <div align="center"><p style="font-color:white; font-size:20px; font-weight:bold;">보라색</p></div>
             </td>
             <td bgcolor="green">
-                <div align="center"><span style="font-color:white; font-size:20px; font-weight:bold;">초록색</span></div>
+                <div align="center"><p style="font-color:white; font-size:20px; font-weight:bold;">초록색</p></div>
             </td>
             <td bgcolor="yellow">
-                <div align="center"><span style="font-color:black; font-size:20px; font-weight:bold;">노란색</span></div>
+                <div align="center"><p style="font-color:black; font-size:20px; font-weight:bold;">노란색</p></div>
             </td>
         </tr>
         <tr>
@@ -212,7 +212,7 @@ GoCar가 라인을 따라 잘 주행하나요? 그렇다면 여러가지 다른 
             </td>
         </tr>
         <tr>
-            <td colspan="2"><font color="red"><b>※ 십자형(+) 교차로에서 2가지 색상(초록색, 노란색)이 모두 없으면 직진합니다.</b>
+            <td colspan="2"><font color="red"><b>※ 십자형(+) 교차로에서 2가지 색상(초록색, 노란색)이 모두 없으면 직진합니다.</b></font>
             </td>
         </tr>
     </table>
