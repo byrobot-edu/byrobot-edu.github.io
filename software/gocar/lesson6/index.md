@@ -168,16 +168,16 @@ GoCar가 라인을 따라 잘 주행하나요? 그렇다면 여러가지 다른 
     <table>
         <tr>
             <td bgcolor="red">
-                <div align="center"><span style="font-color:white; font-size:20px; font-weight:bold;">빨간색</div>
+                <div align="center"><span style="font-color:white; font-size:20px; font-weight:bold;">빨간색</span></div>
             </td>
             <td bgcolor="magenta">
-                <div align="center"><span style="font-color:white; font-size:20px; font-weight:bold;">보라색</div>
+                <div align="center"><span style="font-color:white; font-size:20px; font-weight:bold;">보라색</span></div>
             </td>
             <td bgcolor="green">
-                <div align="center"><span style="font-color:white; font-size:20px; font-weight:bold;">초록색</div>
+                <div align="center"><span style="font-color:white; font-size:20px; font-weight:bold;">초록색</span></div>
             </td>
             <td bgcolor="yellow">
-                <div align="center"><span style="font-color:black; font-size:20px; font-weight:bold;">노란색</div>
+                <div align="center"><span style="font-color:black; font-size:20px; font-weight:bold;">노란색</span></div>
             </td>
         </tr>
         <tr>
