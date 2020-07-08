@@ -70,6 +70,7 @@
                 ▶	가속도 센서는 각 축에 작용하는 중력가속도를 측정하여 현재 물체가 현재 어떤 방향으로 얼만큼 기울어져 있는지 확인할 수 있습니다.<br><Br>
                 ▶	자이로 센서는 각 축에 작용하는 각속도(회전하는 각도의 변화량)를 측정하여 현재 물체가 어떤 방향으로 얼만큼 기울어져 있는지 확인할 수 있습니다.<br><br>
                 ▶	가속도 센서와 자이로 센서는 사용 용도가 같지만 각 센서가 갖고 있는 단점들을 상호 보완하여 더욱 정밀한 측정을 할 수 있습니다.<br><Br>
+                </div>
             </td>
         </tr>
     </table>
@@ -156,6 +157,87 @@
 </div>
 
 <br>
+
+<div align="center">
+    <table>
+        <tr>
+            <td rowspan="6">
+                <div align="center">1단계
+                </div>
+            </td>
+            <td colspan="3"> 
+                <div align="center"> 코딩 입력하기</div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="4">
+                <div align="center"><img src="images/image6.png"></div>
+            </td>
+            <td>
+                <div align="center"> ① 1칸 전진하기 </div>
+            </td>
+            <td>
+                <div align="center"> ② 90도 좌회전하기 </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center"><img src="images/image7.png">
+                </div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image8.png">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center"> ③ 1칸 전진하기 </div>
+            </td>
+            <td>
+                <div align="center"> ④ 1칸 전진하기 </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center"><img src="images/image7.png">
+                </div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image7.png">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <div align="left">
+                    ① GoCar가 출발할 위치와 도착할 위치의 번호를 친구가 말해주면 어떻게 주행할지 생각합니다. (ex: 9번에서 출발하여 4번으로 가세요.)<br>
+                    ② “모션코딩 모드” 카드와 “코딩 시작” 카드를 순서대로 읽고, 평형을 유지한 채 GoCar를 들어올려서 코딩 명령을 입력합니다.<br>
+                    ③ 코딩 명령을 모두 입력시킨 후 “코딩 끝” 카드를 읽어서 코딩을 완료합니다.<br>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+                <div align="center">2단계
+                </div>
+            </td>
+            <td colspan="3"> 
+                <div align="center"> 코딩 실행하기</div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3"> 
+                <div align="center"> <img src="images/image9.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <div align="left">
+                    GoCar를 9번 위치에 올려놓고 메인 전등 부분을 연속으로 2번 눌러서 코딩을 실행합니다. 약 2~3초 후 GoCar가 자동으로 코딩한 명령을 수행합니다.<br> GoCar가 4번 위치까지 잘 이동하는지 확인하고, 만약 이동하지 않으면 어떤 부분이 잘못됐는지 확인하여 수정 후 재실행합니다.
+            </td>
+        </tr>
+   </table>
+</div>
 
 
 
