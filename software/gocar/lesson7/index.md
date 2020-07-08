@@ -162,11 +162,11 @@
     <table>
         <tr>
             <td rowspan="6">
-                <div align="center">1단계
+                <div align="center"><b>1단계</b>
                 </div>
             </td>
             <td colspan="3"> 
-                <div align="center"> 코딩 입력하기</div>
+                <div align="center"> <b>코딩 입력하기</b></div>
             </td>
         </tr>
         <tr>
@@ -219,11 +219,11 @@
         </tr>
         <tr>
             <td rowspan="3">
-                <div align="center">2단계
+                <div align="center"><b>2단계</b>
                 </div>
             </td>
             <td colspan="3"> 
-                <div align="center"> 코딩 실행하기</div>
+                <div align="center"> <b>코딩 실행하기</b></div>
             </td>
         </tr>
         <tr>
