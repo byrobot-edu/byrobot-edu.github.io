@@ -216,10 +216,6 @@
                     ③ 코딩 명령을 모두 입력시킨 후 “코딩 끝” 카드를 읽어서 코딩을 완료합니다.<br>
             </td>
         </tr>
-    </table>
-</div>
-<div align="center">
-    <table>
         <tr>
             <td rowspan="3">
                 <div align="center">2단계
