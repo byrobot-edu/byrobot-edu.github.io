@@ -26,7 +26,6 @@ en: &en
   show_license: 'Show License'
   edu: 'Edu'
   download: 'Download'
-  forum: 'Forum'
   tags: 'Tags'
   view: 'View'
   
@@ -58,7 +57,6 @@ ko:
   show_license: 'Show License'
   edu: '교육'
   download: '다운로드'
-  forum: '포럼'
   tags: '태그'
   view: 'View'
 en-us:
