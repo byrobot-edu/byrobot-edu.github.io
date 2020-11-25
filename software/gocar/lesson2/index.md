@@ -132,7 +132,7 @@
 <br>
 
 컬러 캘리브레이션용 코딩카드는 앞면과 뒷면에 각각 다른 색상이 그려져 있습니다. <br>
-그리고 나머지 코딩카드는 앞면에 색상이 그려져 있고, 뒷면에 명령어와 아이콘이 그려져 있습니다.
+그리고 나머지 코딩카드는 앞면에 명령어와 아이콘이 표시되어 있고, 뒷면에 색상이 그려져 있습니다.
 
 <Br>
 
@@ -165,10 +165,10 @@
     <table>
         <tr>
             <td>
-                <img src="images/image17.png" alt="코딩시작 앞면">
+                <img src="images/image18.png" alt="코딩시작 앞면">
             </td>
             <td>
-                <img src="images/image18.png" alt="코딩시작 뒷면">
+                <img src="images/image17.png" alt="코딩시작 뒷면">
             </td>
         </tr>
         <tr>
