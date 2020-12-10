@@ -5,34 +5,42 @@
 <div align="center">
         <table>
         <tr>
-            <td><div align="center"></div></td>
+            <th><div align="center"><font face="맑은고딕">제품명</font></div></th>
             <td>
-                <div align="center">
-                    <img src="/assets/images/products/drone_fighter_and_controller.jpg" alt="drone_fighter_and_controller" height="240" width="240"><br>
+                <div align="center" style="height:50px">
                     DRONE FIGHTER
                 </div>
+                <div align="center">
+                    <img src="/assets/images/products/drone_fighter_and_controller.jpg" alt="drone_fighter_and_controller" height="240" width="240"><br>
+                </div>
             </td>
             <td>
+                <div align="center" style="height:50px">
+                    PETRONE V2
+                </div>
                 <div align="center">
                     <img src="/assets/images/products/petrone_v2_and_controller.jpg" alt="petrone_v2_and_controller" height="240" width="240"><br>
-                    PETRONE V2
                 </div>
             </td>
             <td>
+                <div align="center" style="height:50px">
+                    PETRONE V2
+                </div>
                 <div align="center">
                     <img src="/assets/images/products/entry_mian.jpg" height="240" width="240"><br>
-                    PETRONE V2
                 </div>
             </td>
             <td>
+                <div align="center" style="height:50px">
+                    GOCAR
+                </div>
                 <div align="center">
                     <img src="/assets/images/products/gocar.png" height="240" width="240"><br>
-                    GOCAR
                 </div>
             </td>
         </tr>
         <tr>
-            <td><div align="center"><font face="맑은고딕">교육과정</font></div></td>
+            <th><div align="center"><font face="맑은고딕">교육과정</font></div></th>
             <td><div align="center">-</div></td>
             <td><div align="center"><a href="/software/byblocks/">바이블럭으로 코딩해요</a></div></td>
             <td><div align="center"><a href="/software/entry/">엔트리로 코딩해요</a></div></td>
