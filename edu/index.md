@@ -7,35 +7,27 @@
         <tr>
             <th><div align="center"><font face="맑은고딕">제품명</font></div></th>
             <td>
-                <div align="center" style="height:50px">
-                    DRONE FIGHTER
-                </div>
-                <div align="center">
+                <div align="center" style="height:240px">
                     <img src="/assets/images/products/drone_fighter_and_controller.jpg" alt="drone_fighter_and_controller" height="240" width="240"><br>
+                    <font face="맑은고딕">DRONE FIGHTER</font>
                 </div>
             </td>
             <td>
-                <div align="center" style="height:50px">
-                    PETRONE V2
-                </div>
-                <div align="center">
+                <div align="center" style="height:240px">
                     <img src="/assets/images/products/petrone_v2_and_controller.jpg" alt="petrone_v2_and_controller" height="240" width="240"><br>
+                    <font face="맑은고딕">PETRONE V2</font>
                 </div>
             </td>
             <td>
-                <div align="center" style="height:50px">
-                    PETRONE V2
-                </div>
-                <div align="center">
+                <div align="center" style="height:240px">
                     <img src="/assets/images/products/entry_mian.jpg" height="240" width="240"><br>
+                    <font face="맑은고딕">PETRONE V2</font>
                 </div>
             </td>
             <td>
-                <div align="center" style="height:50px">
-                    GOCAR
-                </div>
-                <div align="center">
+                <div align="center" style="height:240px">
                     <img src="/assets/images/products/gocar.png" height="240" width="240"><br>
+                    <font face="맑은고딕">GOCAR</font>
                 </div>
             </td>
         </tr>
