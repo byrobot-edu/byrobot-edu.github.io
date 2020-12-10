@@ -32,7 +32,7 @@
             </td>
         </tr>
         <tr>
-            <td><div align="center">교육과정</div></td>
+            <td><div align="center"><font face="맑은고딕">교육과정</font></div></td>
             <td><div align="center">-</div></td>
             <td><div align="center"><a href="/software/byblocks/">바이블럭으로 코딩해요</a></div></td>
             <td><div align="center"><a href="/software/entry/">엔트리로 코딩해요</a></div></td>
