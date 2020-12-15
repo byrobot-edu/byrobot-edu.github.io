@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-    <h1>Lesson 1. GoCar와 친구해요!</h1>
+    <h1>Lesson 1. 코딩드론과 친구해요!</h1>
 </div>
 
 <br>
@@ -17,13 +17,15 @@
 
 <br>
 
-GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율주행 스마트카입니다.<br>
-남녀노소 누구나 좋아할 만한 귀여운 자동차 형태로 디자인되어 있어서 아이들이 친근하게 다가갈 수 있고 재미있게 놀면서 학습할 수 있습니다.
+코딩드론(BRC-105)은 세계 최초로 언플러그드 코딩이 가능한 코딩교육용 드론입니다. <br>
+드론 하단에 컬러 센서를 장착하여 8가지 색상으로 구성된 코딩카드로 언플러그드 코딩을 할 수 있습니다. <br>
+또한, 언플러그드 코딩 뿐만 아니라 PC와 연결하여 엔트리, 파이썬으로 코딩 활동이 가능합니다. <br>
+이처럼 코딩드론은 다양한 코딩 방식을 제공하여 언제 어디서든지 쉽게 드론 코딩을 즐길 수 있도록 설계되었습니다.
 
 이 강의를 통해서,
-1. 여러가지 언플러그드 코딩 활동을 통해 코딩의 기본 개념을 배울 수 있습니다.
-2. GoCar의 자율주행을 직접 체험할 수 있습니다.
-3. 4차산업의 핵심 분야인 코딩과 로봇을 접목하여 STEAM 교육에 필요한 통합&융합적 사고력을 기를 수 있습니다. 
+1. 다양한 방식의 코딩 활동을 통해 코딩의 기본 개념을 배울 수 있습니다.
+2. 코딩드론의 자율비행을 직접 체험할 수 있습니다.
+3. 4차산업의 핵심 분야인 코딩과 드론을 접목하여 STEAM 교육에 필요한 통합&융합적 사고력을 기를 수 있습니다. 
 4. 다가올 미래 사회에 꼭 필요한 창의융합형 인재의 역량을 키울 수 있습니다.
 
 <br>
@@ -32,7 +34,7 @@ GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율
 
 <br>
 <div align="center">
-    <h3>GoCar는 이렇게 생겼어요!</h3>
+    <h3>코딩드론은 이렇게 생겼어요!</h3>
 </div>
 
 <br>
@@ -41,17 +43,17 @@ GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image1.png" alt="gocar1"><br>
+                    <img src="images/image1.png" alt="codingdrone1"><br>
                 </div>
             </td>
             <td>
                 <div align="center">
-                    <img src="images/image2.png" alt="gocar2"><br>
+                    <img src="images/image2.png" alt="codingdrone2"><br>
                 </div>
             </td>
             <td>
                 <div align="center">
-                    <img src="images/image3.png" alt="gocar3"><br>
+                    <img src="images/image3.png" alt="codingdrone3"><br>
                 </div>
             </td>
         </tr>
@@ -59,11 +61,15 @@ GoCar는 교육용 로봇으로서 코딩과 RC조종이 모두 가능한 자율
 </div>
 <br>
 <div align="center">
-    <img src="images/image4.png" alt="gocar스펙"><br><h3>스펙</h3>
+    <img src="images/image4.png" alt="스펙"><br><h3>스펙</h3>
     <br><br>
-    <img src="images/image5.png" alt="gocar패키지"><br><h3>패키지 구성</h3>
+    <img src="images/image5.jpeg" alt="주요특징"><br><h3>주요 특징</h3>
     <br><br>
-    <img src="images/image6.png" alt="gocar명칭"><br><h3>부분별 명칭</h3>
+    <img src="images/image6.png" alt="패키지"><br><img src="images/image7.png"><br><h3>패키지 구성</h3>
+    <br><br>
+    <img src="images/image8.png" alt="명칭"><br><img src="images/image9.png"><br><h3>부분별 명칭</h3>
+    <br><br>
+    <img src="images/image10.png" alt="조종기"><br><h3>조종기 설명</h3>
 </div>
 <br>
 
