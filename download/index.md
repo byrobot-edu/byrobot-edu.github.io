@@ -6,7 +6,7 @@
 
 </style>
 <div align="center">
-<table align="center" border=0>
+<table align="center" frame=void>
     <div align="center" style="padding:20px 20px 20px 20px">
         <tr>
         <td>
