@@ -5,9 +5,9 @@
 <style>
 
 </style>
-<div align="center">
-<table align="center" frame=void>
-    <div align="center" style="padding:20px 20px 20px 20px">
+<div align="center" style="padding:20px 20px 20px 20px">
+<table align="center" style="border-right:none; border-left:none; border-top:none; border-bottom:none">
+    <div align="center">
         <tr>
         <td>
             <button type="button" style="background:white; border-radius:0.5em;" onclick="window.open('http://dev.byrobot.co.kr/products/')"><img src="/assets/images/simple-icons/firmware_icon.png" alt="firmware download" height="240" width="240"></button>
