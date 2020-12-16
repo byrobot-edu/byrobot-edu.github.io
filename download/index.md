@@ -5,7 +5,7 @@
 <div align="center">
 
 <tr>
-<button type="button" onclick="window.open('http://dev.byrobot.co.kr/products/')"><img src="/assets/images/simple-icons/firmware_icon.png" alt="firmware download" height="240" width="240"></button>
+<button type="button" style="border:none" onclick="window.open('http://dev.byrobot.co.kr/products/')"><img src="/assets/images/simple-icons/firmware_icon.png" alt="firmware download" height="240" width="240"></button>
 </tr>
 <tr>
 <a href="http://dev.byrobot.co.kr/products/"><b>펌웨어 다운로드</b></a>
