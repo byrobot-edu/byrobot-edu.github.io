@@ -6,7 +6,7 @@
 
 </style>
 <div align="center" style="padding:20px 20px 20px 20px">
-<table bgcolor=white align="center" style="border-right:none; border-left:none; border-top:none; border-bottom:none">
+<table align="center" style="border-right:none; border-left:none; border-top:none; border-bottom:none">
     <div align="center">
         <tr>
         <td style="border-right:none; border-left:none; border-top:none; border-bottom:none; padding:10px 10px 10px 10px">
@@ -17,10 +17,10 @@
         </td>
     </tr>
     <tr>
-        <td align="center" style="border-right:none; border-left:none; border-top:none; border-bottom:none; padding:10px 10px 10px 10px">
+        <td align="center" bgcolor=white style="border-right:none; border-left:none; border-top:none; border-bottom:none; padding:10px 10px 10px 10px">
             <a href="http://dev.byrobot.co.kr/products/"><font face="맑은고딕"><b>펌웨어 다운로드</b></font></a>
         </td>
-        <td align="center" style="border-right:none; border-left:none; border-top:none; border-bottom:none; padding:10px 10px 10px 10px">
+        <td align="center" bgcolor=white style="border-right:none; border-left:none; border-top:none; border-bottom:none; padding:10px 10px 10px 10px">
             <a href="https://byrobot.co.kr/page/?pid=software"><font face="맑은고딕"><b>소프트웨어 다운로드</b></font></a>
         </td>
     </tr>
