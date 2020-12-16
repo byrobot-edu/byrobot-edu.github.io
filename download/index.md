@@ -3,7 +3,7 @@
 ---
 
 <div align="center" style="padding:20px 20px 20px 20px">
-    <table border=none>
+    <table style="border:none">
         <tr>
             <td style="border-right:none; border-left:none; border-top:none; border-bottom:none; padding:10px 20px 10px 20px">
                 <div align="center">
