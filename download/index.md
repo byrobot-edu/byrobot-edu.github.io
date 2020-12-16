@@ -5,7 +5,8 @@
 <style>
 
 </style>
-<table align="center">
+<div align="center">
+<table align="center" border=0>
     <div align="center" style="padding:20px 20px 20px 20px">
         <tr>
         <td>
@@ -25,6 +26,7 @@
     </tr>
 </div>
 </table>
+</div>
 ---
 
 Modified : 2020.6.1
