@@ -215,7 +215,7 @@
 2) 배터리가 방전되면 즉시 착륙하여 충전이 완료된 배터리와 교체해서 사용합니다.<br>
 3) 항상 최신 펌웨어를 설치합니다.<br>
 - [펌웨어 프로그램 다운로드](http://dev.byrobot.co.kr/documents/kr/products/coding_drone/log/updates/firmware/)<br>
-- [펌웨어 업데이트 매뉴얼](http://dev.byrobot.co.kr/documents/kr/products/coding_drone/manual/update/drone4autoupdaterlight/)<br>
+- [펌웨어 업데이트 매뉴얼](http://dev.byrobot.co.kr/documents/kr/products/coding_drone/manual/update/drone4autoupdaterlight/)<br><br>
 4) 드론과 조종기에 심한 충격을 가하면 고장의 원인이 되므로 주의합니다.<br>
 
 ---
