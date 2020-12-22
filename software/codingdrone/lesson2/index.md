@@ -62,10 +62,10 @@
         </tr>
         <tr>
             <td>
-                <div align="left">3, 4번 프로펠러는 빠르게, 1, 2번 프로펠러는 상대적으로 느리게 회전시키면, 드론의 뒤쪽 양력이 더 커져 위로 들리면서 앞쪽으로 기울어집니다. <br>이때 앞쪽으로 추진력이 발생하여 전진하게 됩니다.</div>
+                <div align="left">3, 4번 프로펠러는 빠르게, 1, 2번 프로펠러는 상대적으로 느리게 회전시키면, 드론의 뒤쪽 양력이 더 커져 위로 들리면서 앞쪽으로 기울어집니다. 이때 앞쪽으로 추진력이 발생하여 전진하게 됩니다.</div>
             </td>
             <td>
-                <div align="left">1, 2번 프로펠러는 빠르게, 3, 4번 프로펠러는 상대적으로 느리게 회전시키면, 드론의 앞쪽 양력이 더 커져 위로 들리면서 뒤쪽으로 기울어집니다. <br>이때 뒤쪽으로 추진력이 발생하여 후진하게 됩니다.</div>
+                <div align="left">1, 2번 프로펠러는 빠르게, 3, 4번 프로펠러는 상대적으로 느리게 회전시키면, 드론의 앞쪽 양력이 더 커져 위로 들리면서 뒤쪽으로 기울어집니다. 이때 뒤쪽으로 추진력이 발생하여 후진하게 됩니다.</div>
             </td>
         </tr>
         <tr>
@@ -78,10 +78,10 @@
         </tr>
         <tr>
             <td>
-                <div align="left">2, 3번 프로펠러는 빠르게, 1, 4번은 상대적으로 느리게 회전시키면, 드론의 오른쪽 양력이 더 커져 위로 들리면서 왼쪽으로 기울어집니다. <br>이때 왼쪽으로 추진력이 발생하여 좌로 이동하게 됩니다.</div>
+                <div align="left">2, 3번 프로펠러는 빠르게, 1, 4번은 상대적으로 느리게 회전시키면, 드론의 오른쪽 양력이 더 커져 위로 들리면서 왼쪽으로 기울어집니다. 이때 왼쪽으로 추진력이 발생하여 좌로 이동하게 됩니다.</div>
             </td>
             <td>
-                <div align="left">1, 4번 프로펠러는 빠르게, 2, 3번은 상대적으로 느리게 회전시키면, 드론의 왼쪽 양력이 더 커져 위로 들리면서 오른쪽으로 기울어집니다. <br>이때 오른쪽으로 추진력이 발생하여 우로 이동하게 됩니다.</div>
+                <div align="left">1, 4번 프로펠러는 빠르게, 2, 3번은 상대적으로 느리게 회전시키면, 드론의 왼쪽 양력이 더 커져 위로 들리면서 오른쪽으로 기울어집니다. 이때 오른쪽으로 추진력이 발생하여 우로 이동하게 됩니다.</div>
             </td>
         </tr>
         <tr>
@@ -267,7 +267,7 @@
     <table>
         <tr>
             <td rowspan="2">
-                <div align="center">이륙</div>
+                <div align="center"><h3>이륙</h3></div>
             </td>
             <td>
                 <div align="center"><img src="images/image32.jpeg"></div>
@@ -281,7 +281,7 @@
         </tr>
         <tr>
             <td rowspan="2">
-                <div align="center">착륙</div>
+                <div align="center"><h3>착륙</h3></div>
             </td>
             <td>
                 <div align="center"><img src="images/image33.jpeg"></div>
@@ -305,7 +305,7 @@
     <table>
         <tr>
             <td rowspan="2">
-                <div align="center">시동</div>
+                <div align="center"><h3>시동</h3></div>
             </td>
             <td>
                 <div align="center"><img src="images/image34.png"></div>
@@ -322,7 +322,7 @@
         </tr>
         <tr>
             <td rowspan="2">
-                <div align="center">이륙</div>
+                <div align="center"><h3>이륙</h3></div>
             </td>
             <td>
                 <div align="center"><img src="images/image35.jpeg"></div>
@@ -336,7 +336,7 @@
         </tr>
         <tr>
             <td rowspan="2">
-                <div align="center">착륙</div>
+                <div align="center"><h3>착륙</h3></div>
             </td>
             <td>
                 <div align="center"><img src="images/image36.jpeg"></div>
