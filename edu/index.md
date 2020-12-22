@@ -43,7 +43,7 @@
             <td><div align="center"><a href="/software/byblocks/"><font face="맑은고딕">바이블럭으로 코딩해요</font></a></div></td>
             <td><div align="center"><a href="/software/entry/"><font face="맑은고딕">엔트리로 코딩해요</font></a></div></td>
             <td><div align="center"><a href="/software/gocar/"><font face="맑은고딕">코딩카드로 자율주행해요</font></a></div></td>
-            <td><div align="center"><a href="/software//"><font face="맑은고딕">드론으로 코딩해요(업데이트 예정)</font></a></div></td>
+            <td><div align="center"><a href="/software/codingdrone/"><font face="맑은고딕">드론으로 코딩해요</font></a></div></td>
         </tr>
     </table>
 </div>

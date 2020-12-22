@@ -257,7 +257,7 @@
 <br>
 
 그럼 먼저 이륙과 착륙하는 방법부터 알아볼까요?<br>
-코딩드론의 이착륙 방법은 2가지가 있습니다. 자동 이착륙과 수동 이착륙입니다.<Br>
+코딩드론의 이착륙 방법은 2가지가 있습니다. 자동 이착륙과 수동 이착륙입니다.
 
 <br>
 
@@ -294,9 +294,6 @@
         </tr>
     </table>
 </div>
-
-<br>
-
 
 <br>
 
@@ -359,7 +356,88 @@
 
 <Br>
 
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center"><img src="images/image37.jpeg"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="left">조종기의 왼쪽 레버를 아래로 내리면서(①) 왼쪽 레버 앞쪽 L1 버튼을 누르면(②) 드론의 모터가 정지합니다. <font color="red"><b>모든 모터가 정지하기 때문에 드론이 공중에 떠 있는 상태라면 바닥으로 추락하므로 주의해야 하며,</b></font> 모든 모터를 긴급하게 정지시켜야 하는 비상시에 사용합니다. 착륙시킬 때 사용하려면 드론이 바닥에 닿을 때까지 기다렸다가 L1 버튼을 누릅니다.</div>
+            </td>
+        </tr>
+    </table>
+</div>
 
+<br>
+
+<h2>3. 기본 조종법</h2>
+
+<br>
+
+다음으로 코딩드론의 기본 조종법을 알아보아요.
+
+<br>
+
+<div align="center">
+    <table>
+        <tr>
+            <td rowspan="2">
+                <div align="center"><h3>상승 / 하강</h3></div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image38.png"></div>
+            </td>
+            <td rowspan="2">
+                <div align="center"><h3>전진 / 후진</h3></div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image39.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="ledt">①	상승 : 왼쪽 레버를 위로 올리면 드론이 상승합니다.<Br>
+② 하강 : 왼쪽 레버를 아래로 내리면 드론이 하강합니다.<br>
+<font color="red"><b>※ 상승/하강은 이륙/착륙과 같은 레버와 방향으로 조종합니다.</b></font>
+</div>
+            </td>
+            <td>
+                <div align="ledt">①	전진 : 오른쪽 레버를 위로 올리면 드론이 전진합니다.<br>
+② 후진 : 오른쪽 레버를 아래로 내리면 드론이 후진합니다.
+</div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <div align="center"><h3>좌회전 / 우회전</h3></div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image40.png"></div>
+            </td>
+            <td rowspan="2">
+                <div align="center"><h3>좌이동 / 우이동</h3></div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image41.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="ledt">①	좌로 회전 : 왼쪽 레버를 좌로 움직이면 드론이 좌로 회전합니다.<br>
+② 우로 회전 : 왼쪽 레버를 우로 움직이면 드론이 우로 회전합니다.
+</div>
+            </td>
+            <td>
+                <div align="ledt">①	좌로 이동 : 오른쪽 레버를 좌로 움직이면 드론이 좌로 이동합니다.<br>
+② 우로 이동 : 오른쪽 레버를 우로 움직이면 드론이 우로 이동합니다.
+</div>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ---
 
@@ -367,67 +445,44 @@
 
 
 <div align="center">
-    <h1>[코딩 및 실행하기]</h1>
+    <h1>[비행하기]</h1>
 </div>
 
 <br>
 
-<h2>1. 전진/후진</h2>
-
-<br>
-
-이제 생각한 코드를 바탕으로 직접 코딩한 후 실행해보아요. <Br>위에서 배웠던 카드코딩하는 방법을 잊지 않았죠? 
-<br>다음 순서대로 차근차근 따라해보세요.
-
+조종법을 배웠으니 이제 코딩드론을 날려볼까요? 비행하기 전에 다음 사항을 꼭 먼저 확인해주세요.
 <br>
 
 <div align="center">
     <table>
         <tr>
-            <td><br><div align="center"><b><h3>1단계 코딩카드 준비하기</h3><br></b></div></td>
-        </tr>
-        <tr>
             <td>
-                <div align="center">
-                    <img src="images/image22.png" alt="전진후진 1단계"><br>
-                    카드코딩에 필요한 코딩카드들을 준비해보아요.
-                </div>
+                <div align="center"><img src="images/image42.jpeg"></div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image43.jpeg"></div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image44.png"></div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image45.jpeg"></div>
             </td>
         </tr>
         <tr>
-            <td><div align="center"><b><br><h3>2단계 코딩카드 배열하기</h3><br>
-            동작순서 : 1칸 전진 → 1칸 후진<font color="red">(1칸 이동거리 : 약 13cm)<br><br></font></b></div></td>
-        </tr>
-        <tr>
             <td>
-                <div align="center">
-                    <img src="images/image23.png" height="304" width="1062" alt="전진후진 2단계"><br>
-                    동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요
-                </div>
+                <div align="left">배터리는 전용 충전기를 이용해 충전이 완료된 것을 사용해요.</div>
             </td>
-        </tr>
-        <tr>
-            <td><div align="center"><b><br><h3>3단계 코딩카드 읽기</h3><br></b></div></td>
-        </tr>
-        <tr>
             <td>
-                <div align="center">
-                    <img src="images/image24.png" height="304" width="1062" alt="전진후진 3단계"><br>
-                    GoCar의 전원을 켜고 코딩카드를 읽습니다. <br>코딩카드가 잘 읽히도록 올바른 위치에 GoCar를 올려놓고 카드 순서대로 메인 전등 부분을 1번 눌러서 카드를 읽어주세요. <br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br><Br>
-                    <font color="red"><b>※ “카드코딩 모드” 카드는 처음 한 번만 읽습니다!</b></font>
-                </div>
+                <div align="left">드론에 배터리를 연결해요.<br>
+<font color="red"><b>※ 조종기는 전원 OFF 상태</b></font>
+</div>
             </td>
-        </tr>
-        <tr>
-            <td><div align="center"><b><br><h3>4단계 코딩 실행하기</h3><br></b></div></td>
-        </tr>
-        <tr>
             <td>
-                <div align="center">
-                    <img src="images/image25.png" height="350" width="341" alt="전진후진 4단계1"><img src="images/image26.png" height="500" width="640" alt="전진후진 4단계2"><br>
-                    GoCar를 평평한 바닥에 놓고 메인 전등 부분을 연속으로 2번 눌러서 코딩을 실행합니다. <br>약 3초 후 GoCar가 자동으로 코딩한 명령을 수행합니다. <br>GoCar가 잘 주행할 수 있도록 매끄럽고 평평한 바닥에서 실행해주세요.<br><br>
-                    <font color="red"><b>※ 1칸 전진과 후진의 이동 거리는 약 <font color="blue">13cm</font>입니다.</b></font>
-                </div>
+                <div align="left">드론과 2m 정도의 안전거리를 확보하고, 주변에 사람이나 장애물이 없는지 확인해요.</div>
+            </td>
+            <td>
+                <div align="left">조종기의 전원 버튼을 3초 이상 눌러서 전원을 켜요. 조종기에서 부저음이 들리고 드론의 LED가 점등되면 정상적으로 페어링된 상태입니다.</div>
             </td>
         </tr>
     </table>
@@ -435,69 +490,21 @@
 
 <br>
 
-<h2>2. 좌회전/우회전</h2>
+모든 사항을 확인하여 문제가 없다면 앞에서 배운 조종법을 잘 기억하면서 코딩드론을 날려보아요.
 
-<br>
-
-다음으로 90도 좌회전 후 90도 우회전하는 코딩을 해보아요. <br>
-전진과 후진 코딩과 동일한 방법으로 진행합니다.
-
-<br>
+<Br>
 
 <div align="center">
     <table>
         <tr>
-            <td><div align="center"><b><br><h3>1단계 코딩카드 준비하기</h3><br></b></div></td>
-        </tr>
-        <tr>
             <td>
-                <div align="center">
-                    <img src="images/image27.png" height="310" width="969" alt="좌회전우회전 1단계"><br>
-                    카드코딩에 필요한 코딩카드들을 준비해보아요.
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td><div align="center"><b><br><h3>2단계 코딩카드 배열하기</h3><br><br>
-            동작순서 : 90도 좌회전 → 90도 우회전<br><br></b></div></td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image28.png" height="310" width="1083" alt="좌회전우회전 2단계"><br>
-                    동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td><div align="center"><b><br><h3>3단계 코딩카드 읽기</h3><br></b></div></td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image29.png" height="355" width="1083" alt="좌회전우회전 3단계"><br>
-                    GoCar의 전원을 켜고 코딩카드를 읽습니다. <Br>코딩카드가 잘 읽히도록 올바른 위치에 GoCar를 올려놓고 카드 순서대로 메인 전등 부분을 1번 눌러서 카드를 읽어주세요. <Br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br><br>
-                    <font color="red"><b>※ “카드코딩 모드” 카드는 처음 한 번만 읽습니다!</b></font>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td><div align="center"><b><br><h3>4단계 코딩 실행하기</h3><br></b></div></td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image25.png" height="350" width="341" alt="좌회전우회전 4단계1"><img src="images/image30.png" height="350" width="807" alt="좌회전우회전 4단계2"><br>
-                    GoCar를 평평한 바닥에 놓고 메인 전등 부분을 연속으로 2번 눌러서 코딩을 실행합니다.<br>
-                    약 3초 후 GoCar가 자동으로 코딩한 명령을 수행합니다. <br>
-                    GoCar가 잘 주행할 수 있도록 매끄럽고 평평한 바닥에서 실행해주세요.<br>
-                </div>
+                <div align="center"><img src="images/image46.png"></div>
             </td>
         </tr>
     </table>
 </div>
 
-<br>
+<Br>
 
 ---
 
@@ -510,37 +517,43 @@
 
 <br>
 
-직접 코딩하여 GoCar를 움직여보니까 재미있었나요? <br>
-전진과 후진, 좌회전과 우회전 명령어를 섞어서 사용하면 좀 더 다양한 주행을 할 수 있고, 출발지에서 도착지까지 찾아가는 길찾기 놀이도 할 수 있습니다.
+코딩드론을 직접 날려보니 재미있었나요? <br>
+처음에는 드론을 조종하는 것이 어려울 수 있지만 조금만 연습하면 쉽게 날릴 수 있을거예요. <Br>
+그리고 코딩드론을 조종하면서 속도를 변경하거나 메인 LED의 색상도 변경할 수 있습니다.<br>
+매뉴얼을 잘 보고 따라해보세요.
 
-1. GoCar로 총 43장의 카드를 읽어서 카드코딩을 할 수 있습니다.
-
-2. 카드코딩 순서는 [코딩카드 준비하기 → 코딩카드 배열하기 → 코딩카드 읽기 → 코드 실행하기] 입니다.
-
-3. 전진과 후진 카드를 사용하여 GoCar를 1칸 전진, 1칸 후진시킬 수 있습니다. 1칸 이동 거리는 약 13cm 입니다.
-
-4. 90도 좌회전과 90도 우회전 카드를 사용하여 GoCar를 90도 좌회전, 90도 우회전시킬 수 있습니다.
-
-5. 동일한 카드를 연속해서 사용하면 사용한 횟수만큼 이동하거나 회전합니다.<br>
-   ex: 전진 카드를 3번 연속 읽으면 1칸씩 3번 전진하고, 90도 좌회전 카드를 2번 연속 읽으면 90도씩 2번 회전하여 총 180도를 회전합니다.
-
+<div align="center">
+        <table>
+        <tr>
+            <td>
+                <div align="left">
+                    1) 드론의 프로펠러는 2가지 종류로 구분되고(시계 방향 회전/반시계 방향 회전), 서로 한 개씩 번갈아가며 조립되어 있습니다.<br>
+                    2) 드론의 비행 원리는 각 프로펠러의 회전 속도를 다르게 하여 원하는 방향으로 드론을 이동시킵니다.<br>
+                    3) 드론의 조종모드는 모드1부터 모드4까지 있으며, 코딩드론의 기본 조종모드는 모드2입니다.<br>
+                    4) 코딩드론의 이착륙 방법은 자동과 수동, 2가지가 있습니다.<br>
+                    5) 비행 중 긴급 상황 발생 시, 비상 정지 기능을 사용하여 코딩드론의 모든 모터를 즉시 정지시킬 수 있습니다.<br>
+                    6)드론을 조종하기 전에 배터리와 페어링 상태, 안전거리 확보, 주변 장애물 등을 먼저 확인합니다.<br>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
 
 <br>
 
 ---
 
-### [코딩카드로 자율주행해요](../)
+### [드론으로 코딩해요](../)
 
- 1. [GoCar와 친구해요!](../lesson1)
- 2. **GoCar로 카드코딩해요(1)**
- 3. [GoCar로 카드코딩해요(2)](../lesson3)
- 4. [GoCar로 카드코딩해요(3)](../lesson4)
- 5. [GoCar로 카드코딩해요(4)](../lesson5)
- 6. [GoCar로 라인코딩해요](../lesson6)
- 7. [GoCar로 모션코딩해요](../lesson7)
- 8. [GoCar로 따라가기해요](../lesson8)
-
+ 1. [코딩드론과 친구해요](../lesson1)
+ 2. **코딩드론을 날려보아요**
+ 3. [코딩드론으로 카드코딩해요(1)] - 업데이트 예정
+ 4. [코딩드론으로 카드코딩해요(2)] - 업데이트 예정
+ 5. [코딩드론으로 카드코딩해요(3)] - 업데이트 예정
+ 6. [코딩드론으로 모션코딩해요] - 업데이트 예정
+ 7. [코딩드론으로 블록코딩해요(1)] - 업데이트 예정
+ 8. [코딩드론으로 블록코딩해요(2)] - 업데이트 예정
 
 ---
 
-Modified : 2020.6.26
+Modified : 2020.12.22
