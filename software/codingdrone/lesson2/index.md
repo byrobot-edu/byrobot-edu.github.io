@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-    <h1>Lesson 2. GoCar로 카드코딩해요(1)</h1>
+    <h1>Lesson 2. 코딩드론을 날려보아요</h1>
 </div>
 
 <br>
@@ -17,142 +17,87 @@
 
 <br>
 
-이번 강의에서는 코딩카드를 사용하여 카드코딩하는 방법을 배워보고, 카드코딩으로 GoCar를 간단히 주행시켜보려고 합니다. 먼저 카드코딩이 무엇인지 알아볼까요?
+이번 강의에서는 코딩드론 조종법을 배워보고 직접 날려보도록 해요.<br>
+조종법을 배우기에 앞서 먼저 드론이 어떻게 비행을 하는지 비행 원리에 대해 알아보아요.<br>
+드론은 어떻게 전후, 좌우로 비행하고 이착륙을 할까요? <Br>
+드론의 비행 원리를 알기 위해서는 먼저 드론의 프로펠러가 어떻게 구성되어 있는지 알아야 합니다. 다음 그림을 보면서 알아볼까요?
+
 
 <br>
 
-<div align="center">
-    <table>
-        <tr>
-            <td><div align="left"><b>카드코딩이란?</b></div></td>
-        </tr>
-        <tr>
-            <td>
-                <div align="left">
-                    카드코딩은 카드를 사용하여 코딩 학습을 할 수 있는 언플러그드 코딩교육의 한 종류입니다. <br> 활용하는 교구재와 카드에 따라서 카드코딩에도 다양한 방식들이 있는데, GoCar를 활용한 카드코딩 방식은 다음과 같습니다.<br><br>
-☞	카드별로 색상(상/하 2가지 색상)이 있고 GoCar에 장착된 컬러센서로 카드의 색상을 인식하여 카드를 읽을 수 있습니다. <br>
-카드를 읽으면 해당 카드에 입력된 명령을 GoCar가 수행하게 됩니다.
-                </div>
-                <div align="center">
-                    <img src="images/image13.png" alt="코딩카드">
-                    <img src="images/image14.png" alt="실습보드">
-                </div>
-            </td>
-        </tr>
-    </table>
-</div>
+<img src="images/image19.png" alt="코딩카드">
 
 <br>
 
-코딩카드는 기본으로 43장이 제공되며, 총 8개의 카테고리로 구성되어 있습니다.
-
-<br>
-
-<div align="center">
-    <table>
-        <tr>
-            <td><div align="center"><b>카테고리</b></div></td>
-            <td><div align="center"><b>코딩카드(명령) 종류</b></div></td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">캘리브레이션</div>
-            </td>
-            <td>
-                센서 초기화 1, 2 / 캘리브레이션 1, 4 / 캘리브레이션 2, 5 / 캘리브레이션 3, 6
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">모드</div>
-            </td>
-            <td>
-                카드코딩 모드 / 모션코딩 모드 / 따라가기 모드 / 라인코딩 모드
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">코딩</div>
-            </td>
-            <td>
-                코딩 시작 / 코딩 끝
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">동작</div>
-            </td>
-            <td>
-                1초 기다림
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">라이트</div>
-            </td>
-            <td>
-                상향등 켜기 / 좌회전 깜빡이 / 우회전 깜빡이 / 전조등, 상향등 끄기
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">이동</div>
-            </td>
-            <td>
-                계속 전진 / 1칸 전진 / U턴 / 90도 좌회전 / 90도 우회전 / 1칸 후진 / 계속 후진 / 정지
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">조건</div>
-            </td>
-            <td>
-                앞쪽 장애물 발견하면 / 빨간색 바닥 발견하면 / 녹색 바닥 발견하면 / 파란색 바닥 발견하면 / 조건이 맞지 않으면 / 조건 끝
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">반복</div>
-            </td>
-            <td>
-                무한 반복 / 2회 반복 / 3회 반복 / 4회 반복 / 반복 나가기 / 반복 끝
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">소리</div>
-            </td>
-            <td>
-                도 / 레 / 미 / 파 / 솔 / 라 / 시 / 도
-            </td>
-        </tr>
-    </table>
-</div>
-
-<br>
-
-컬러 캘리브레이션용 코딩카드는 앞면과 뒷면에 각각 다른 색상이 그려져 있습니다. <br>
-그리고 나머지 코딩카드는 앞면에 명령어와 아이콘이 표시되어 있고, 뒷면에 색상이 그려져 있습니다.
+다음으로 드론이 어떻게 전진, 후진하고 회전 비행을 할 수 있는지 비행 원리에 대해 알아보아요.<Br>
+드론의 비행 원리는 <font color="red"><b>각 모터의 속도를 조절하여 프로펠러의 회전 속도를 다르게 한다</font></b>는 사실만 알면 쉽게 이해할 수 있어요.
 
 <Br>
 
-<div align="center"><b>컬러 캘리브레이션용 카드</b></div>
 <div align="center">
     <table>
         <tr>
             <td>
-                <img src="images/image15.png" alt="센서초기화1">
+                <img src="images/image20.png">
             </td>
             <td>
-                <img src="images/image16.png" alt="센서초기화2">
+                <img src="images/image21.png">
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">앞면</div>
+                <div align="left">모든 프로펠러를 같은 속도로 빠르게 회전시켜 큰 양력을 발생시키고, 양력이 중력보다 크게 되면 상승하게 됩니다. 이륙할 때에도 같은 방법으로 이륙하게 됩니다.</div>
             </td>
             <td>
-                <div align="center">뒷면</div>
+                <div align="left">모든 프로펠러를 같은 속도로 느리게 회전시켜 양력을 감소시키고, 양력이 중력보다 작게 되면 하강하게 됩니다. 착륙할 때에도 같은 방법으로 착륙하게 됩니다.</div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="images/image22.png">
+            </td>
+            <td>
+                <img src="images/image23.png">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="left">3, 4번 프로펠러는 빠르게, 1, 2번 프로펠러는 상대적으로 느리게 회전시키면, 드론의 뒤쪽 양력이 더 커져 위로 들리면서 앞쪽으로 기울어집니다. 이때 앞쪽으로 추진력이 발생하여 전진하게 됩니다.</div>
+            </td>
+            <td>
+                <div align="left">1, 2번 프로펠러는 빠르게, 3, 4번 프로펠러는 상대적으로 느리게 회전시키면, 드론의 앞쪽 양력이 더 커져 위로 들리면서 뒤쪽으로 기울어집니다. 이때 뒤쪽으로 추진력이 발생하여 후진하게 됩니다.</div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="images/image24.png">
+            </td>
+            <td>
+                <img src="images/image25.png">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="left">2, 3번 프로펠러는 빠르게, 1, 4번은 상대적으로 느리게 회전시키면, 드론의 오른쪽 양력이 더 커져 위로 들리면서 왼쪽으로 기울어집니다. 이때 왼쪽으로 추진력이 발생하여 좌로 이동하게 됩니다.</div>
+            </td>
+            <td>
+                <div align="left">1, 4번 프로펠러는 빠르게, 2, 3번은 상대적으로 느리게 회전시키면, 드론의 왼쪽 양력이 더 커져 위로 들리면서 오른쪽으로 기울어집니다. 이때 오른쪽으로 추진력이 발생하여 우로 이동하게 됩니다.</div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="images/image26.png">
+            </td>
+            <td>
+                <img src="images/image27.png">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="left">1, 3번 프로펠러는 빠르게, 2, 4번은 상대적으로 느리게 회전시키면, 1, 3번(프로펠러가 시계 방향으로 회전)의 토크가 2, 4번보다 커져서 드론이 반시계 방향(좌)으로 회전하게 됩니다..</div>
+            </td>
+            <td>
+                <div align="left">2, 4번 프로펠러는 빠르게, 1, 3번은 상대적으로 느리게 회전시키면, 2, 4번(프로펠러가 반시계 방향으로 회전)의 토크가 1, 3번보다 커져서 드론이 시계 방향(우)으로 회전하게 됩니다.</div>
             </td>
         </tr>
     </table>
@@ -160,23 +105,23 @@
 
 <br>
 
-<div align="center"><B>기타 코딩카드</b></div>
+<div align="center"><B>용어사전</b></div>
 <div align="center">
     <table>
         <tr>
             <td>
-                <img src="images/image18.png" alt="코딩시작 앞면">
+                <div align="center">양력</div>
             </td>
             <td>
-                <img src="images/image17.png" alt="코딩시작 뒷면">
+                <div align="center">항공기가 공중에 뜰 수 있게 해주는 힘입니다.</div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">앞면</div>
+                <div align="center">토크</div>
             </td>
             <td>
-                <div align="center">뒷면</div>
+                <div align="center">회전하려는 힘으로서 기체는 프로펠러가 도는 방향과 반대로 회전하려는 성질이 있습니다.</div>
             </td>
         </tr>
     </table>
@@ -184,7 +129,8 @@
 
 <br>
 
-<font color="red"><b>※ 만약, GoCar가 코딩카드를 잘 읽지 못한다면 1차시에 배웠던 <font color="blue"> 컬러 캘리브레이션 </font>작업을 해주세요!</b></font>
+지금까지 드론이 어떻게 정해진 방향으로 비행할 수 있는지 비행 원리에 대해 알아보았어요.<br>
+그럼 이제 코딩드론 조종법을 배워볼까요?<br>
 
 <br>
 
@@ -194,12 +140,12 @@
 
 
 <div align="center">
-    <h1>[카드코딩 방법]</h1>
+    <h1>[알아두기]</h1>
 </div>
 
 <br>
 
-카드코딩은 다음 순서로 실시합니다.
+코딩드론 조종법에 대해 알아보아요. 드론의 조종모드는 4가지인데 코딩드론의 기본 조종모드는 모드2입니다.
 
 <div align="center">
     <img src="images/image19.png" alt="이륙/착륙 예제 코드">
