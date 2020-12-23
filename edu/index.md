@@ -33,7 +33,7 @@
             <td>
                 <div align="center">
                     <img src="/assets/images/products/Coding Drone.png" height="240" width="240"><br>
-                    <font face="맑은고딕">Coding Drone (BRC-105)</font>
+                    <font face="맑은고딕">Coding Drone<br>(BRC-105)</font>
                 </div>
             </td>
         </tr>
