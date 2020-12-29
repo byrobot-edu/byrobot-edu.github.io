@@ -524,117 +524,361 @@
             <font color="red"><b>※ “카드코딩 모드” 카드는 카드코딩을 시작할 때 한 번만 읽습니다.</b></font></div>
             </td>
         </tr>
-    </table>
-</div>
-
-<div align="center">
-    <table>
         <tr>
-            <td><br><div align="center"><b><h3>1단계 코딩카드 준비하기</h3><br></b></div></td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image9.png" alt="사각형 패턴 비행(반복문 미사용) 1단계"><br>
-                    카드코딩에 필요한 코딩카드들을 준비해보아요<br>
-                    <font color="red"><b>※ “카드코딩 모드” 카드는 생략</b></font>
-                </div>
+            <td rowspan="3">
+                <div align="center"><h3>4단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩 실행하기</h3></div>
             </td>
         </tr>
         <tr>
-            <td><div align="center"><b><br><h3>2단계 코딩카드 배열하기</h3><br>
-            (1칸 전진 → 90도 좌회전) x 4번 반복</b></div></td>
-        </tr>
-        <tr>
             <td>
-                <div align="center">
-                    <img src="images/image10.png" alt="사각형 패턴 비행(반복문 미사용) 2단계"><br>
-                    동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요
-                </div>
+                <div align="center"><img src="images/image20.png"></div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image21.png"></div>
             </td>
         </tr>
         <tr>
-            <td><div align="center"><b><br><h3>3단계 코딩카드 읽기</h3><br></b></div></td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image11.png" alt="사각형 패턴 비행(반복문 미사용) 3단계"><br>
-                    GoCar의 전원을 켜고 코딩카드를 읽습니다. <br>코딩카드가 잘 읽히도록 올바른 위치에 GoCar를 올려놓고 카드 순서대로 메인 전등 부분을 1번 눌러서 카드를 읽어주세요. <br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br><Br>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td><div align="center"><b><br><h3>4단계 코딩 실행하기</h3><br></b></div></td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image12.png" height="350" width="341" alt="사각형 패턴 비행(반복문 미사용) 4단계1"><img src="images/image13.png" height="500" width="550" alt="사각형 패턴 비행(반복문 미사용) 4단계2"><br>
-                    GoCar를 평평한 바닥에 놓고 메인 전등 부분을 연속으로 2번 눌러서 코딩을 실행합니다. <br>약 3초 후 GoCar가 자동으로 코딩한 명령을 수행합니다. <br>GoCar가 잘 주행할 수 있도록 매끄럽고 평평한 바닥에서 실행해주세요.<br><br>
-                </div>
+            <td colspan="2">
+            <div align="left">코딩드론을 주변에 사람이나 장애물이 없는 평평한 바닥에 놓습니다. <br>
+            그리고 동작버튼을 연속으로 2번 눌러서 코딩을 실행합니다. <br>
+            약 3초 후 코딩드론이 자동으로 코딩한 명령을 수행합니다..<br>
+            <font color="red"><b>※ 동작버튼을 누른 후 즉시 드론으로부터 안전 거리만큼 떨어집니다. (안전사고 주의!)</b></font></div>
             </td>
         </tr>
     </table>
 </div>
-<br>
-
-다음은 반복문을 사용한 코드를 실행해보아요.
 
 <br>
 
-<h2>2. 사각형 패턴 주행(반복문 사용)</h2>
+<h2>2. 좌/우 이동</h2>
 
 <br>
 
 <div align="center">
     <table>
         <tr>
-            <td><div align="center"><b><br><h3>1단계 코딩카드 준비하기</h3><br></b></div></td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image14.png" alt="사각형 패턴 비행(반복문 사용) 1단계"><br>
-                    카드코딩에 필요한 코딩카드들을 준비해보아요.<br>
-                    <font color="red"><b>※ “카드코딩 모드” 카드는 생략</b></font>
-                </div>
+            <td rowspan="3">
+                <div align="center"><h3>1단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩카드 준비하기</h3></div>
             </td>
         </tr>
         <tr>
-            <td><div align="center"><b><br><h3>2단계 코딩카드 배열하기</h3><br><br>
-            동작순서 : (1칸 전진 → 90도 좌회전) x 4번 반복<br><br></b></div></td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image15.png" alt="사각형 패턴 비행(반복문 사용) 2단계"><br>
-                    동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!
-                </div>
+            <td colspan="2">
+                <div align="center"><img src="images/image22.png"></div>
             </td>
         </tr>
         <tr>
-            <td><div align="center"><b><br><h3>3단계 코딩카드 읽기</h3><br></b></div></td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">
-                    <img src="images/image16.png"  alt="사각형 패턴 비행(반복문 사용) 3단계"><br>
-                    GoCar의 전원을 켜고 코딩카드를 읽습니다. <Br>코딩카드가 잘 읽히도록 올바른 위치에 GoCar를 올려놓고 카드 순서대로 메인 전등 부분을 1번 눌러서 카드를 읽어주세요. <Br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br><br>
-                </div>
+            <td colspan="2">
+            <div align="left">카드코딩에 필요한 코딩카드들을 준비해보아요.</div>
             </td>
         </tr>
         <tr>
-            <td><div align="center"><b><br><h3>4단계 코딩 실행하기</h3><br></b></div></td>
+            <td rowspan="4">
+                <div align="center"><h3>2단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩카드 배열하기</h3></div>
+            </td>
         </tr>
         <tr>
             <td>
-                <div align="center">
-                    <img src="images/image12.png" height="350" width="341" alt="사각형 패턴 비행(반복문 사용) 4단계1"><img src="images/image13.png" height="500" width="550" alt="사각형 패턴 비행(반복문 사용) 4단계2"><br>
-                    GoCar를 평평한 바닥에 놓고 메인 전등 부분을 연속으로 2번 눌러서 코딩을 실행합니다.<br>
-                    약 3초 후 GoCar가 자동으로 코딩한 명령을 수행합니다. <br>
-                    GoCar가 잘 주행할 수 있도록 매끄럽고 평평한 바닥에서 실행해주세요.<br>
-                </div>
+                <div align="center">동작순서</div>
+            </td>
+            <td>
+                <div align="center">이륙 → 1칸 좌로 이동 → 1칸 우로 이동 → 착륙
+<font color="red"><b>※ 1칸 이동 거리 = 1m</b></font>
+</div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div align="center"><img src="images/image23.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!</div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+                <div align="center"><h3>3단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩카드 읽기</h3></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div align="center"><img src="images/image24.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">코딩드론에 배터리를 장착하여 전원을 켜고 코딩카드를 읽습니다. <Br>코딩카드가 잘 읽히도록 올바른 위치에 코딩드론을 올려놓고(드론의 가드와 코딩카드의 가드 문양이 일치되게 합니다.) 카드 순서대로 동작버튼을 1번 눌러서 카드를 읽어주세요. <br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br>
+            <font color="red"><b>※ “카드코딩 모드” 카드는 카드코딩을 시작할 때 한 번만 읽습니다.</b></font></div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+                <div align="center"><h3>4단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩 실행하기</h3></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center"><img src="images/image20.png"></div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image25.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">코딩드론을 주변에 사람이나 장애물이 없는 평평한 바닥에 놓습니다. <br>
+            그리고 동작버튼을 연속으로 2번 눌러서 코딩을 실행합니다. <br>
+            약 3초 후 코딩드론이 자동으로 코딩한 명령을 수행합니다..<br>
+            <font color="red"><b>※ 동작버튼을 누른 후 즉시 드론으로부터 안전 거리만큼 떨어집니다. (안전사고 주의!)</b></font></div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br>
+
+<h2>3. 상승/하강</h2>
+
+<br>
+
+<div align="center">
+    <table>
+        <tr>
+            <td rowspan="3">
+                <div align="center"><h3>1단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩카드 준비하기</h3></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div align="center"><img src="images/image26.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">카드코딩에 필요한 코딩카드들을 준비해보아요.</div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="4">
+                <div align="center"><h3>2단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩카드 배열하기</h3></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">동작순서</div>
+            </td>
+            <td>
+                <div align="center">이륙 → 1칸 상승 → 1칸 하강 → 착륙
+<font color="red"><b>※ 1칸 이동 거리 = 1m</b></font>
+</div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div align="center"><img src="images/image27.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!</div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+                <div align="center"><h3>3단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩카드 읽기</h3></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div align="center"><img src="images/image28.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">코딩드론에 배터리를 장착하여 전원을 켜고 코딩카드를 읽습니다. <Br>코딩카드가 잘 읽히도록 올바른 위치에 코딩드론을 올려놓고(드론의 가드와 코딩카드의 가드 문양이 일치되게 합니다.) 카드 순서대로 동작버튼을 1번 눌러서 카드를 읽어주세요. <br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br>
+            <font color="red"><b>※ “카드코딩 모드” 카드는 카드코딩을 시작할 때 한 번만 읽습니다.</b></font></div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+                <div align="center"><h3>4단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩 실행하기</h3></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center"><img src="images/image20.png"></div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image29.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">코딩드론을 주변에 사람이나 장애물이 없는 평평한 바닥에 놓습니다. <br>
+            그리고 동작버튼을 연속으로 2번 눌러서 코딩을 실행합니다. <br>
+            약 3초 후 코딩드론이 자동으로 코딩한 명령을 수행합니다..<br>
+            <font color="red"><b>※ 동작버튼을 누른 후 즉시 드론으로부터 안전 거리만큼 떨어집니다. (안전사고 주의!)</b></font></div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br>
+
+<h2>4. 좌/우 회전</h2>
+
+<br>
+
+<div align="center">
+    <table>
+        <tr>
+            <td rowspan="3">
+                <div align="center"><h3>1단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩카드 준비하기</h3></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div align="center"><img src="images/image30.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">카드코딩에 필요한 코딩카드들을 준비해보아요.</div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="4">
+                <div align="center"><h3>2단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩카드 배열하기</h3></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">동작순서</div>
+            </td>
+            <td>
+                <div align="center">이륙 → 좌회전 → 우회전 → 착륙
+<font color="red"><b>※ 회전 명령 1회당 회전 각도 = 90도</b></font>
+</div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div align="center"><img src="images/image31.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!</div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+                <div align="center"><h3>3단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩카드 읽기</h3></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div align="center"><img src="images/image32.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">코딩드론에 배터리를 장착하여 전원을 켜고 코딩카드를 읽습니다. <Br>코딩카드가 잘 읽히도록 올바른 위치에 코딩드론을 올려놓고(드론의 가드와 코딩카드의 가드 문양이 일치되게 합니다.) 카드 순서대로 동작버튼을 1번 눌러서 카드를 읽어주세요. <br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br>
+            <font color="red"><b>※ “카드코딩 모드” 카드는 카드코딩을 시작할 때 한 번만 읽습니다.</b></font></div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+                <div align="center"><h3>4단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩 실행하기</h3></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center"><img src="images/image20.png"></div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image33.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">코딩드론을 주변에 사람이나 장애물이 없는 평평한 바닥에 놓습니다. <br>
+            그리고 동작버튼을 연속으로 2번 눌러서 코딩을 실행합니다. <br>
+            약 3초 후 코딩드론이 자동으로 코딩한 명령을 수행합니다..<br>
+            <font color="red"><b>※ 동작버튼을 누른 후 즉시 드론으로부터 안전 거리만큼 떨어집니다. (안전사고 주의!)</b></font></div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br>
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <div align="center">알아두어요</div>
+            </td>
+            <td>
+                <div align="center">1초 기다림 명령</div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center"><img src="images/image34.png"></div>
+            </td>
+            <td>
+                <div align="left">코딩카드 중에 “1초 기다림”이란 카드가 있습니다. 1초 동안 현 상태를 유지하는 명령인데, 드론이 비행 중일때는 1초 동안 호버링을 하게 됩니다.<br><br>
+                이 명령을 이동 명령 다음에 실행시켜주면 드론이 이동 후 안정화되는 시간을 줄 수 있습니다. 해당 시간동안 드론의 센서와 자세를 안정화시켜줘서 다음 명령을 좀 더 정확하게 수행할 수 있습니다.<br><Br>
+                카드를 읽은 횟수만큼 기다리는 시간이 1초씩 증가하고, 상황에 따라 적절한 시간을 입력해주면 됩니다.
+            </td>
+        </tr>
+        </tr>
+            <td>
+                <div align="center">사용예시</div>
+            </td>
+            <td>
+                <div align="center"><img src="images/image35.png"></div>
             </td>
         </tr>
     </table>
@@ -653,31 +897,42 @@
 
 <br>
 
-이번 강의에서는 GoCar로 사각형 패턴 주행하는 코딩을 해보았습니다. <br>
-사각형 외에 다른 패턴들도 어떻게 코드를 짜야 할지 고민해보고 코딩해서 주행시켜보아요. <br>
-반복되는 패턴은 반복문을 활용하면 더욱 쉽게 코드를 만들 수 있다는 것을 꼭 알아 두어요.
+이번 강의에서는 언플러그드 코딩 기능 중 카드코딩이 무엇인지 배워보고, 직접 카드코딩하여 코딩드론을 날려보았습니다. <Br>
+조종기나 PC 없이 코딩카드를 사용하여 드론을 날릴 수 있다는 사실이 놀랍고 신기하지 않나요? <br>
+기본 비행 명령을 조합하여 다양한 코스의 비행을 연습해보아요.
 
-1. 패턴 주행이란 일정한 형태의 루트로 주행하는 것을 말하는데, 사각형, 원형, 8자 모양 등을 예로 들 수 있습니다.
-
-2. 패턴 주행은 루트가 정형화되어 있기 때문에 일부 패턴이 반복되는 경우가 있는데, 이 경우에는 반복 카드를 사용할 수 있습니다.
-
-3. 코딩에서 반복문을 활용하면 코드를 좀 더 간결하게 만들 수 있어서 코딩을 더욱 쉽게 할 수 있습니다.
+<div align="center">
+        <table>
+        <tr>
+            <td>
+                <div align="left">
+                    1) 카드코딩은 카드를 사용하여 코딩 학습을 할 수 있는 언플러그드 코딩 방식의 한 종류입니다..<br>
+                    2) 코딩드론에 내장된 컬러센서로 카드의 색상을 인식하여 카드를 읽을 수 있고, 해당 카드에 입력된 명령을 코딩드론이 수행하게 됩니다.<br>
+                    3) 컬러 캘리브레이션이란 코딩드론의 컬러센서가 코딩카드의 색상을 잘 인식할 수 있도록 보정해주는 작업입니다.<br>
+                    4) 카드코딩하는 방법은 다음과 같습니다.<br>
+                         ▶ “카드코딩 모드” 읽기 → “코딩 시작” 읽기 → 명령 순서대로 카드 읽기 → “코딩 끝” 읽기 → 실행하기(동작버튼 연속으로 2번 누르기)<br>
+                    5)카드코딩을 실행하기 전에 주변에 사람이나 장애물이 없는지 확인하고, 실행시킨 후 즉시 드론으로부터 안전 거리만큼 떨어집니다.<br>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
 
 <br>
 
 ---
 
-### [코딩카드로 자율주행해요](../)
+### [드론으로 코딩해요](../)
 
- 1. [GoCar와 친구해요!](../lesson1)
- 2. [GoCar로 카드코딩해요(1)](../lesson2)
- 3. **GoCar로 카드코딩해요(2)**
- 4. [GoCar로 카드코딩해요(3)](../lesson4)
- 5. [GoCar로 카드코딩해요(4)](../lesson5)
- 6. [GoCar로 라인코딩해요](../lesson6)
- 7. [GoCar로 모션코딩해요](../lesson7)
- 8. [GoCar로 따라가기해요](../lesson8)
+ 1. [코딩드론과 친구해요](../lesson1)
+ 2. [코딩드론을 날려보아요](../lesson2)
+ 3. **코딩드론으로 카드코딩해요(1)**
+ 4. [코딩드론으로 카드코딩해요(2)] - 업데이트 예정
+ 5. [코딩드론으로 카드코딩해요(3)] - 업데이트 예정
+ 6. [코딩드론으로 모션코딩해요] - 업데이트 예정
+ 7. [코딩드론으로 블록코딩해요(1)] - 업데이트 예정
+ 8. [코딩드론으로 블록코딩해요(2)] - 업데이트 예정
 
 ---
 
-Modified : 2020.6.26
+Modified : 2020.12.29
