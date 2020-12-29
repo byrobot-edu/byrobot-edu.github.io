@@ -236,11 +236,12 @@
         </tr>
     </table>
 </div>
+
 <div align="center">
     <table>
         <tr>
             <td>
-                <div align="center"><h3>컬러 켈리브레이션 방법</h3><div align="center"></div>
+                <div align="center"><h3>컬러 켈리브레이션 방법</h3></div>
             </td>
         </tr>
         <tr>
