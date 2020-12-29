@@ -226,7 +226,7 @@
     <table>
         <tr>
             <td>
-                <div align="center"><h3>준비물</h3><div align="center"></div>
+                <div align="center"><h3>준비물</h3></div>
             </td>
         </tr>
         <tr>
