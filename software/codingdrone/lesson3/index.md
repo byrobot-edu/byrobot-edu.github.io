@@ -304,6 +304,7 @@
         </tr>
     </table>
 </div>
+<br>
 
 ---
 
@@ -435,10 +436,9 @@
     </table>
 </div>
 
-<br>
+<font color="red"><b>※ 회전 명령의 기본 회전 각도는 90도입니다.</b></font>
 
-반복문을 사용하지 않은 코드보다 많이 단순화된 것을 알 수 있죠? <br>
-이처럼 특정 명령을 반복하는 동작을 수행할 때 반복문을 사용하면 코드를 좀 더 간결하고 쉽게 만들 수 있습니다. 이제 코드를 실행해볼까요?
+<br>
 
 ---
 
@@ -451,9 +451,59 @@
 
 <br>
 
-<h2>1. 사각형 패턴 주행(반복문 미사용)</h2>
+이제 생각한 코드를 바탕으로 직접 코딩한 후 실행해보아요. 위에서 배웠던 카드코딩 방법 잊지 않았죠? 다음 순서대로 차근차근 따라해보세요.<br>
+
+<h2>1. 전진/후진</h2>
 
 <br>
+
+<div align="center">
+    <table>
+        <tr>
+            <td rowspan="3">
+                <div align="center"><h3>1단계</h3></div>
+            </td>
+            <td>
+                <div align="center"><h3>코딩카드 준비하기</h3></div>
+        </tr>
+        <tr>
+            <td>
+                <div align="center"><img src="images/image17.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <div align="left">카드코딩에 필요한 코딩카드들을 준비해보아요.</div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="4">
+                <div align="center"><h3>2단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩카드 준비하기</h3></div>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">동작순서</div>
+            </td>
+            <td>
+                <div align="center">이륙 → 1칸 전진 → 1칸 후진 → 착륙
+<font color="red"><b>※ 1칸 이동 거리 = 1m</b></font>
+</div>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div align="center"><img src="images/image18.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!</div>
+            </td>
+        </tr>
+    </table>
+</div>
 
 <div align="center">
     <table>
