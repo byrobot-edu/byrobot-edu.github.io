@@ -463,16 +463,16 @@
             <td rowspan="3">
                 <div align="center"><h3>1단계</h3></div>
             </td>
-            <td>
+            <td colspan="2">
                 <div align="center"><h3>코딩카드 준비하기</h3></div>
         </tr>
         <tr>
-            <td>
+            <td colspan="2">
                 <div align="center"><img src="images/image17.png"></div>
             </td>
         </tr>
         <tr>
-            <td>
+            <td colspan="2">
             <div align="left">카드코딩에 필요한 코딩카드들을 준비해보아요.</div>
             </td>
         </tr>
@@ -500,6 +500,24 @@
         <tr>
             <td colspan="2">
             <div align="left">동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!</div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+                <div align="center"><h3>3단계</h3></div>
+            </td>
+            <td colspan="2">
+                <div align="center"><h3>코딩카드 읽기</h3></div>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div align="center"><img src="images/image19.png"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div align="left">코딩드론에 배터리를 장착하여 전원을 켜고 코딩카드를 읽습니다. <Br>코딩카드가 잘 읽히도록 올바른 위치에 코딩드론을 올려놓고(드론의 가드와 코딩카드의 가드 문양이 일치되게 합니다.) 카드 순서대로 동작버튼을 1번 눌러서 카드를 읽어주세요. <br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br>
+            <font color="red"><b>※ “카드코딩 모드” 카드는 카드코딩을 시작할 때 한 번만 읽습니다.</b></font></div>
             </td>
         </tr>
     </table>
