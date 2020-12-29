@@ -477,6 +477,8 @@
             <div align="left">카드코딩에 필요한 코딩카드들을 준비해보아요.</div>
             </td>
         </tr>
+    </table>
+    <table>
         <tr>
             <td rowspan="4">
                 <div align="center"><h3>2단계</h3></div>
@@ -505,6 +507,8 @@
             <div align="left">동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!</div>
             </td>
         </tr>
+    </table>
+    <table>
         <tr>
             <td rowspan="3">
                 <div align="center"><h3>3단계</h3></div>
@@ -524,6 +528,8 @@
             <font color="red"><b>※ “카드코딩 모드” 카드는 카드코딩을 시작할 때 한 번만 읽습니다.</b></font></div>
             </td>
         </tr>
+    </table>
+    <table>
         <tr>
             <td rowspan="3">
                 <div align="center"><h3>4단계</h3></div>
@@ -873,7 +879,7 @@
                 카드를 읽은 횟수만큼 기다리는 시간이 1초씩 증가하고, 상황에 따라 적절한 시간을 입력해주면 됩니다.
             </td>
         </tr>
-        </tr>
+        <tr>
             <td>
                 <div align="center">사용예시</div>
             </td>
@@ -902,7 +908,7 @@
 기본 비행 명령을 조합하여 다양한 코스의 비행을 연습해보아요.
 
 <div align="center">
-        <table>
+    <table>
         <tr>
             <td>
                 <div align="left">
