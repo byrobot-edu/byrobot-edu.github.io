@@ -460,11 +460,8 @@
 <div align="center">
     <table>
         <tr>
-            <td rowspan="3">
-                <div align="center"><h3>1단계</h3></div>
-            </td>
             <td colspan="2">
-                <div align="center"><h3>코딩카드 준비하기</h3></div>
+                <div align="center"><h3>1단계 코딩카드 준비하기</h3></div>
             </td>
         </tr>
         <tr>
@@ -480,11 +477,8 @@
     </table>
     <table>
         <tr>
-            <td rowspan="4">
-                <div align="center"><h3>2단계</h3></div>
-            </td>
             <td colspan="2">
-                <div align="center"><h3>코딩카드 준비하기</h3></div>
+                <div align="center"><h3>2단계 코딩카드 준비하기</h3></div>
             </td>
         </tr>
         <tr>
@@ -510,11 +504,8 @@
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <div align="center"><h3>3단계</h3></div>
-            </td>
             <td colspan="2">
-                <div align="center"><h3>코딩카드 읽기</h3></div>
+                <div align="center"><h3>3단계 코딩카드 읽기</h3></div>
             </td>
         </tr>
         <tr>
@@ -531,11 +522,8 @@
     </table>
     <table>
         <tr>
-            <td rowspan="3">
-                <div align="center"><h3>4단계</h3></div>
-            </td>
             <td colspan="2">
-                <div align="center"><h3>코딩 실행하기</h3></div>
+                <div align="center"><h3>4단계 코딩 실행하기</h3></div>
             </td>
         </tr>
         <tr>
@@ -863,10 +851,10 @@
     <table>
         <tr>
             <td>
-                <div align="center">알아두어요</div>
+                <div align="center"><h3>알아두어요</h3></div>
             </td>
             <td>
-                <div align="center">1초 기다림 명령</div>
+                <div align="center"><h3>1초 기다림 명령</h3></div>
             </td>
         </tr>
         <tr>
@@ -876,7 +864,7 @@
             <td>
                 <div align="left">코딩카드 중에 “1초 기다림”이란 카드가 있습니다. 1초 동안 현 상태를 유지하는 명령인데, 드론이 비행 중일때는 1초 동안 호버링을 하게 됩니다.<br><br>
                 이 명령을 이동 명령 다음에 실행시켜주면 드론이 이동 후 안정화되는 시간을 줄 수 있습니다. 해당 시간동안 드론의 센서와 자세를 안정화시켜줘서 다음 명령을 좀 더 정확하게 수행할 수 있습니다.<br><Br>
-                카드를 읽은 횟수만큼 기다리는 시간이 1초씩 증가하고, 상황에 따라 적절한 시간을 입력해주면 됩니다.
+                카드를 읽은 횟수만큼 기다리는 시간이 1초씩 증가하고, 상황에 따라 적절한 시간을 입력해주면 됩니다.</div>
             </td>
         </tr>
         <tr>
