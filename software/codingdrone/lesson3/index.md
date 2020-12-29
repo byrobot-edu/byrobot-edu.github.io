@@ -465,6 +465,7 @@
             </td>
             <td colspan="2">
                 <div align="center"><h3>코딩카드 준비하기</h3></div>
+            </td>
         </tr>
         <tr>
             <td colspan="2">
@@ -482,6 +483,7 @@
             </td>
             <td colspan="2">
                 <div align="center"><h3>코딩카드 준비하기</h3></div>
+            </td>
         </tr>
         <tr>
             <td>
@@ -491,6 +493,7 @@
                 <div align="center">이륙 → 1칸 전진 → 1칸 후진 → 착륙
 <font color="red"><b>※ 1칸 이동 거리 = 1m</b></font>
 </div>
+            </td>
         </tr>
         <tr>
             <td colspan="2">
@@ -508,6 +511,7 @@
             </td>
             <td colspan="2">
                 <div align="center"><h3>코딩카드 읽기</h3></div>
+            </td>
         </tr>
         <tr>
             <td colspan="2">
