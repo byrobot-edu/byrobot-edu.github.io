@@ -270,7 +270,7 @@
 <div align="center">
     <table>
         <tr>
-            <td colspan="2"><div align="center"><b><br><h3>2단계 코딩카드 배열하기</h3><br>
+            <td colspan="2"><div align="center"><b><br><h3>2단계 코딩카드 배열하기</h3></b><br></div>
             </td>
         </tr>
         <tr>
