@@ -360,7 +360,7 @@
         <tr>
             <td>
                 <div align="center">
-                    <img src="images/image12.png">
+                    <img src="images/image13.png">
                 </div>
             </td>
         </tr>
