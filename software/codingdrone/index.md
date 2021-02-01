@@ -12,7 +12,7 @@
  5. [<font face="맑은고딕">코딩드론으로 카드코딩해요(3)</font>](lesson5)
  6. [<font face="맑은고딕">코딩드론으로 모션코딩해요</font>](lesson6)
  7. [<font face="맑은고딕">코딩드론으로 블록코딩해요(1)</font>](lesson7)
- 8. [<font face="맑은고딕">코딩드론으로 블록코딩해요(2)</font>] - 업데이트 예정
+ 8. [<font face="맑은고딕">코딩드론으로 블록코딩해요(2)</font>](lesson8)
 
 
 ---
