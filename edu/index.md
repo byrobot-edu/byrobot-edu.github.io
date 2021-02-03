@@ -48,13 +48,13 @@
         </tr>
         <tr>
             <td>
-                <div align="center"><font face="맑은고딕">-</font></a></div>
+                <div align="center"><font face="맑은고딕">-</font></div>
             </td>
             <td>
-                <div align="center"><font face="맑은고딕">-</font></a></div>
+                <div align="center"><font face="맑은고딕">-</font></div>
             </td>
             <td>
-                <div align="center"><font face="맑은고딕">-</font></a></div>
+                <div align="center"><font face="맑은고딕">-</font></div>
             </td>
             <td>
                 <div align="center"><a href="https://www.notion.so/BRC-105-x-29def46a4a814c089dc09bebfe49db3c" target="_blank"><font face="맑은고딕">파이썬으로 군집비행해요<br>(구글 크롬 최적화)</font></a></div>
