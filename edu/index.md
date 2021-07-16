@@ -32,7 +32,7 @@
             </td>
         </tr>
         <tr>
-            <th rowspan="2"><div align="center"><font face="맑은고딕">교육과정</font></div></th>
+            <th rowspan="3"><div align="center"><font face="맑은고딕">교육과정</font></div></th>
             <td>
                 <div align="center"><a href="/software/byblocks/"><font face="맑은고딕">바이블럭으로 코딩해요</font></a></div>
             </td>
@@ -60,9 +60,23 @@
                 <div align="center"><a href="https://www.notion.so/BRC-105-x-29def46a4a814c089dc09bebfe49db3c" target="_blank"><font face="맑은고딕">파이썬으로 군집비행해요<br>(구글 크롬 최적화)</font></a></div>
             </td>
         </tr>
+        <tr>
+            <td>
+                <div align="center"><font face="맑은고딕">-</font></div>
+            </td>
+            <td>
+                <div align="center"><font face="맑은고딕">-</font></div>
+            </td>
+            <td>
+                <div align="center"><font face="맑은고딕">-</font></div>
+            </td>
+            <td>
+                <div align="center"><a href="/software/codingdrone_eng/" target="_blank"><font face="맑은고딕">Coding with a coding drone (English)</font></a></div>
+            </td>
+        </tr>
     </table>
 </div>
 
 ---
 
-Modified : 2021.2.3
+Modified : 2021.7.16
