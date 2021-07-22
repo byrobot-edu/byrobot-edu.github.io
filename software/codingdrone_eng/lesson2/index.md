@@ -111,7 +111,7 @@ How drones fly <font color="red"><b> By adjusting the speed of each motor, the r
     <table>
         <tr>
             <td>
-                <div align="center">lift</div>
+                <div align="center"><b>lift</b></div>
             </td>
             <td>
                 <div align="center">It is the force that allows an aircraft to float in the air.</div>
@@ -119,7 +119,7 @@ How drones fly <font color="red"><b> By adjusting the speed of each motor, the r
         </tr>
         <tr>
             <td>
-                <div align="center">torque</div>
+                <div align="center"><b>torque</b></div>
             </td>
             <td>
                 <div align="center">As a force to rotate, the aircraft tends to rotate in the opposite direction to the direction in which the propeller rotates.</div>
