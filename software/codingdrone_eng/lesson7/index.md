@@ -74,9 +74,9 @@ Connect the coding drone to the <B>Rockitbrick</b> as follows.
     <img src="images/image3.png">
     <br>
 </div><br>
-4) Download Program<br><br>
-☞ [Rokitbrick Download Windows Version](https://byrobot.co.kr/bbs/download.php?bo_table=download&wr_id=11&no=0)<br>
-☞ [Rokitbrick Download MAC OS Version](https://byrobot.co.kr/bbs/download.php?bo_table=download&wr_id=11&no=1)
+4) Program Download & Setup<br><br>
+☞ [Rokitbrick Download (Windows Version)](https://byrobot.co.kr/bbs/download.php?bo_table=download&wr_id=11&no=0)<br>
+☞ [Rokitbrick Download (MAC OS Version)](https://byrobot.co.kr/bbs/download.php?bo_table=download&wr_id=11&no=1)
 <br><Br>
 5) Run Rockitbrick and click [SELECT]
 <div align="center">
