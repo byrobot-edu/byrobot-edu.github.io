@@ -19,7 +19,7 @@
 
 Coding drone supports not only unplugged coding but also plugged coding function. <Br>
 Currently available pluggable coding programs are <b>“Rockitbrick”</b> and <b>“Python”</b>. <br>
-In this lecture, we are going to learn how to connect and code a coding drone and a rocket brick.<br>
+In this lecture, we are going to learn how to connect and code a coding drone and a rocket brick.<br><br>
 
 <div align="center">
     <table>
@@ -74,7 +74,7 @@ Connect the coding drone to the <B>Rockitbrick</b> as follows.
     <img src="images/image3.png">
     <br>
 </div><br>
-4) Download Program<br>
+4) Download Program<br><br>
 ☞ [Rokitbrick Download Windows Version](https://byrobot.co.kr/bbs/download.php?bo_table=download&wr_id=11&no=0)<br>
 ☞ [Rokitbrick Download MAC OS Version](https://byrobot.co.kr/bbs/download.php?bo_table=download&wr_id=11&no=1)
 <br><Br>
