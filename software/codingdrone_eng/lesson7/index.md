@@ -73,50 +73,27 @@ Connect the coding drone to the <B>Rockitbrick</b> as follows.
 <div align="center">
     <img src="images/image3.png">
     <br>
-</div>
-4) site(http://byrobot.co.kr) to access.
-<br>
-<div align="center">
-    <img src="images/image4.png">
-    <br>
-</div>
-<br>
-<div align="center">
-    <img src="images/image5.png">
-    <br>(1) Click [“소프트웨어” Software] on the main screen.
-</div>
-<br>
-<div align="center">
-    <img src="images/image6.png">
-    <br>(2) Click the Rockitbrick [ “자세히보기” View Details].
-</div>
-<br>
-<div align="center">
-    <img src="images/image6-2.png">
-    <br>(3) Click on the appropriate attachment (.zip file) to install.
-</div>
-<br>
+</div><br>
+4) Download Program<br>
+☞ [Rokitbrick Download Windows Version](https://byrobot.co.kr/bbs/download.php?bo_table=download&wr_id=11&no=0)<br>
+☞ [Rokitbrick Download MAC OS Version](https://byrobot.co.kr/bbs/download.php?bo_table=download&wr_id=11&no=1)
+<br><Br>
 5) Run Rockitbrick and click [SELECT]
 <div align="center">
     <img src="images/image11.png">
     <br>
 </div>
-6) If you need to change the language, click the language selection(“언어선택”) icon on the settings icon to change the language to the desired language.
-<div align="center">
-    <img src="images/image7.png">
-    <br>
-</div>
-7) If the desired language has been changed, [BRC-105] Click.<br>
+6) [BRC-105] Click.<br>
 <div align="center">
     <img src="images/image8.png">
     <br>
 </div>
-8) Click [Connect to Drone] and click the corresponding port to connect to the drone.
+7) Click [Connect to Drone] and click the corresponding port to connect to the drone.
 <div align="center">
     <img src="images/image9.png">
     <br>
 </div>
-9) [Connection successful] If a message appears, the connection is normal.
+8) [Connection successful] If a message appears, the connection is normal.
 <div align="center">
     <img src="images/image10.png">
     <br>
