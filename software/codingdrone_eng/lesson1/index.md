@@ -213,7 +213,7 @@ Coding drones are maintained once paired, but if pairing is lost for some reason
 2) When the battery runs out, it lands immediately and replaces it with a fully charged battery.<br>
 3) Always install the latest firmware.<br>
 - [Download firmware program ](http://dev.byrobot.co.kr/documents/kr/products/coding_drone/log/updates/firmware/)<br>
-- [Firmware Update Manual ](http://dev.byrobot.co.kr/documents/kr/products/coding_drone/manual/update/drone4autoupdaterlight/)<br>
+- [Firmware Update Manual ](http://dev.byrobot.co.kr/documents/kr/products/coding_drone/manual/update/drone4autoupdaterlight/)<br><br>
 4) Be careful as applying severe impact to the drone and remote controller may cause malfunction.<br><br>
 
 
@@ -230,7 +230,7 @@ Coding drones are maintained once paired, but if pairing is lost for some reason
 
 <div align="left">
 Did you know what a coding drone is? Want to fly fast? Let's fly the coding drone to our heart's content in the next lecture! <br>
-If a problem occurs during use and it is difficult to solve, please contact the ByRobot AS Center (help@byrobot.co.kr).
+If a problem occurs during use and it is difficult to solve, please contact the ByRobot AS Center (help@byrobot.co.kr).<br>
 </div>
 
 <div align="center">
