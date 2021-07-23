@@ -211,10 +211,11 @@ Coding drones are maintained once paired, but if pairing is lost for some reason
 <br>
 1) Before flying the drone, make sure that there are no people or obstacles around it, and secure a safe distance before flying.<br>
 2) When the battery runs out, it lands immediately and replaces it with a fully charged battery.<br>
-3) Always install the latest firmware.<br>
+3) Be careful as applying severe impact to the drone and remote controller may cause malfunction.<br>
+4) Always install the latest firmware.<br>
 - [Download firmware program ](http://dev.byrobot.co.kr/documents/kr/products/coding_drone/log/updates/firmware/)<br>
 - [Firmware Update Manual ](http://dev.byrobot.co.kr/documents/kr/products/coding_drone/manual/update/drone4autoupdaterlight/)<br><br>
-4) Be careful as applying severe impact to the drone and remote controller may cause malfunction.<br><br>
+
 
 
 ---
