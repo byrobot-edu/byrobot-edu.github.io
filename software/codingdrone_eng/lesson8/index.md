@@ -456,8 +456,8 @@ In this way, by using the remote controller button and lever event block, you ca
 
  1. [Make friends with Coding Drone!](../lesson1)
  2. [Let's fly a coding drone](../lesson2)
- 3. [I code cards with a coding drone (1)] - fifth week of July
- 4. [I code cards with a coding drone (2)] - fifth week of July
+ 3. [I code cards with a coding drone (1)](../lesson3)
+ 4. [I code cards with a coding drone (2)](../lesson4)
  5. [I code cards with a coding drone (3)] - first week of August
  6. [Motion coding with a coding drone] -first week of August
  7. [Block coding with a coding drone(1)](../lesson7)

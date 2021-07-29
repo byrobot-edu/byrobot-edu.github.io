@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-    <h1>Lesson 3. 코딩드론으로 카드코딩해요(1)</h1>
+    <h1>Lesson 3. I code cards with a coding drone (1)</h1>
 </div>
 
 <br>
@@ -12,18 +12,15 @@
 
 
 <div align="center">
-    <h1>[들어가기]</h1>
+    <h1>[Outline]</h1>
 </div>
 
 <br>
 
-코딩드론은 세계 최초로 조종기 없이 코딩카드만으로 비행이 가능한 언플러그드 방식의 코딩 기능이 탑재되어 있습니다. <br>
-이번 강의에서는 코딩드론으로 언플러그드 코딩하는 방법을 배워보고, 언플러그드 코딩 기능 중 하나인 카드코딩으로 간단히 비행을 해보려고 합니다. <br>
+The coding drone is equipped with the world's first unplugged coding function that can fly only with a coding card without a remote controller. <br>
+In this lecture, we will learn how to unplug coding with a coding drone, and try to fly with card coding, which is one of the unplugged coding functions. <br><br>
 
-<Br>
-
-그럼 먼저 카드코딩이 무엇인지 알아볼까요?
-
+So, first, let's find out what card coding is.<br>
 
 <br>
 
@@ -31,13 +28,13 @@
     <table>
         <tr>
             <td>
-                <div align="center"><h3>카드 코딩이란?</h3></div>
+                <div align="center"><h3>What is card coding?</h3></div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="left">카드코딩은 카드를 사용하여 코딩 학습을 할 수 있는 언플러그드 코딩 방식의 한 종류입니다. 활용하는 교구재와 카드에 따라서 카드코딩에도 다양한 방식들이 있는데, 코딩드론을 활용한 카드코딩 방식은 다음과 같습니다.<Br><br>
-☞	카드별로 색상(상/하 2가지 색상)이 있고 코딩드론에 내장된 컬러센서로 카드의 색상을 인식하여 카드를 읽을 수 있습니다. 카드를 읽으면 해당 카드에 입력된 명령을 코딩드론이 수행하게 됩니다.<br>
+                <div align="left">Card coding is a kind of unplugged coding method that allows you to learn coding using cards. There are various methods for card coding depending on the teaching materials and cards used. The card coding method using a coding drone is as follows.<Br><br>
+☞ Each card has a color (two colors, top/bottom), and the color sensor built into the coding drone recognizes the card's color and allows you to read the card. When the card is read, the coding drone executes the commands entered on the card.<br>
 </div>
 <div align="center"><img src="images/image1.png"></div>
             </td>
@@ -47,86 +44,86 @@
 
 <br>
 
-코딩카드는 기본으로 43장 제공되며, 총 8개의 카테고리로 구성되어 있습니다.
+By default, 43 coding cards are provided and consist of a total of 8 categories.
 
 <br>
 
 <div align="center">
     <table>
         <tr>
-            <td><div align="center"><b>카테고리</b></div></td>
-            <td><div align="center"><b>코딩카드(명령) 종류</b></div></td>
+            <td><div align="center"><b>category</b></div></td>
+            <td><div align="center"><b>Coding card (command) type</b></div></td>
         </tr>
         <tr>
             <td>
-                <div align="center">캘리브레이션</div>
+                <div align="center">calibration</div>
             </td>
             <td>
-                컬러 캘리브레이션 1/5, 2/6, 3/7, 4/8
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">모드</div>
-            </td>
-            <td>
-                카드코딩 모드, 모션코딩 모드
+                Color Calibration 1/5, 2/6, 3/7, 4/8
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">코딩</div>
+                <div align="center">mode</div>
             </td>
             <td>
-                코딩 시작, 코딩 끝
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">동작</div>
-            </td>
-            <td>
-                1초 기다림
+                Card coding mode, motion coding mode
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">라이트</div>
+                <div align="center">coding</div>
             </td>
             <td>
-                메인전등 빨간색 켜기, 메인전등 노란색 켜기, 메인전등 녹색 켜기, 메인전등 파란색 켜기, 메인전등 끄기
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">이동</div>
-            </td>
-            <td>
-                이륙, 착륙, 전진, 후진, 왼쪽, 오른쪽, 상승, 하강, 좌회전, 우회전
+                Start coding, end coding
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">설정</div>
+                <div align="center">action</div>
             </td>
             <td>
-                0.3미터, 0.5미터, 1미터, 30도, 45도, 90도
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div align="center">조건</div>
-            </td>
-            <td>
-                앞쪽 장애물 발견하면, 빨간색 바닥 발견하면, 노란색 바닥 발견하면, 녹색 바닥 발견하면, 파란색 바닥 발견하면, 조건이 맞지 않으면, 조건 끝
+                wait 1 second
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">반복</div>
+                <div align="center">light</div>
             </td>
             <td>
-                무한 반복, 2회 반복, 3회 반복, 4회 반복, 반복 나가기, 반복 끝
+                Main light red on, main light yellow on, main light green on, main light blue on, main light off
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">move</div>
+            </td>
+            <td>
+                Takeoff, Landing, Forward, Backward, Left, Right, Rise, Descend, Turn Left, Turn Right
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">Set</div>
+            </td>
+            <td>
+                0.3 meter, 0.5 meter, 1 meter, 30 degree, 45 degree, 90 degree
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">Condition</div>
+            </td>
+            <td>
+                When an obstacle is found in front, when a red floor is found, when a yellow floor is found, when a green floor is found, when a blue floor is found, the condition is not met, the condition is over
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">repeat</div>
+            </td>
+            <td>
+                Infinite Repeat, Repeat 2x, Repeat 3x, Repeat 4x, Exit Repeat, End Repeat
             </td>
         </tr>
     </table>
@@ -134,9 +131,10 @@
 
 <br>
 
-코딩카드는 다음과 같이 디자인되어 있습니다.<br>
-컬러 캘리브레이션용 코딩카드는 앞면과 뒷면에 각각 다른 색상이 그려져 있습니다. 그리고 나머지 코딩카드는 앞면에 명령어와 아이콘이 표시되어 있고, 뒷면에 색상이 그려져 있습니다. <Br>
-색상이 그려져 있는 면에는 좌우 양쪽에 드론 가드 문양이 그려져 있어서 코딩카드를 읽을 때 드론을 놓아야 할 위치를 알려줍니다.<br>
+The coding card is designed as follows. <br>
+Coding cards for color calibration have different colors drawn on the front and back. <Br>
+And the rest of the coding cards have commands and icons on the front and colors on the back. <br>
+The drone guard pattern is drawn on the left and right sides of the colored side, indicating where to place the drone when reading the coding card.<br>
 
 <br>
 
@@ -144,10 +142,10 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>컬러 캘리브레이션용 코딩카드</h3></div>
+                <div align="center"><h3>Coding card for color calibration</h3></div>
             </td>
             <td colspan="2">
-                <div align="center"><h3>기타 코딩카드</h3></div>
+                <div align="center"><h3>Other coding cards</h3></div>
             </td>
         </tr>
         <tr>
@@ -166,16 +164,16 @@
         </tr>
         <tr>
             <td>
-                <div align="center">앞면</div>
+                <div align="center">obverse</div>
             </td>
             <td>
-                <div align="center">뒷면</div>
+                <div align="center">The back</div>
             </td>
             <td>
-                <div align="center">앞면</div>
+                <div align="center">obverse</div>
             </td>
             <td>
-                <div align="center">뒷면</div>
+                <div align="center">The back</div>
             </td>
         </tr>
     </table>
@@ -188,19 +186,19 @@
 <br>
 
 <div align="center">
-    <h1>[알아두기]</h1>
+    <h1>[Note]</h1>
 </div>
 
 <br>
 
-<h3>1. 코딩카드 읽기</h3><br>
-코딩카드를 읽는 방법은 다음과 같습니다.<Br>
+<h3>1. Reading the coding card</h3><br>
+Here's how to read the coding card.<Br><br>
 
-① 드론을 카드 위에(색상이 그려져 있는 면) 올려놓습니다. 이때, 카드의 드론 가드 문양에 맞춰 드론을 잘 올려놓습니다.<br>
-② 드론 위쪽 앞부분의 동작버튼을 1번 누릅니다.<br>
-<font color="red"><b>※ 동작버튼을 누를 때 너무 힘을 많이 주어 누르면 코딩드론이 손상될 수 있으므로 주의합니다.</b></font><Br>
-③ 부저음이 울리면서 메인 LED가 카드 색상(상, 하 2가지 색상)으로 한 번씩 깜빡이면 정상적으로 카드를 읽은 것입니다.<br>
-<font color="red"><b>※ 부저음과 메인 LED 색상은 카드별로 상이</b></font>
+① Place the drone on the card (the colored side). At this time, place the drone well according to the drone guard pattern on the card.<br>
+② Press the operation button on the top of the drone once.<br>
+<font color="red"><b>※ Be careful as the coding drone may be damaged if you press the operation button with too much force.</b></font><Br>
+③ When the buzzer sounds and the main LED blinks once in the color of the card (top and bottom 2 colors), the card has been read normally.<br>
+<font color="red"><b>※ Buzzer sound and main LED color are different for each card</b></font>
 <br>
 
 <div align="center">
@@ -214,19 +212,19 @@
 </div>
 <br>
 
-<h3>2. 컬러 캘리브레이션</h3><br>
-코딩드론의 컬러센서를 사용하여 코딩카드의 색상을 잘 인식하기 위해서는 컬러센서의 보정 작업이 필요합니다. 이 작업이 바로 컬러 캘리브레이션입니다. 컬러 캘리브레이션은 다음의 경우에 실시합니다.<br>
+<h3>2. Color Calibration</h3><br>
+In order to recognize the color of the coding card well using the color sensor of the coding drone, it is necessary to calibrate the color sensor. This is color calibration. Color calibration is performed in the following cases.<br><br>
 
-① 코딩드론으로 색상 인식이 잘 되지 않을 때<Br>
-② 코딩카드가 아닌 다른 인쇄물을 사용하여 코딩을 할 때<br>
+① When the color recognition is not good with the coding drone<Br>
+② When coding using a print other than a coding card<br>
 <Br>
-컬러 캘리브레이션 하는 방법은 다음과 같습니다.<Br>
+The method of color calibration is as follows.<Br>
 
 <div align="center">
     <table>
         <tr>
             <td>
-                <div align="center"><h3>준비물</h3></div>
+                <div align="center"><h3>materials</h3></div>
             </td>
         </tr>
         <tr>
@@ -241,7 +239,7 @@
     <table>
         <tr>
             <td>
-                <div align="center"><h3>컬러 켈리브레이션 방법</h3></div>
+                <div align="center"><h3>How to calibrate color</h3></div>
             </td>
         </tr>
         <tr>
@@ -262,44 +260,46 @@
     </table>
 </div>
 <br>
-<h3>3. 기능별 모드 설정 방법</h3><br>
+<h3>3. How to set mode by function</h3><br>
 
 <div align="center">
     <table>
         <tr>
             <td>
-                ① 언플러그드 모드의 기능별로 모드 카드(카드코딩/모션코딩)가 존재합니다. 동작버튼을 한 번 눌러서 모드 카드를 읽으면 해당 모드로 설정됩니다.<br>
-② 모드 카드는 처음 한 번만 읽으면 되고 코딩드론의 전원을 끄거나 다른 모드로 전환하기 전까지 해당 모드를 유지합니다.<Br>
-③ 다른 모드로 전환하는 방법은 전환할 모드 카드를 읽으면 해당 모드로 전환됩니다.<Br><br>
-<font color="red"><b>※ 모드 카드를 읽으면 모드별로 다른 부저음이 울리고 메인 전등 색상이 달라지기 때문에 구분하기가 쉽습니다.</b></font><br>
+                ① There are mode cards (card coding/motion coding) for each function of the unplugged mode. If you press the operation button once and read the mode card, the mode is set.<br>
+② The mod card only needs to be read the first time, and it will remain in that mode until the coding drone is powered off or switched to another mode.<Br>
+③ The way to switch to another mode is to read the mode card to switch to, then it will switch to that mode.<Br><br>
+<font color="red"><b>※ Reading the mod card makes it easy to tell them apart because each mod sounds a different buzzer and the main light color changes.</b></font><br>
 <div align="center"><img src="images/image11.png"></div>
             </td>
         </tr>
     </table>
 </div>
 <br>
-<h3>4. 코딩드론 정지시키는 방법</h3><br>
+<h3>4. How to stop the coding drone</h3><br>
 
-언플러그드 코딩 활동을 하면서 드론이 비행 중일 때, 갑자기 멈춰야 하는 상황이 발생하면 조종기의 전원을 켠 후 조종모드로 변환하여 착륙시키면 됩니다. <br>조종기와 드론은 페어링이 되어있는 상태여야 하고, 조종기의 레버를 움직이면 바로 조종모드로 변환됩니다. <Br>다시 언플러그드 코딩 모드로 전환하려면 전환하고 싶은 모드 카드를 읽어주면 됩니다. <br>
+During unplugged coding activities, if the drone needs to stop suddenly while it is in flight, turn on the power of the remote controller, then switch to the control mode and land. <br>
+The remote controller and the drone must be paired, and when you move the lever of the remote controller, it immediately switches to the control mode. <Br>
+To switch back to the unplugged coding mode, just read the mod card you want to switch to. <br>
 
 <br>
 
 ---
 
 <div align="center">
-    <h1>[카드코딩 방법]</h1>
+    <h1>[Card coding method]</h1>
 </div>
 <br>
-카드코딩은 다음 순서대로 실시합니다.
+Card coding is performed in the following order.
 <br>
 <div align="center">
     <table>
         <tr>
             <td><div align="center"><img src="images/image12.png"></div><Br>
-                ① 카드코딩 실행 방법은 코딩드론을 평평한 곳에 놓고 동작버튼을 2번 연속으로 누르면 약 2~3초 후 부저음(띠리릭)이 울리면서 자동으로 실행됩니다.<br>
-                <font color="red"><b>※실행 후 즉시 드론으로부터 안전거리만큼 떨어집니다. 안전사고 주의!</b></font><br>
-② 한 번 입력된 코딩 명령은 메모리에 저장되어 계속 실행할 수 있습니다. 단, “코딩 시작” 카드를 다시 읽으면 초기화됩니다.<Br>
-<font color="red"><b>※코딩드론의 전원을 꺼도 저장되어 있습니다. (저장 가능한 최대 카드 개수 : 120장)</b></font><br>
+                ① To run the card coding, place the coding drone on a flat surface and press the operation button 2 times in a row, after about 2 to 3 seconds, a buzzer sound (tiri-rik) is automatically executed.<br>
+                <font color="red"><b>※Immediately after running, you will move away from the drone by a safe distance. Beware of accidents!</b></font><br>
+② Coding instructions entered once are stored in memory and can be executed continuously. However, if you read the “Start Coding” card again, it will be reset.<Br>
+<font color="red"><b>※ It is saved even when the power of the coding drone is turned off. (Maximum number of storable cards: 120)</b></font><br>
             </td>
         </tr>
     </table>
@@ -309,36 +309,35 @@
 ---
 
 <div align="center">
-    <h1>[코드 생각하기]</h1>
+    <h1>[Thinking of code]</h1>
 </div>
 
 <br>
 
-지금부터는 직접 코딩해서 코딩드론을 날려보기로 해요. <br>
-먼저 코딩하기 전에 코딩드론을 어떻게 비행시킬지 생각하여 코드를 만들어보아요.<br>
-이번 강의에서는 기본 이동(전진/후진, 좌/우 이동, 상승/하강, 좌/우 회전)을 해볼거예요.
+From now on, I'm going to code myself and fly a coding drone. Before coding, think about how to fly the coding drone and make the code. <br>
+In this lesson, we will do basic movements (forward/backward, left/right movement, up/down, left/right rotation).<br>
 
 <br>
 
-<h2>1. 전진/후진</h2>
+<h2>1. Forward/Reverse</h2>
 
 <br>
 
-먼저 전진과 후진 비행을 하려면 어떻게 코드를 짜야 할지 생각해봅시다. 다음과 같이 코드를 생각해보았어요.
+First, let's think about how we're going to write the code to fly forward and backward. I thought of the code like this:
 
 <div align="center">
     <table>
         <tr>
             <td>
-                <div align="center">동작 순서</div>
+                <div align="center">action sequence</div>
             </td>
             <td>
-                <div align="center">시작 → 이륙 → 1칸 전진 → 1칸 후진 → 착륙 → 끝</div>
+                <div align="center">Start → Takeoff → Forward 1 square → Back 1 square → Landing → End</div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">카드 순서</div>
+                <div align="center">card order</div>
             </td>
             <td>
                 <img src="images/image13.png">
@@ -349,29 +348,29 @@
 
 <br>
 
-<font color="red"><b>※ 이동 명령의 기본 이동 거리는 1m입니다</b></font>
+<font color="red"><b>※ The basic movement distance of the movement command is 1m.</b></font>
 
 <br>
 
-<h2>2. 좌/우 이동</h2>
+<h2>2. Move left/right</h2>
 
 <br>
 
-다음은 좌/우 이동 비행입니다. 1칸 좌로 이동 후 1칸 우로 이동하려면 어떻게 코드를 짜야 할지 생각해보아요.
+Next is left/right movement flight. Think about how to write the code to move one space to the left and then one space to the right.
 
 <div align="center">
     <table>
         <tr>
             <td>
-                <div align="center">동작 순서</div>
+                <div align="center">action sequence</div>
             </td>
             <td>
-                <div align="center">시작 → 이륙 → 1칸 좌로 이동 → 1칸 우로 이동 → 착륙 → 끝</div>
+                <div align="center">Start → Takeoff → Move 1 square left → Move 1 square right → Landing → End</div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">카드 순서</div>
+                <div align="center">card order</div>
             </td>
             <td>
                 <img src="images/image14.png">
@@ -382,25 +381,25 @@
 
 <br>
 
-<h2>3. 상승/하강</h2>
+<h2>3. Rise/Descent</h2>
 
 <br>
 
-다음은 상승/하강 비행입니다. 1칸 상승 후 1칸 하강하려면 어떻게 코드를 짜야 할지 생각해보아요.
+Next up is the ascend/descent flight. Think about how to write the code to go up 1 space and then go down 1 space.
 
 <div align="center">
     <table>
         <tr>
             <td>
-                <div align="center">동작 순서</div>
+                <div align="center">action sequence</div>
             </td>
             <td>
-                <div align="center">시작 → 이륙 → 1칸 상승 → 1칸 하강 → 착륙 → 끝</div>
+                <div align="center">Start → Takeoff → Rise by 1 square → Fall by 1 square → Landing → End</div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">카드 순서</div>
+                <div align="center">card order</div>
             </td>
             <td>
                 <img src="images/image15.png">
@@ -409,25 +408,25 @@
     </table>
 </div>
 <br>
-<h2>4. 좌/우 회전</h2>
+<h2>4. Rotate left/right</h2>
 
 <br>
 
-다음은 좌/우 회전 비행입니다. 90도 좌로 회전 후 90도 우로 회전하려면 어떻게 코드를 짜야 할지 생각해보아요.
+Next up is a left/right turn flight. Think about how to write the code to rotate 90 degrees left and then 90 degrees right.
 
 <div align="center">
     <table>
         <tr>
             <td>
-                <div align="center">동작 순서</div>
+                <div align="center">action sequence</div>
             </td>
             <td>
-                <div align="center">시작 → 이륙 → 90도 좌회전 → 90도 우회전 → 착륙 → 끝</div>
+                <div align="center">Start → Takeoff → Turn 90 degrees left → Turn right 90 degrees → Landing → End</div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">카드 순서</div>
+                <div align="center">card order</div>
             </td>
             <td>
                 <img src="images/image16.png">
@@ -436,7 +435,7 @@
     </table>
 </div>
 
-<font color="red"><b>※ 회전 명령의 기본 회전 각도는 90도입니다.</b></font>
+<font color="red"><b>※ The default rotation angle of the rotation command is 90 degrees.</b></font>
 
 <br>
 
@@ -446,14 +445,14 @@
 
 
 <div align="center">
-    <h1>[코딩 및 실행하기]</h1>
+    <h1>[Coding and running]</h1>
 </div>
 
 <br>
 
-이제 생각한 코드를 바탕으로 직접 코딩한 후 실행해보아요. 위에서 배웠던 카드코딩 방법 잊지 않았죠? 다음 순서대로 차근차근 따라해보세요.<br>
+Now, based on the code you thought of, try to code it yourself and run it. Did you not forget the card coding method you learned above? Follow these steps step by step.<br>
 
-<h2>1. 전진/후진</h2>
+<h2>1. Forward/Reverse</h2>
 
 <br>
 
@@ -461,7 +460,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>1단계 - 코딩카드 준비하기</h3></div>
+                <div align="center"><h3>Step 1 - Prepare your coding card</h3></div>
             </td>
         </tr>
         <tr>
@@ -471,7 +470,7 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">카드코딩에 필요한 코딩카드들을 준비해보아요.</div>
+            <div align="left">Prepare the coding cards necessary for card coding.</div>
             </td>
         </tr>
     </table>
@@ -479,16 +478,16 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>2단계 - 코딩카드 준비하기</h3></div>
+                <div align="center"><h3>Step 2 - Arrange the coding cards</h3></div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">동작순서</div>
+                <div align="center">action sequence</div>
             </td>
             <td>
-                <div align="center">이륙 → 1칸 전진 → 1칸 후진 → 착륙
-<font color="red"><b>※ 1칸 이동 거리 = 1m</b></font>
+                <div align="center">Takeoff → Forward 1 space → Backward 1 space → Landing
+<font color="red"><b>※ OneKhan travel distance = 1m</b></font>
 </div>
             </td>
         </tr>
@@ -499,7 +498,7 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!</div>
+            <div align="left">Arrange the cards in the order of action. Don't forget that there are always “Coding Start” and “End Coding” cards at the beginning and end of coding!</div>
             </td>
         </tr>
     </table>
@@ -507,7 +506,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>3단계 - 코딩카드 읽기</h3></div>
+                <div align="center"><h3>Step 3 - read the coding card</h3></div>
             </td>
         </tr>
         <tr>
@@ -517,8 +516,10 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">코딩드론에 배터리를 장착하여 전원을 켜고 코딩카드를 읽습니다. <Br>코딩카드가 잘 읽히도록 올바른 위치에 코딩드론을 올려놓고(드론의 가드와 코딩카드의 가드 문양이 일치되게 합니다.) 카드 순서대로 동작버튼을 1번 눌러서 카드를 읽어주세요. <br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br>
-            <font color="red"><b>※ “카드코딩 모드” 카드는 카드코딩을 시작할 때 한 번만 읽습니다.</b></font></div>
+            <div align="left">Put the battery in the coding drone, turn it on, and read the coding card. <Br>
+            Place the coding drone in the correct position to read the coding card (make sure the guard pattern of the drone and the guard pattern of the coding card match) and press the operation button once in the order of the card to read the card. <br>
+            If you read the card incorrectly in the middle, start over from the beginning (=“Start coding” card).<br>
+            <font color="red"><b>※ “Card coding mode” The card is read only once when you start coding the card.</b></font></div>
             </td>
         </tr>
     </table>
@@ -526,7 +527,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>4단계 - 코딩 실행하기</h3></div>
+                <div align="center"><h3>Step 4 - run the code</h3></div>
             </td>
         </tr>
         <tr>
@@ -539,10 +540,10 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">코딩드론을 주변에 사람이나 장애물이 없는 평평한 바닥에 놓습니다. <br>
-            그리고 동작버튼을 연속으로 2번 눌러서 코딩을 실행합니다. <br>
-            약 3초 후 코딩드론이 자동으로 코딩한 명령을 수행합니다..<br>
-            <font color="red"><b>※ 동작버튼을 누른 후 즉시 드론으로부터 안전 거리만큼 떨어집니다. (안전사고 주의!)</b></font></div>
+            <div align="left">Place the coding drone on a flat surface with no people or obstacles nearby. <br>
+            And press the action button twice in succession to execute the coding. <br>
+            After about 3 seconds, the coding drone automatically executes the coded command.<Br>
+            <font color="red"><b>※ After pressing the action button, immediately move away from the drone by a safe distance. (Beware of safety accidents!)</b></font></div>
             </td>
         </tr>
     </table>
@@ -550,7 +551,7 @@
 
 <br>
 
-<h2>2. 좌/우 이동</h2>
+<h2>2. Move left/right</h2>
 
 <br>
 
@@ -558,7 +559,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>1단계 - 코딩카드 준비하기</h3></div>
+                <div align="center"><h3>Step 1 - Prepare your coding card</h3></div>
             </td>
         </tr>
         <tr>
@@ -568,7 +569,7 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">카드코딩에 필요한 코딩카드들을 준비해보아요.</div>
+            <div align="left">Prepare the coding cards necessary for card coding.</div>
             </td>
         </tr>
     </table>
@@ -576,16 +577,16 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>2단계 - 코딩카드 배열하기</h3></div>
+                <div align="center"><h3>Step 2 - Arrange the coding cards</h3></div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">동작순서</div>
+                <div align="center">action sequence</div>
             </td>
             <td>
-                <div align="center">이륙 → 1칸 좌로 이동 → 1칸 우로 이동 → 착륙
-<font color="red"><b>※ 1칸 이동 거리 = 1m</b></font>
+                <div align="center">Takeoff → Move 1 space left → Move 1 space right → Landing
+<font color="red"><b>※ OneKhan travel distance = 1m</b></font>
 </div>
             </td>
         </tr>
@@ -596,7 +597,7 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!</div>
+            <div align="left">Arrange the cards in the order of action. Don't forget that there are always “Coding Start” and “End Coding” cards at the beginning and end of coding!</div>
             </td>
         </tr>
     </table>
@@ -604,7 +605,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>3단계 - 코딩카드 읽기</h3></div>
+                <div align="center"><h3>Step 3 - read the coding card</h3></div>
             </td>
         </tr>
         <tr>
@@ -614,8 +615,10 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">코딩드론에 배터리를 장착하여 전원을 켜고 코딩카드를 읽습니다. <Br>코딩카드가 잘 읽히도록 올바른 위치에 코딩드론을 올려놓고(드론의 가드와 코딩카드의 가드 문양이 일치되게 합니다.) 카드 순서대로 동작버튼을 1번 눌러서 카드를 읽어주세요. <br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br>
-            <font color="red"><b>※ “카드코딩 모드” 카드는 카드코딩을 시작할 때 한 번만 읽습니다.</b></font></div>
+            <div align="left">Put the battery in the coding drone, turn it on, and read the coding card.<br>
+             Place the coding drone in the correct position to read the coding card (make sure the guard pattern of the drone and the guard pattern of the coding card match) and press the operation button once in the order of the card to read the card. <Br>
+             If you read the card incorrectly in the middle, start over from the beginning (=“Start coding” card).<br>
+            <font color="red"><b>※ “Card coding mode” The card is read only once when you start coding the card.</b></font></div>
             </td>
         </tr>
     </table>
@@ -623,7 +626,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>4단계 - 코딩 실행하기</h3></div>
+                <div align="center"><h3>Step 4 - run the code</h3></div>
             </td>
         </tr>
         <tr>
@@ -636,10 +639,10 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">코딩드론을 주변에 사람이나 장애물이 없는 평평한 바닥에 놓습니다. <br>
-            그리고 동작버튼을 연속으로 2번 눌러서 코딩을 실행합니다. <br>
-            약 3초 후 코딩드론이 자동으로 코딩한 명령을 수행합니다..<br>
-            <font color="red"><b>※ 동작버튼을 누른 후 즉시 드론으로부터 안전 거리만큼 떨어집니다. (안전사고 주의!)</b></font></div>
+            <div align="left">Place the coding drone on a flat surface with no people or obstacles nearby. <Br>
+            And press the action button twice in succession to execute the coding. <Br>
+            After about 3 seconds, the coding drone automatically executes the coded command.<br>
+            <font color="red"><b>※ After pressing the action button, immediately move away from the drone by a safe distance. (Beware of safety accidents!)</b></font></div>
             </td>
         </tr>
     </table>
@@ -647,7 +650,7 @@
 
 <br>
 
-<h2>3. 상승/하강</h2>
+<h2>3. Rise/Descent</h2>
 
 <br>
 
@@ -655,7 +658,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>1단계 - 코딩카드 준비하기</h3></div>
+                <div align="center"><h3>Step 1 - Prepare your coding card</h3></div>
             </td>
         </tr>
         <tr>
@@ -665,7 +668,7 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">카드코딩에 필요한 코딩카드들을 준비해보아요.</div>
+            <div align="left">Prepare the coding cards necessary for card coding.</div>
             </td>
         </tr>
     </table>
@@ -673,16 +676,16 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>2단계 - 코딩카드 배열하기</h3></div>
+                <div align="center"><h3>Step 2 - Arrange the coding cards</h3></div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">동작순서</div>
+                <div align="center">action sequence</div>
             </td>
             <td>
-                <div align="center">이륙 → 1칸 상승 → 1칸 하강 → 착륙
-<font color="red"><b>※ 1칸 이동 거리 = 1m</b></font>
+                <div align="center">Takeoff → Rise 1 square → Fall 1 square → Land
+<font color="red"><b>※ OneKhan travel distance = 1m</b></font>
 </div>
             </td>
         </tr>
@@ -693,7 +696,7 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!</div>
+            <div align="left">Arrange the cards in the order of action. Don't forget that there are always “Coding Start” and “End Coding” cards at the beginning and end of coding!</div>
             </td>
         </tr>
     </table>
@@ -701,7 +704,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>3단계 - 코딩카드 읽기</h3></div>
+                <div align="center"><h3>Step 3 - read the coding card</h3></div>
             </td>
         </tr>
         <tr>
@@ -711,8 +714,10 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">코딩드론에 배터리를 장착하여 전원을 켜고 코딩카드를 읽습니다. <Br>코딩카드가 잘 읽히도록 올바른 위치에 코딩드론을 올려놓고(드론의 가드와 코딩카드의 가드 문양이 일치되게 합니다.) 카드 순서대로 동작버튼을 1번 눌러서 카드를 읽어주세요. <br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br>
-            <font color="red"><b>※ “카드코딩 모드” 카드는 카드코딩을 시작할 때 한 번만 읽습니다.</b></font></div>
+            <div align="left">Put the battery in the coding drone, turn it on, and read the coding card.<Br>
+            Place the coding drone in the correct position to read the coding card (make sure the guard pattern of the drone and the guard pattern of the coding card match) and press the operation button once in the order of the card to read the card. <br>
+            If you read the card incorrectly in the middle, start over from the beginning (=“Start coding” card).<br>
+            <font color="red"><b>※ “Card coding mode” The card is read only once when you start coding the card.</b></font></div>
             </td>
         </tr>
     </table>
@@ -720,7 +725,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>4단계 - 코딩 실행하기</h3></div>
+                <div align="center"><h3>Step 4 - run the code</h3></div>
             </td>
         </tr>
         <tr>
@@ -733,10 +738,10 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">코딩드론을 주변에 사람이나 장애물이 없는 평평한 바닥에 놓습니다. <br>
-            그리고 동작버튼을 연속으로 2번 눌러서 코딩을 실행합니다. <br>
-            약 3초 후 코딩드론이 자동으로 코딩한 명령을 수행합니다..<br>
-            <font color="red"><b>※ 동작버튼을 누른 후 즉시 드론으로부터 안전 거리만큼 떨어집니다. (안전사고 주의!)</b></font></div>
+            <div align="left">Place the coding drone on a flat surface with no people or obstacles nearby. <br>
+            And press the action button twice in succession to execute the coding. <br>
+            After about 3 seconds, the coding drone automatically executes the coded command.<br>
+            <font color="red"><b>※ After pressing the action button, immediately move away from the drone by a safe distance. (Beware of safety accidents!)</b></font></div>
             </td>
         </tr>
     </table>
@@ -744,7 +749,7 @@
 
 <br>
 
-<h2>4. 좌/우 회전</h2>
+<h2>4. Rotate left/right</h2>
 
 <br>
 
@@ -752,7 +757,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>1단계 - 코딩카드 준비하기</h3></div>
+                <div align="center"><h3>Step 1 - Prepare your coding card</h3></div>
             </td>
         </tr>
         <tr>
@@ -762,7 +767,7 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">카드코딩에 필요한 코딩카드들을 준비해보아요.</div>
+            <div align="left">Prepare the coding cards necessary for card coding.</div>
             </td>
         </tr>
     </table>
@@ -770,16 +775,16 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>2단계 - 코딩카드 배열하기</h3></div>
+                <div align="center"><h3>Step 2 - Arrange the coding cards</h3></div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center">동작순서</div>
+                <div align="center">action sequence</div>
             </td>
             <td>
-                <div align="center">이륙 → 좌회전 → 우회전 → 착륙
-<font color="red"><b>※ 회전 명령 1회당 회전 각도 = 90도</b></font>
+                <div align="center">Takeoff → Left Turn → Right Turn → Landing
+<font color="red"><b>※ Rotation angle per rotation command = 90 degrees</b></font>
 </div>
             </td>
         </tr>
@@ -790,7 +795,7 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">동작 순서에 맞게 카드를 배열해 보아요. 코딩의 시작과 끝에는 항상 “코딩시작”과 “코딩끝” 카드가 온다는 것을 잊지 마세요!</div>
+            <div align="left">Arrange the cards in the order of action. Don't forget that there are always “Coding Start” and “End Coding” cards at the beginning and end of coding!</div>
             </td>
         </tr>
     </table>
@@ -798,7 +803,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>3단계 - 코딩카드 읽기</h3></div>
+                <div align="center"><h3>Step 3 - read the coding card</h3></div>
             </td>
         </tr>
         <tr>
@@ -808,8 +813,10 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">코딩드론에 배터리를 장착하여 전원을 켜고 코딩카드를 읽습니다. <Br>코딩카드가 잘 읽히도록 올바른 위치에 코딩드론을 올려놓고(드론의 가드와 코딩카드의 가드 문양이 일치되게 합니다.) 카드 순서대로 동작버튼을 1번 눌러서 카드를 읽어주세요. <br>만약, 중간에 카드를 잘못 읽었다면 처음부터(=”코딩시작” 카드부터) 다시 시작합니다.<br>
-            <font color="red"><b>※ “카드코딩 모드” 카드는 카드코딩을 시작할 때 한 번만 읽습니다.</b></font></div>
+            <div align="left">Put the battery in the coding drone, turn it on, and read the coding card. <Br>
+            Place the coding drone in the correct position to read the coding card (make sure the guard pattern of the drone and the guard pattern of the coding card match) and press the operation button once in the order of the card to read the card. <br>
+            If you read the card incorrectly in the middle, start over from the beginning (=“Start coding” card).<br>
+            <font color="red"><b>※ “Card coding mode” The card is read only once when you start coding the card.</b></font></div>
             </td>
         </tr>
     </table>
@@ -817,7 +824,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><h3>4단계 - 코딩 실행하기</h3></div>
+                <div align="center"><h3>Step 4 - run the code</h3></div>
             </td>
         </tr>
         <tr>
@@ -830,10 +837,11 @@
         </tr>
         <tr>
             <td colspan="2">
-            <div align="left">코딩드론을 주변에 사람이나 장애물이 없는 평평한 바닥에 놓습니다. <br>
-            그리고 동작버튼을 연속으로 2번 눌러서 코딩을 실행합니다. <br>
-            약 3초 후 코딩드론이 자동으로 코딩한 명령을 수행합니다..<br>
-            <font color="red"><b>※ 동작버튼을 누른 후 즉시 드론으로부터 안전 거리만큼 떨어집니다. (안전사고 주의!)</b></font></div>
+            <div align="left">Place the coding drone on a flat surface with no people or obstacles nearby. <br>
+            And press the action button twice in succession to execute the coding. <Br>
+            After about 3 seconds, the coding drone automatically executes the coded command.<br><br>
+        
+            <font color="red"><b>※ After pressing the action button, immediately move away from the drone by a safe distance. (Beware of safety accidents!)</b></font></div>
             </td>
         </tr>
     </table>
@@ -845,10 +853,10 @@
     <table>
         <tr>
             <td>
-                <div align="center"><h3>알아두어요</h3></div>
+                <div align="center"><h3>I know</h3></div>
             </td>
             <td>
-                <div align="center"><h3>1초 기다림 명령</h3></div>
+                <div align="center"><h3>1 second wait command</h3></div>
             </td>
         </tr>
         <tr>
@@ -856,14 +864,16 @@
                 <div align="center"><img src="images/image34.png"></div>
             </td>
             <td>
-                <div align="left">코딩카드 중에 <b>“1초 기다림”</b>이란 카드가 있습니다. 1초 동안 현 상태를 유지하는 명령인데, 드론이 비행 중일때는 1초 동안 호버링을 하게 됩니다.<br><br>
-                이 명령을 이동 명령 다음에 실행시켜주면 드론이 이동 후 안정화되는 시간을 줄 수 있습니다. <Br>해당 시간동안 드론의 센서와 자세를 안정화시켜줘서 다음 명령을 좀 더 정확하게 수행할 수 있습니다.<br><Br>
-                카드를 읽은 횟수만큼 기다리는 시간이 1초씩 증가하고, 상황에 따라 적절한 시간을 입력해주면 됩니다.</div>
+                <div align="left">Among the coding cards, there is a card called <b>“Wait for 1 second”</b>. <Br>
+                This is a command to maintain the current state for 1 second, but when the drone is in flight, it will hover for 1 second.<br><br>
+                Execute this command after the move command to give the drone time to stabilize after moving. <Br>
+                During that time, the drone's sensors and attitude are stabilized so that the next command can be performed more accurately.<br><Br>
+                The waiting time increases by 1 second for the number of times the card is read, and you can enter an appropriate time according to the situation.</div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="center"><h3>사용예시</h3></div>
+                <div align="center"><h3>Usage example</h3></div>
             </td>
             <td>
                 <div align="center"><img src="images/image35.png"></div>
@@ -880,26 +890,25 @@
 
 
 <div align="center">
-    <h1>[정리하기]</h1>
+    <h1>[Organize]</h1>
 </div>
 
 <br>
 
-이번 강의에서는 언플러그드 코딩 기능 중 카드코딩이 무엇인지 배워보고, 직접 카드코딩하여 코딩드론을 날려보았습니다. <Br>
-조종기나 PC 없이 코딩카드를 사용하여 드론을 날릴 수 있다는 사실이 놀랍고 신기하지 않나요? <br>
-기본 비행 명령을 조합하여 다양한 코스의 비행을 연습해보아요.
+In this lecture, I learned what card coding is among the unplugged coding functions, and I flew a coding drone by coding the card myself. <br>
+Isn't it surprising and surprising that you can fly a drone using a coding card without a remote controller or PC? Practice flying different courses by combining basic flight commands.
 
 <div align="center">
     <table>
         <tr>
             <td>
                 <div align="left">
-                    1) 카드코딩은 카드를 사용하여 코딩 학습을 할 수 있는 언플러그드 코딩 방식의 한 종류입니다.<br>
-                    2) 코딩드론에 내장된 컬러센서로 카드의 색상을 인식하여 카드를 읽을 수 있고, 해당 카드에 입력된 명령을 코딩드론이 수행하게 됩니다.<br>
-                    3) 컬러 캘리브레이션이란 코딩드론의 컬러센서가 코딩카드의 색상을 잘 인식할 수 있도록 보정해주는 작업입니다.<br>
-                    4) 카드코딩하는 방법은 다음과 같습니다.<br>
-                         ▶ “카드코딩 모드” 읽기 → “코딩 시작” 읽기 → 명령 순서대로 카드 읽기 → “코딩 끝” 읽기 → 실행하기(동작버튼 연속으로 2번 누르기)<br>
-                    5)카드코딩을 실행하기 전에 주변에 사람이나 장애물이 없는지 확인하고, 실행시킨 후 즉시 드론으로부터 안전 거리만큼 떨어집니다.<br>
+                    1) Card coding is a kind of unplugged coding method that allows you to learn coding using cards.<br>
+                    2) The card can be read by recognizing the color of the card with the built-in color sensor of the coding drone, and the coding drone executes the commands entered in the card.<br>
+                    3) Color Calibration is the task of calibrating the color sensor of the coding drone so that it can recognize the color of the coding card.<br>
+                    4) The card coding method is as follows.<br>
+                         ▶ “Read “Card Coding Mode”→ “Read “Start Coding”→ read cards in command order → “end of coding” read → Execute (with action buttons in a row) 2press once.<br>
+                    5) Before executing card coding, check that there are no people or obstacles around, and immediately move away from the drone by a safe distance after executing it.<br>
                 </div>
             </td>
         </tr>
@@ -910,17 +919,17 @@
 
 ---
 
-### [드론으로 코딩해요](../)
+### [Coding with a coding drone (English)](../)
 
- 1. [코딩드론과 친구해요](../lesson1)
- 2. [코딩드론을 날려보아요](../lesson2)
- 3. **코딩드론으로 카드코딩해요(1)**
- 4. [코딩드론으로 카드코딩해요(2)](../lesson4)
- 5. [코딩드론으로 카드코딩해요(3)](../lesson5)
- 6. [코딩드론으로 모션코딩해요](../lesson6)
- 7. [코딩드론으로 블록코딩해요(1)](../lesson7)
- 8. [코딩드론으로 블록코딩해요(2)](../lesson8)
+ 1. [Make friends with Coding Drone!](../lesson1)
+ 2. [Let's fly a coding drone](../lesson2)
+ 3. **I code cards with a coding drone (1)**
+ 4. [I code cards with a coding drone (2)](../lesson4)
+ 5. [I code cards with a coding drone (3)] - first week of August
+ 6. [Motion coding with a coding drone] -first week of August
+ 7. [Block coding with a coding drone(1)](../lesson7)
+ 8. [Block coding with a coding drone(2)](../lesson8)
 
 ---
 
-Modified : 2020.12.29
+Modified : 2021.7.30
