@@ -162,7 +162,7 @@ Here's how to use the loop:
     <table>
         <tr>
             <td>
-                <img src="images/image7.png" alt="4회반복">
+                <div align="center"><img src="images/image7.png" alt="4회반복"></div>
             </td>
         </tr>
         <tr>
