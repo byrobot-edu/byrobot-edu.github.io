@@ -380,8 +380,8 @@ Now, think about how to code other patterns besides squares, and try coding the 
  2. [Let's fly a coding drone](../lesson2)
  3. [I code cards with a coding drone (1)](../lesson3)
  4. **I code cards with a coding drone (2)**
- 5. [I code cards with a coding drone (3)] - first week of August
- 6. [Motion coding with a coding drone] -first week of August
+ 5. [I code cards with a coding drone (3)](../lesson5)
+ 6. [Motion coding with a coding drone](../lesson6)
  7. [Block coding with a coding drone(1)](../lesson7)
  8. [Block coding with a coding drone(2)](../lesson8)
 

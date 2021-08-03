@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-    <h1>Lesson 6. 코딩드론으로 모션코딩해요</h1>
+    <h1>Lesson 6. Motion coding with a coding drone</h1>
 </div>
 
 <br>
@@ -12,13 +12,13 @@
 
 
 <div align="center">
-    <h1>[들어가기]</h1>
+    <h1>[Outline]</h1>
 </div>
 
 <br>
 
-이번 강의에서는 코딩드론으로 언플러그드 코딩의 2번째 기능인 모션코딩을 해보려고 합니다. <br>
-먼저 모션코딩이 무엇인지 알아볼까요?
+In this lecture, I am going to try motion coding, which is the second function of unplugged coding with a coding drone. <br>
+First, let's see what motion coding is.
 
 
 
@@ -29,13 +29,13 @@
     <table>
         <tr>
             <td>
-                <div align="left"><b>모션코딩이란?</b></div>
+                <div align="left"><b>What is motion coding?</b></div>
             </td>
         </tr>
         <tr>
             <td>
-                <div align="left">☞	코딩드론의 몸체를 기울여서 기울이는 방향에 따라 비행 명령을 입력할 수 있는 코딩 방식입니다. <br>비행 명령은 총 4가지로, 앞쪽으로 기울이면 1m 전진, 뒤쪽으로 기울이면 1m 후진, 왼쪽으로 기울이면 1m 좌로 이동, 오른쪽으로 기울이면 1m 우로 이동입니다. <br><br>
-                ☞ 코딩드론에는 내부 메인보드에 <font color="red"><b>6축 자세센서</b></font>가 장착되어 있는데, 이 자세센서가 코딩드론의 기울어진 방향과 각도를 측정할 수 있습니다.
+                <div align="left">☞	Coding This is a coding method that allows you to input flight commands according to the tilting direction by tilting the drone's body. There are a total of 4 flight commands: tilt forward to move forward 1m, tilt backward to move back 1m, tilt left to move 1m to the left, and tilt right to move 1m to the right.<br><br>
+                ☞ The coding drone has an internal motherboard. <font color="red"><b>6 axis attitude sensor </b></font>is equipped, this attitude sensor can measure the tilted direction and angle of the coding drone.
                 </div>
             </td>
         </tr>
@@ -55,7 +55,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <div align="center"><font color="red"><b>※ 6축 자세센서</b></font></div>
+                <div align="center"><font color="red"><b>※ 6 axis attitude sensor</b></font></div>
             </td>
         </tr>
         <tr>
@@ -65,10 +65,10 @@
             </td>
             <td>
                 <div align="left">
-                ▶ 6축 자세센서는 3축 가속도 센서와 3축 자이로 센서로 구성되어 있습니다. 여기서 3축은 물체의 중심을 기준으로 X축(가로), Y축(세로), Z축(수직)을 말합니다.<br><br>
-                ▶	가속도 센서는 각 축에 작용하는 중력가속도를 측정하여 현재 물체가 현재 어떤 방향으로 얼만큼 기울어져 있는지 확인할 수 있습니다.<br><Br>
-                ▶	자이로 센서는 각 축에 작용하는 각속도(회전하는 각도의 변화량)를 측정하여 현재 물체가 어떤 방향으로 얼만큼 기울어져 있는지 확인할 수 있습니다.<br><br>
-                ▶	가속도 센서와 자이로 센서는 사용 용도가 같지만 각 센서가 갖고 있는 단점들을 상호 보완하여 더욱 정밀한 측정을 할 수 있습니다.
+                ▶ The 6-axis attitude sensor consists of a 3-axis acceleration sensor and a 3-axis gyro sensor. Here, the 3 axes refer to the X-axis (horizontal), Y-axis (vertical), and Z-axis (vertical) based on the center of the object<br><br>
+                ▶ The accelerometer measures the gravitational acceleration acting on each axis to determine how much the current object is tilted in which direction.<br><Br>
+                ▶ The gyro sensor measures the angular velocity (the amount of change in the rotational angle) acting on each axis to determine how much and in which direction the current object is tilted.<br><br>
+                ▶ Although the accelerometer and gyro sensor have the same purpose of use, more precise measurements can be made by complementing the shortcomings of each sensor.
                 </div>
             </td>
         </tr>
@@ -77,7 +77,7 @@
 
 <br>
 
-모션코딩이 무엇인지 알았나요? 이제 모션코딩으로 코딩드론를 날려보아요.
+Did you know what motion coding is? Now let's fly the coding drone with motion coding.
 
 <Br>
 
@@ -87,12 +87,12 @@
 
 
 <div align="center">
-    <h1>[모션코딩 방법]</h1>
+    <h1>[Motion coding method]</h1>
 </div>
 
 <br>
 
-모션코딩은 다음 순서로 실시합니다.
+Motion coding is performed in the following order.
 
 <br>
 
@@ -110,13 +110,13 @@
         </tr>
         <tr>
             <td>
-                <div align="left">① 모션 인식시키는 방법은 코딩드론을 손에 들고 평형을 유지한 상태에서, 각 명령에 맞게 코딩드론을 기울였다가 다시 원위치 시키면 됩니다.<br>
-                기울였을 때 부저음(띠딕)이 울리고, 다시 원위치 시켰을 때 부저음(띠)이 울리면 정상적으로 모션 명령이 입력된 것입니다.<br>
-                <font color="red"><b>※ 코딩드론을 기울일 때 30도 이상 기울여주세요.</b></font>
+                <div align="left">① The way to recognize motion is to hold the coding drone in hand and keep it in equilibrium, tilt the coding drone according to each command, and then return it to its original position. <br>
+                If the buzzer sounds when tilted and the buzzer sounds when you put it back to its original position, the motion command has been entered normally.<br>
+                <font color="red"><b>※ Tilt the GoCar at least 30 degrees when tilting it.</b></font>
                 <br><Br>
-                ② 모션코딩 실행 방법은 코딩드론을 평평한 곳에 놓고 동작버튼을 2번 연속으로 누르면 약 2~3초 후에 부저음(띠리릭)이 울리면서 자동으로 실행됩니다.<br>
-                <font color="red"><b>※ 실행 후 즉시 드론으로부터 안전거리만큼 떨어집니다. 안전사고 주의!</b></font><br><br>
-                ③ 한 번 입력된 코딩 명령은 메모리에 저장되어 계속 실행할 수 있습니다. 단, 코딩드론의 전원이 꺼지거나 “코딩 시작” 카드를 다시 읽으면 초기화됩니다.<Br>
+                ② ②	To execute motion coding, place the coding drone on a flat surface and press the operation button 2 times in a row, after about 2 to 3 seconds, a buzzer sound (tiri-rik) is automatically executed.<br>
+                <font color="red"><b>※ Immediately after running, you will move away from the drone by a safe distance. Beware of accidents!</b></font><br><br>
+                ③ Coding instructions entered once are stored in memory and can be executed continuously. However, it is reset when the power of the coding drone is turned off or the “Start coding” card is read again.<Br>
                 </div>
             </td>
         </tr>
@@ -130,14 +130,13 @@
 <br>
 
 <div align="center">
-    <h1>[코딩 실행하기]</h1>
+    <h1>[Coding and running]</h1>
 </div>
 
 <br>
 
-모션코딩으로 목적지 찾아가기 놀이를 해볼거예요. <br>
-먼저 아래와 같이 바닥에 활동판을 만들어보아요. <br>
-한 변의 길이가 1m인 정사각형 9개를 아래 그림과 같이 바닥에 테이프를 붙여 만들고 각 사각형 안에 숫자를 표시합니다.
+We are going to play a game of finding a destination with motion coding. <br>
+First, make an activity board on the floor as shown below. Make 9 squares with a side length of 1m and tape them to the floor as shown in the figure below, and mark each square with a number.
 
 <br>
 
@@ -145,7 +144,7 @@
     <table>
         <tr>
             <td>
-                <div align="center">모션코딩 실습판</div>
+                <div align="center">motion coding action board</div>
             </td>
             <td>
                 <div align="center">
@@ -162,11 +161,11 @@
     <table>
         <tr>
             <td rowspan="6">
-                <div align="center"><b>1단계</b>
+                <div align="center"><b>Step 1</b>
                 </div>
             </td>
             <td colspan="3"> 
-                <div align="center"> <b>코딩 입력하기</b></div>
+                <div align="center"> <b>Enter Coding</b></div>
             </td>
         </tr>
         <tr>
@@ -174,10 +173,10 @@
                 <div align="center"><img src="images/image6.png"></div>
             </td>
             <td>
-                <div align="center"> ① 1m 우로 이동 </div>
+                <div align="center"> ① move 1m to the right </div>
             </td>
             <td>
-                <div align="center"> ② 1m 우로 이동 </div>
+                <div align="center"> ② move 1m to the right </div>
             </td>
         </tr>
         <tr>
@@ -192,10 +191,10 @@
         </tr>
         <tr>
             <td>
-                <div align="center"> ③ 1m 전진 </div>
+                <div align="center"> ③ 1m forward </div>
             </td>
             <td>
-                <div align="center"> ④ 1m 전진 </div>
+                <div align="center"> ④ 1m forward </div>
             </td>
         </tr>
         <tr>
@@ -211,20 +210,20 @@
         <tr>
             <td colspan="3">
                 <div align="left">
-                    ① 코딩드론이 출발할 위치와 도착할 위치의 번호를 친구가 말해주면 어떻게 주행할지 생각합니다. (ex: 7번에서 출발하여 3번으로 가세요.)<br>
-                    <font color="red"><b>※ 이때, 출발 위치에서 코딩드론의 앞쪽을 어느 방향(동서남북 중 선택)으로 할지도 친구가 지정해줍니다. (ex: 앞쪽을 북쪽 방향으로 놓으세요.)</b></font><br>
-                    ② “모션코딩 모드” 카드와 “코딩 시작” 카드를 순서대로 읽고, 평형을 유지한 채 코딩드론을 들어올려서 코딩 명령을 입력합니다.<br>
-                    ③ 코딩 명령을 모두 입력시킨 후 “코딩 끝” 카드를 읽어서 코딩을 완료합니다.<br>
+                    ① ①	If a friend tells you where the coding drone will depart from and the number of where it will arrive, it will think about how to fly. (ex: Start at No. 7 and go to No. 3.)<br>
+                    <font color="red"><b>※ At this time, your friend will also designate which direction the front of the coding drone should be directed (choose from east, west, north and south) from the starting position. (ex: Put the front side facing north.)</b></font><br>
+                    ②②	Read the “Motion Coding Mode” card and “Start Coding” card in order, and raise the coding drone while maintaining equilibrium to enter the coding command.<br>
+                    ③ ③	After entering all coding commands, read the “End coding” card to complete coding.<br>
                 </div>
             </td>
         </tr>
         <tr>
             <td rowspan="3">
-                <div align="center"><b>2단계</b>
+                <div align="center"><b>Step 2</b>
                 </div>
             </td>
             <td colspan="3"> 
-                <div align="center"> <b>코딩 실행하기</b></div>
+                <div align="center"> <b>run the code</b></div>
             </td>
         </tr>
         <tr>
@@ -235,9 +234,9 @@
         <tr>
             <td colspan="3">
                 <div align="left">
-                    코딩드론을 7번 위치에 올려놓고 동작버튼을 연속으로 2번 눌러서 코딩을 실행한 후 즉시 드론으로부터 안전 거리(2m)만큼 떨어집니다.<br>
-                    약 2~3초 후 코딩드론이 자동으로 코딩한 명령을 수행합니다. <br>
-                    코딩드론이 3번 위치까지 잘 이동하는지 확인하고, 만약 이동하지 않으면 어떤 부분이 잘못됐는지 확인하여 수정 후 재실행합니다.
+                    Put the coding drone on position 7 and press the operation button twice in a row to execute coding, and immediately move away from the drone by a safe distance (2m). <Br>
+                    After about 2-3 seconds, the coding drone automatically executes the coded command. <Br>
+                    Check if the coding drone moves well to position 3, and if it does not move, check which part is wrong, correct it and re-execute it.
                 </div>
             </td>
         </tr>
@@ -246,11 +245,7 @@
 
 <br>
 
-모션코딩으로 코딩드론을 도착지까지 잘 이동시킬 수 있었나요? <br>
-출발지에서 도착지까지 가는 경로는 여러가지가 있습니다. 다른 경로도 모션코딩으로 비행해보고, 친구들과 출발지와 도착지를 바꿔가면서 모션코딩 놀이를 즐겨보아요. <br>
-그리고 만약 드론이 비행 중일 때 갑자기 멈춰야 한다면, 앞서 배운 것처럼 조종기를 사용하여 조종모드로 변환 후 착륙시키면 됩니다. <br>
-조종기와 드론은 페어링이 되어있는 상태여야 하고, 조종기의 레버를 움직이면 바로 조종모드로 변환됩니다. <br>
-다시 모션코딩 모드로 전환하려면 “모션코딩 모드” 카드를 읽어주면 됩니다.
+Were you able to move the coding drone to its destination well with motion coding? There are several routes from the origin to the destination. Try flying other routes with motion coding, and enjoy the motion coding game while changing the starting point and destination with your friends. And if the drone needs to stop suddenly while in flight, you can use the remote controller to switch to the control mode and land it as we learned earlier. The remote controller and the drone must be paired, and when you move the lever of the remote controller, it immediately switches to the control mode. To switch back to motion coding mode, read the “Motion coding mode” card.
 
 <br>
 
@@ -259,25 +254,23 @@
 <br>
 
 <div align="center">
-    <h1>[정리하기]</h1>
+    <h1>[Organize]</h1>
 </div>
 
 <br>
 
-이번 강의에서는 코딩드론의 2번째 언플러그드 코딩 기능인 모션코딩을 해보았습니다. <Br>
-모션코딩을 할 때, 센서가 코딩드론의 기울어짐에 민감하기 때문에 평형을 잘 유지한 상태에서 정확한 방향으로 기울여야 합니다. <br>
-그리고 카드코딩과 동일하게 코딩의 처음과 끝에 “코딩 시작”과 “코딩 끝” 카드를 읽어줘야 한다는 것을 잊지 마세요.
+In this lecture, I tried motion coding, the second unplugged coding function of the coding drone. When performing motion coding, the sensor is sensitive to the inclination of the coding drone, so it must be tilted in the correct direction while maintaining a good balance. And don't forget to read the “Coding Start” and “End Coding” cards at the beginning and end of coding just like card coding.
 
 <div align="center">
     <table>
         <tr>
             <td>
                 <div align="left">
-                    1) 코딩드론으로 “모션코딩 모드” 카드를 읽으면 모션코딩 모드로 설정됩니다.<br>
-                    2) 모션코딩은 코딩드론을 특정 방향으로 기울여서 코딩 명령을 입력할 수 있고, 코딩 명령은 총 4가지입니다.<br>
-                    ☞	앞쪽 : 전진 / 뒤쪽 : 후진 / 왼쪽 : 좌로 이동 / 오른쪽 : 우로 이동 (이동 거리=1m)<Br>
-                    3)코딩드론의 내부 메인보드에 장착된 6축 자세센서가 기울어진 방향과 각도를 측정할 수 있습니다.<br>
-                    4)코딩드론을 기울일 때, 30도 이상 기울여야 하고 다시 원위치로 돌아와야 정상적으로 코딩 명령이 입력됩니다.<br>
+                    1) with coding drone“motion coding mode” When the card is read, it is set to motion coding mode.<br>
+                    2) Motion coding can input coding commands by tilting the coding drone in a specific direction, The coding instruction is 4Eggplant.<br>
+                    ☞	front : Advance / behind : junior / left : left move/ Right side : move right (travel distance =1m)<Br>
+                    3) It is installed on the internal main board of the coding drone.6The axis attitude sensor can measure the tilt direction and angle.<br>
+                    4) When tilting the coding drone, 30It has to tilt more than one degree and return to the original position for the coding command to be entered normally.<br>
                 </div>
             </td>
         </tr>
@@ -288,17 +281,17 @@
 
 ---
 
-### [드론으로 코딩해요](../)
+### [Coding with a coding drone (English)](../)
 
- 1. [코딩드론과 친구해요](../lesson1)
- 2. [코딩드론을 날려보아요](../lesson2)
- 3. [코딩드론으로 카드코딩해요(1)](../lesson3)
- 4. [코딩드론으로 카드코딩해요(2)](../lesson4)
- 5. [코딩드론으로 카드코딩해요(3)](../lesson5)
- 6. **코딩드론으로 모션코딩해요**
- 7. [코딩드론으로 블록코딩해요(1)](../lesson7)
- 8. [코딩드론으로 블록코딩해요(2)](../lesson8)
+ 1. [Make friends with Coding Drone!](../lesson1)
+ 2. [Let's fly a coding drone](../lesson2)
+ 3. [I code cards with a coding drone (1)](../lesson3)
+ 4. [I code cards with a coding drone (2)](../lesson4)
+ 5. [I code cards with a coding drone (3)](../lesson5)
+ 6. **Motion coding with a coding drone**
+ 7. [Block coding with a coding drone(1)](../lesson7)
+ 8. [Block coding with a coding drone(2)](../lesson8)
 
 ---
 
-Modified : 2021.1.15
+Modified : 2021.8.5

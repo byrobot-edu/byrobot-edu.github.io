@@ -261,10 +261,10 @@ If a problem occurs during use and it is difficult to solve, please contact the 
 
  1. **Make friends with Coding Drone!**
  2. [Let's fly a coding drone](../lesson2)
- 3. [I code cards with a coding drone (1)] - fifth week of July
- 4. [I code cards with a coding drone (2)] - fifth week of July
- 5. [I code cards with a coding drone (3)] - first week of August
- 6. [Motion coding with a coding drone] -first week of August
+ 3. [I code cards with a coding drone (1)](../lesson3)
+ 4. [I code cards with a coding drone (2)](../lesson4)
+ 5. [I code cards with a coding drone (3)](../lesson5)
+ 6. [Motion coding with a coding drone](../lesson6)
  7. [Block coding with a coding drone(1)](../lesson7)
  8. [Block coding with a coding drone(2)](../lesson8)
 
