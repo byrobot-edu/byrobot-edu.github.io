@@ -114,7 +114,7 @@ Motion coding is performed in the following order.
                 If the buzzer sounds when tilted and the buzzer sounds when you put it back to its original position, the motion command has been entered normally.<br>
                 <font color="red"><b>※ Tilt the GoCar at least 30 degrees when tilting it.</b></font>
                 <br><Br>
-                ② ②	To execute motion coding, place the coding drone on a flat surface and press the operation button 2 times in a row, after about 2 to 3 seconds, a buzzer sound (tiri-rik) is automatically executed.<br>
+                ② To execute motion coding, place the coding drone on a flat surface and press the operation button 2 times in a row, after about 2 to 3 seconds, a buzzer sound (tiri-rik) is automatically executed.<br>
                 <font color="red"><b>※ Immediately after running, you will move away from the drone by a safe distance. Beware of accidents!</b></font><br><br>
                 ③ Coding instructions entered once are stored in memory and can be executed continuously. However, it is reset when the power of the coding drone is turned off or the “Start coding” card is read again.<Br>
                 </div>
@@ -210,10 +210,10 @@ First, make an activity board on the floor as shown below. Make 9 squares with a
         <tr>
             <td colspan="3">
                 <div align="left">
-                    ① ①	If a friend tells you where the coding drone will depart from and the number of where it will arrive, it will think about how to fly. (ex: Start at No. 7 and go to No. 3.)<br>
+                    ① If a friend tells you where the coding drone will depart from and the number of where it will arrive, it will think about how to fly. (ex: Start at No. 7 and go to No. 3.)<br>
                     <font color="red"><b>※ At this time, your friend will also designate which direction the front of the coding drone should be directed (choose from east, west, north and south) from the starting position. (ex: Put the front side facing north.)</b></font><br>
-                    ②②	Read the “Motion Coding Mode” card and “Start Coding” card in order, and raise the coding drone while maintaining equilibrium to enter the coding command.<br>
-                    ③ ③	After entering all coding commands, read the “End coding” card to complete coding.<br>
+                    ② Read the “Motion Coding Mode” card and “Start Coding” card in order, and raise the coding drone while maintaining equilibrium to enter the coding command.<br>
+                    ③ After entering all coding commands, read the “End coding” card to complete coding.<br>
                 </div>
             </td>
         </tr>
@@ -294,4 +294,4 @@ In this lecture, I tried motion coding, the second unplugged coding function of 
 
 ---
 
-Modified : 2021.8.5
+Modified : 2021.8.4
