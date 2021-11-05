@@ -550,6 +550,8 @@ Now, based on the code you thought of, try to code it yourself and run it. Did y
 </div>
 
 <br>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/EDsZJTQVpDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<br>
 
 <h2>2. Move left/right</h2>
 
@@ -648,7 +650,7 @@ Now, based on the code you thought of, try to code it yourself and run it. Did y
     </table>
 </div>
 
-<br>
+<br><div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/CcfkKOOidew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
 
 <h2>3. Rise/Descent</h2>
 
@@ -748,6 +750,8 @@ Now, based on the code you thought of, try to code it yourself and run it. Did y
 </div>
 
 <br>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/viflqCxy5tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
 
 <h2>4. Rotate left/right</h2>
 
@@ -840,7 +844,6 @@ Now, based on the code you thought of, try to code it yourself and run it. Did y
             <div align="left">Place the coding drone on a flat surface with no people or obstacles nearby. <br>
             And press the action button twice in succession to execute the coding. <Br>
             After about 3 seconds, the coding drone automatically executes the coded command.<br><br>
-        
             <font color="red"><b>※ After pressing the action button, immediately move away from the drone by a safe distance. (Beware of safety accidents!)</b></font></div>
             </td>
         </tr>
@@ -848,6 +851,8 @@ Now, based on the code you thought of, try to code it yourself and run it. Did y
 </div>
 
 <br>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/wky0r9UjdiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
 
 <div align="center">
     <table>
