@@ -650,7 +650,8 @@ Now, based on the code you thought of, try to code it yourself and run it. Did y
     </table>
 </div>
 
-<br><div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/CcfkKOOidew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+<br>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/CcfkKOOidew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
 
 <h2>3. Rise/Descent</h2>
 

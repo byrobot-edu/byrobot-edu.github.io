@@ -244,6 +244,10 @@ First, make an activity board on the floor as shown below. Make 9 squares with a
 </div>
 
 <br>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xrQrXgTPthA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
+
+<br>
 
 Were you able to move the coding drone to its destination well with motion coding? There are several routes from the origin to the destination. Try flying other routes with motion coding, and enjoy the motion coding game while changing the starting point and destination with your friends. And if the drone needs to stop suddenly while in flight, you can use the remote controller to switch to the control mode and land it as we learned earlier. The remote controller and the drone must be paired, and when you move the lever of the remote controller, it immediately switches to the control mode. To switch back to motion coding mode, read the “Motion coding mode” card.
 
