@@ -75,8 +75,8 @@ Connect the coding drone to the <B>Rockitbrick</b> as follows.
     <br>
 </div><br>
 4) Program Download & Setup<br><br>
-☞ [Rokitbrick Download (Windows Version)](http://gofile.me/6HXSL/v45Lp29aG)<br>
-☞ [Rokitbrick Download (MAC OS Version)](http://gofile.me/6HXSL/APbxmGssj)
+☞ [Rokitbrick Download (Windows Version)](https://alux1004-my.sharepoint.com/:u:/g/personal/skji_aluxonline_com/Ef_jHqXfgXNAn76s77ZyIJoBRI8a-4XLmftWEOVF-9HCiQ?e=lprVr9)<br>
+☞  [Drone Scratch](https://sites.google.com/alux-platform.com/drone-scratch-en/home)
 <br><Br>
 5) Run Rockitbrick and click [SELECT]
 <div align="center">
